@@ -3,7 +3,7 @@
 
 ### Programme 1ère partie
 
-- [1.01 Les grandeurs électriques](https://youtu.be/BNpGLPDqrYg) / [Notes](CAP Elec_1_01.md)
+- [1.01 Les grandeurs électriques](https://youtu.be/BNpGLPDqrYg) / [Notes](./CAP Elec_1_01.md)
 - [1.01 Les grandeurs électriques **QCM**](./QCMs/1_01 QCM.md)
 - [1.02 AC : DC](https://youtu.be/ZubeDL4bBZ0) / [Notes](CAP Elec_1_02.md)
 - [1.03 Résistances](https://youtu.be/ngCHGVHVL3k) / [Notes](CAP Elec_1_03.md)
