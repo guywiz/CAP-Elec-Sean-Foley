@@ -30,4 +30,4 @@ Les disjoncteurs agencent les deux protections contre les surcharges et courts-c
 
 Une bobine réagit à un court circuit en induisant un fort champ magnétique qui va, de la même manière, provoquer une déplacment d'une pièce qui va libérer le resort et provoquer l'ouverture du circuit.
 
-[Cette vidéo propose une excellente illustration du fonctinonnement du disjoncteur.](https://www.youtube.com/watch?v=6R86np4HsXo&ab_channel=ElectroMooc)
+[Cette vidéo propose une excellente illustration du fonctionnement du disjoncteur.](https://www.youtube.com/watch?v=6R86np4HsXo&ab_channel=ElectroMooc)
