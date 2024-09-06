@@ -14,7 +14,7 @@
 - [1.05 Branchement ENEDIS](https://youtu.be/5sb8Nx8I8fk) / [Notes](CAP_Elec_1_05.md)
 - [1.06 Protections 1](https://youtu.be/NFdUS3kmSCI) / [Notes](CAP_Elec_1_06.md)
 - [1.07 Protections 2](https://youtu.be/JUcMXK3wq50) / [Notes](CAP_Elec_1_07.md)
-- QCM
+- [1.07 Les protections **QCM**](./QCMs/1_07_QCM.md)
 - [1.08 Eclairage 1](https://youtu.be/CJScY8vPzTY)
 - [1.09 Eclairage 2](https://youtu.be/HF4ajbxFd2o)
 - [1.10 Eclairage 3](https://youtu.be/4gUAQGN9zc8)
