@@ -24,3 +24,17 @@ pour créer le chemin terre-terre TT.
  - Dans ce cas, on voir parfois une pastille sur le coffret du CCPI qui permet de relever le compter depuis l'extérieur, c'est un ***BTR boitier télé-report***.
 - Lorsque seul le CCPI ets en bordure de propriété et que le compteur et l'AGCP (disjoncteur d'abonné) sont placés au niveau de la GTL.
 
+#### Ampérage et dimension des câbles
+
+(Ces notions ne sont pas discutées dans la vidéo, je les reprnd d'un tableau qui apparait en début de vidéo où sont listées les correspondances)
+
+
+| Section de fil minimum en mm² | Disjoncteur Calibre maximum en Ampères |
+| ----------------------------- | -------------------------------------- |
+|              1.5              |                  16A                   |
+|              2.5              |                  20A                   |
+|              4                |                  25A                   |
+|              6                |                  32A                   |
+|              10               |                  50A                   |
+|              16               |                  63A                   |
+
