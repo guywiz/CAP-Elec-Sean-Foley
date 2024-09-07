@@ -6,7 +6,9 @@
 - [1.01 Les grandeurs électriques](https://youtu.be/BNpGLPDqrYg) / [Notes](./CAP_Elec_1_01.md)
 - [Notes](https://github.com/guywiz/CAP-Elec-Sean-Foley/blob/main/CAP%20Elec_1_01.md)
 
-**QCM** [1.01 Les grandeurs électriques **QCM**](./QCMs/1_01_QCM.md)
+#### <span style="color:blue">QCM</span>
+
+- [1.01 Les grandeurs électriques **QCM**](./QCMs/1_01_QCM.md)
 
 - [1.02 AC : DC](https://youtu.be/ZubeDL4bBZ0) / [Notes](CAP_Elec_1_02.md)
 - [1.03 Résistances](https://youtu.be/ngCHGVHVL3k) / [Notes](CAP_Elec_1_03.md)
