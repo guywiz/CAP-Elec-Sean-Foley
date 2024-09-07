@@ -5,16 +5,22 @@
 
 - [1.01 Les grandeurs électriques](https://youtu.be/BNpGLPDqrYg) / [Notes](./CAP_Elec_1_01.md)
 - [Notes](https://github.com/guywiz/CAP-Elec-Sean-Foley/blob/main/CAP%20Elec_1_01.md)
-- [1.01 Les grandeurs électriques **QCM**](./QCMs/1_01_QCM.md)
+
+**QCM** [1.01 Les grandeurs électriques **QCM**](./QCMs/1_01_QCM.md)
+
 - [1.02 AC : DC](https://youtu.be/ZubeDL4bBZ0) / [Notes](CAP_Elec_1_02.md)
 - [1.03 Résistances](https://youtu.be/ngCHGVHVL3k) / [Notes](CAP_Elec_1_03.md)
-- [1.03 Résistances **QCM**](./QCMs/1_03_QCM.md)
+
+**QCM** [1.03 Résistances **QCM**](./QCMs/1_03_QCM.md)
+
 - [1.03B Impédances](https://youtu.be/2CV95VA8dQQ) / [Notes](CAP_Elec_1_03B.md)
 - [1.04 GTL & ETEL](https://youtu.be/xuFOlUG-MCU) / [Notes](CAP_Elec_1_04.md)
 - [1.05 Branchement ENEDIS](https://youtu.be/5sb8Nx8I8fk) / [Notes](CAP_Elec_1_05.md)
 - [1.06 Protections 1](https://youtu.be/NFdUS3kmSCI) / [Notes](CAP_Elec_1_06.md)
 - [1.07 Protections 2](https://youtu.be/JUcMXK3wq50) / [Notes](CAP_Elec_1_07.md)
-- [1.07 Les protections **QCM**](./QCMs/1_07_QCM.md)
+
+**QCM** [1.07 Les protections **QCM**](./QCMs/1_07_QCM.md)
+
 - [1.08 Eclairage 1](https://youtu.be/CJScY8vPzTY)
 - [1.09 Eclairage 2](https://youtu.be/HF4ajbxFd2o)
 - [1.10 Eclairage 3](https://youtu.be/4gUAQGN9zc8)
