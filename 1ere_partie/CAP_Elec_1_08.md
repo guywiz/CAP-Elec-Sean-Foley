@@ -5,9 +5,14 @@
 
 - **Accès à la vidéo** [1.08 Eclairage 1](https://youtu.be/CJScY8vPzTY)
 
-#### Commandes d'éclairage 1: SA, DA, VV (+ perm.), TL
+#### Commandes d'éclairage 1:
 
-Schéma développé: plusieeurs façons de faire, phase et neutre à l'horizontale ou à la verticale ...
+- SA (simple allumgae),
+- DA (double allumage),
+- VV (va-et-vient) + permutateur,
+- TL (télérupteur)
+
+Schéma développé: plusieurs façons de faire, phase et neutre à l'horizontale ou à la verticale ...
 
 ![Simple allumage](./images/Simple_allumage.png)
 
