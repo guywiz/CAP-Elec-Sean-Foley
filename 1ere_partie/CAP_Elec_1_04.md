@@ -1,5 +1,5 @@
 # CAP Elec 1.04 GTL & ETEL
-## Foley Services Elec - [Programme 1ère partie](CAP Elec.md)
+## Foley Services Elec - [Programme 1ère partie](../README.md)
 
 ### 1.04 GTL & ETEL
 

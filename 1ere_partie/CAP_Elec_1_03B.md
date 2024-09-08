@@ -1,5 +1,5 @@
 # CAP Elec 1.03B Impédance
-## Foley Services Elec - [Programme 1ère partie](CAP Elec.md)
+## Foley Services Elec - [Programme 1ère partie](../README.md)
 
 ### 1.03B Impédance
 
@@ -14,7 +14,7 @@ Il existe aussi d'autres composants qui opposent une résistance et qui sont:
 - <img src="./images/Bobine.png" width="50" height="50"> les bobines, présent dans les télérupteurs, par exemple
  - On note $$X_L$$ la *réactance* d'une bobine
 
-- <img src="./images/Condensateur.png" width="50" height="50"> les condensateurs, présents en électronique mais aussi dans certians appareils (éclairage fluorescent, par exemple).
+- <img src="./images/Condensateur.png" width="50" height="50"> les condensateurs, présents en électronique mais aussi dans certains appareils (éclairage fluorescent, par exemple).
  - On note $$X_C$$ la *réactance* d'un condensateur
 
 Les résistances induites par ces différents éléments ne s'additionnent pas (comme on l'a fait pour les résistances dans la leçon précédente), bien qu'on puisse calculer la résistance totale qu'amène ces dispositifds dans un circuit à l'aide de la formule:

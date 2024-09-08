@@ -1,5 +1,5 @@
 # CAP Elec 1.02 AC : DC
-## Foley Services Elec - [Programme 1ère partie](CAP Elec.md)
+## Foley Services Elec - [Programme 1ère partie](../README.md)
 
 ### 1.02 AC : DC
 

@@ -1,5 +1,5 @@
 # CAP Elec 1.05 Branchement ENEDIS
-## Foley Services Elec - [Programme 1ère partie](CAP Elec.md)
+## Foley Services Elec - [Programme 1ère partie](../README.md)
 
 ### 1.05 Branchement ENEDIS
 
@@ -26,7 +26,7 @@ pour créer le chemin terre-terre TT.
 
 #### Ampérage et dimension des câbles
 
-(Ces notions ne sont pas discutées dans la vidéo, je les reprnd d'un tableau qui apparait en début de vidéo où sont listées les correspondances)
+(Ces notions ne sont pas discutées dans la vidéo, je les reprend d'un tableau qui apparait en début de vidéo où sont listées les correspondances)
 
 
 | Section de fil minimum en mm² | Disjoncteur Calibre maximum en Ampères |

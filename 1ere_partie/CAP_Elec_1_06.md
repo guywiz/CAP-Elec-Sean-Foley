@@ -1,5 +1,5 @@
 # CAP Elec 1.06 Protections 1
-## Foley Services Elec - [Programme 1ère partie](CAP Elec.md)
+## Foley Services Elec - [Programme 1ère partie](../README.md)
 
 ### 1.06 Protections 1
 
@@ -24,7 +24,7 @@ On considère deux types de protection:
  - Ils ne sont pas autorisés aujourd'hui dans le sinstallations neuves ou lors de rénovation totale (reprise du tableau, par exemmle).
 - Par construction, lors de court-circuit, le filament interne au fusible va réagir à la forte intensité quisuit d'un court-circuit et va fondre quasimnent instantanément.
 
-Une installation e tarif bleu (max 60A), un court-circuit ne dépassera jamais 3kA. Un disjoncteur Legrand C16 va ouvrir lors d'un court-circuit jusqu'à 4,5kA (son ***pouvoir de coupure***).
+Une installation tarif bleu (max 60A), un court-circuit ne dépassera jamais 3kA. Un disjoncteur Legrand C16 va ouvrir lors d'un court-circuit jusqu'à 4,5kA (son ***pouvoir de coupure***).
 
 Les disjoncteurs agencent les deux protections contre les surcharges et courts-circuits. Les bi-lames assurent une protection contre les surcharge, en se pliant à cause d'une surchauffe et en débloquant le ressort qui va s'étirer (il est compressé quand on ferme le circuit).
 
