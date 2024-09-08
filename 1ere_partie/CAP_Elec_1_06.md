@@ -1,5 +1,5 @@
 # CAP Elec 1.06 Protections 1
-## Foley Services Elec - [Programme 1ère partie](../README.md)
+## Foley Services Elec - [Programme 1ère partie](../1ere_partie/README.md)
 
 ### 1.06 Protections 1
 

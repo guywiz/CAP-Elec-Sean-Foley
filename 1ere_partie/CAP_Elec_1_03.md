@@ -1,5 +1,5 @@
 # CAP Elec 1.03 Résistances
-## Foley Services Elec - [Programme 1ère partie](../README.md)
+## Foley Services Elec - [Programme 1ère partie](../1ere_partie/README.md)
 
 ### 1.03 Résistances
 
