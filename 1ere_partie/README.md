@@ -23,7 +23,7 @@
 
 ---
 
-- [1.08 Eclairage 1](https://youtu.be/CJScY8vPzTY)
+- [1.08 Eclairage 1](https://youtu.be/CJScY8vPzTY) / [Notes](CAP_Elec_1_08.md)
 - [1.09 Eclairage 2](https://youtu.be/HF4ajbxFd2o)
 - [1.10 Eclairage 3](https://youtu.be/4gUAQGN9zc8)
 - [1.11 Eclairage 4](https://youtu.be/Tcn99FxoUyU)
