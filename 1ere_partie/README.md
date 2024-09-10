@@ -23,8 +23,8 @@
 
 ---
 
-- [1.08 Eclairage 1](https://youtu.be/CJScY8vPzTY) / [Notes](CAP_Elec_1_08.md)
-- [1.09 Eclairage 2](https://youtu.be/HF4ajbxFd2o) / [Notes](CAP_Elec_1_09.md)
+- [1.08 Eclairage 1 - SA, DA, VV et permutateur, TL](https://youtu.be/CJScY8vPzTY) / [Notes](CAP_Elec_1_08.md)
+- [1.09 Eclairage 2 - Minuterie](https://youtu.be/HF4ajbxFd2o) / [Notes](CAP_Elec_1_09.md)
 - [1.10 Eclairage 3](https://youtu.be/4gUAQGN9zc8)
 - [1.11 Eclairage 4](https://youtu.be/Tcn99FxoUyU)
 - [1.12 Eclairage 5](https://youtu.be/MtHUoRPuUdQ)
