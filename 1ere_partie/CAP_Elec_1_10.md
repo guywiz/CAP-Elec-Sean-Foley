@@ -16,7 +16,7 @@ Discussion sur la capacité d'un détecteur passif à détecter le mouvemnt, qui
 
 <img src="./images/Detecteur_mouvement.png" width="50%">
 
-- Une phase qui va vers le onctact, le retour lampe, une pahse qui va vers la carte électronique qui contrôle le contact
+- Une phase qui va vers le contact, le retour lampe, une phase qui va vers la carte électronique qui contrôle le contact
 - - Une neutre qui va vers la lampe, un neutre vers la carte électronique qui contrôle le contact
 
 Le schéma est simplifié: L (phase), L1 (retour lampe), N (neutre)
