@@ -1,9 +1,9 @@
-# CAP Elec 1.10 Eclairage 3 Détecteur de mouvement
+# CAP Elec 1.10 Eclairage 3 - Détecteur de mouvement
 ## Foley Services Elec - [Programme 1ère partie](../1ere_partie/README.md)
 
 ### 1.10 Eclairage 3 - Détecteur de mouvement
 
-- **Accès à la vidéo** [1.10 Eclairage 2](https://youtu.be/4gUAQGN9zc8)
+- **Accès à la vidéo** [1.10 Eclairage 3](https://youtu.be/4gUAQGN9zc8)
 
 #### Détecteur de mouvement
 

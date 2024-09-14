@@ -1,4 +1,4 @@
-# CAP Elec 1.09 Eclairage 2 Minuterie
+# CAP Elec 1.09 Eclairage 2 - Minuterie
 ## Foley Services Elec - [Programme 1ère partie](../1ere_partie/README.md)
 
 ### 1.09 Eclairage 2 Minuterie

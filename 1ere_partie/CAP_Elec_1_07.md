@@ -1,9 +1,9 @@
-# CAP Elec 1.07 Protections 2
+# CAP Elec 1.07 Protections 2 - Interrupteurs et disjoincteurs différentiels
 ## Foley Services Elec - [Programme 1ère partie](../1ere_partie/README.md)
 
-### 1.07 Protections 2
+### 1.07 Protections 2 - Interrupteurs et disjoincteurs différentiels
 
-- **Accès à la vidéo** [1.07 Protections 2](https://youtu.be/JUcMXK3wq50)
+- **Accès à la vidéo** [1.07 Protections 2 - Interrupteurs et disjoincteurs différentiels](https://youtu.be/JUcMXK3wq50)
 
 #### Intro
 

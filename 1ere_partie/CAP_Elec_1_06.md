@@ -1,9 +1,9 @@
-# CAP Elec 1.06 Protections 1
+# CAP Elec 1.06 Protections 1 - Surcharge et court-circuit
 ## Foley Services Elec - [Programme 1ère partie](../1ere_partie/README.md)
 
-### 1.06 Protections 1
+### 1.06 Protections 1 - Surcharge et court-circuit
 
-- **Accès à la vidéo** [1.06 Protections 1](https://youtu.be/NFdUS3kmSCI)
+- **Accès à la vidéo** [1.06 Protections 1 - Surcharge et court-circuit](https://youtu.be/NFdUS3kmSCI)
 
 #### Intro
 

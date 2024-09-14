@@ -1,4 +1,4 @@
-# CAP Elec 1.08 Eclairage 1 SA, DA, VV, TL
+# CAP Elec 1.08 Eclairage 1 - SA, DA, VV, TL
 ## Foley Services Elec - [Programme 1ère partie](../1ere_partie/README.md)
 
 ### 1.08 Eclairage 1 - SA, DA, VV et permutateur, TL
