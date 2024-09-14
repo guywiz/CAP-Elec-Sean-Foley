@@ -26,7 +26,7 @@
 - [1.08 Eclairage 1 - SA, DA, VV et permutateur, TL](https://youtu.be/CJScY8vPzTY) / [Notes](CAP_Elec_1_08.md)
 - [1.09 Eclairage 2 - Minuterie](https://youtu.be/HF4ajbxFd2o) / [Notes](CAP_Elec_1_09.md)
 - [1.10 Eclairage 3 - Détecteur de mouvement](https://youtu.be/4gUAQGN9zc8) / [Notes](CAP_Elec_1_10.md)
-- [1.11 Eclairage 4](https://youtu.be/Tcn99FxoUyU)
+- [1.11 Eclairage 4 - Interrupteurs horaire, crépusculaire et astronomique](https://youtu.be/Tcn99FxoUyU) / [Notes](CAP_Elec_1_11.md)
 - [1.12 Eclairage 5](https://youtu.be/MtHUoRPuUdQ)
 - [1.13 Eclairage 6](https://youtu.be/dws48fPJQ7I)
 - [1.14 Eclairage 7](https://youtu.be/3oMIf79VHwU)
