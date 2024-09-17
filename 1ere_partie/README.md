@@ -28,7 +28,7 @@
 - [1.10 Eclairage 3 - Détecteur de mouvement](https://youtu.be/4gUAQGN9zc8) / [Notes](CAP_Elec_1_10.md)
 - [1.11 Eclairage 4 - Interrupteurs horaire, crépusculaire et astronomique](https://youtu.be/Tcn99FxoUyU) / [Notes](CAP_Elec_1_11.md)
 - [1.12 Eclairage 5 - Voyants lumineux et témoins](https://youtu.be/MtHUoRPuUdQ) / [Notes](CAP_Elec_1_12.md)
-- [1.13 Eclairage 6](https://youtu.be/dws48fPJQ7I)
+- [1.13 Eclairage 6 - Variateurs](https://youtu.be/dws48fPJQ7I) / [Notes](CAP_Elec_1_13.md)
 - [1.14 Eclairage 7](https://youtu.be/3oMIf79VHwU)
 - [1.15 Eclairage 8](https://youtu.be/hgDzZm1hEZg)
 - [1.16 Eclairage 9](https://youtu.be/TU4D8IpbF-Y)
