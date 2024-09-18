@@ -30,7 +30,7 @@
 - [1.12 Eclairage 5 - Voyants lumineux et témoins](https://youtu.be/MtHUoRPuUdQ) / [Notes](CAP_Elec_1_12.md)
 - [1.13 Eclairage 6 - Variateurs](https://youtu.be/dws48fPJQ7I) / [Notes](CAP_Elec_1_13.md)
 - [1.14 Eclairage 7 - DCL](https://youtu.be/3oMIf79VHwU) / [Notes](CAP_Elec_1_14.md)
-- [1.15 Eclairage 8](https://youtu.be/hgDzZm1hEZg)
+- [1.15 Eclairage 8 - Spots encastrés](https://youtu.be/hgDzZm1hEZg) / [Notes](CAP_Elec_1_15.md)
 - [1.16 Eclairage 9](https://youtu.be/TU4D8IpbF-Y)
 - [1.16B Eclairage 10](https://youtu.be/G4lGxvlZ0cs)
 - QCM
