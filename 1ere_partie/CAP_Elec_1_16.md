@@ -9,7 +9,7 @@
 
 Un peu d'histoire. Enseignes autrefois fabriqué à l'aide de néon (tube contenant du gaz néon, alimenté HTA 2000-2500V). Les pompiers pouvait accéder au dispositif Inter Pompier pour éteindre l'enseigne.
 
-Installé à 2,80m ou 3m, il ne peu têtre attteint sans perche, mais ne nécessite pas des pompiers autre chose que la perche pour mettre le circuit hors tension.
+Installé à 2,80m ou 3m, il ne peut être attteint sans perche, mais ne nécessite pas des pompiers autre chose que la perche pour mettre le circuit hors tension.
 
 <img src="./images/Inter_pompier.jpg" width="50%">
 
