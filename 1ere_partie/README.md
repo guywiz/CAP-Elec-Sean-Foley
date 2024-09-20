@@ -32,7 +32,7 @@
 - [1.14 Eclairage 7 - DCL](https://youtu.be/3oMIf79VHwU) / [Notes](CAP_Elec_1_14.md)
 - [1.15 Eclairage 8 - Spots encastrés](https://youtu.be/hgDzZm1hEZg) / [Notes](CAP_Elec_1_15.md)
 - [1.16 Eclairage 9 - Interrupteur / Coupure Pompier](https://youtu.be/TU4D8IpbF-Y) / [Notes](CAP_Elec_1_16.md)
-- [1.16B Eclairage 10](https://youtu.be/G4lGxvlZ0cs) / [Notes](CAP_Elec_1_16B.md)
+- [1.16B Eclairage 10](https://youtu.be/gmlp44cK7Yk) / [Notes](CAP_Elec_1_16B.md)
 
 **QCM** [1.16 L'éclairage **QCM**](./QCMs/1_16_QCM.md)
 
