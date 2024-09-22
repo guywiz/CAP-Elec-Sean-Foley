@@ -45,7 +45,7 @@
 - [1.17 Les prises (PC)](https://youtu.be/M5BVPGbeiAw) / [Notes](CAP_Elec_1_17.md)
 - [1.18 Plaque de cuisson](https://youtu.be/VizrZvFazS4) / [Notes](CAP_Elec_1_18.md)
 - [1.19 Fils, câbles et gaines](https://youtu.be/7zpijlxw8Jw) / [Notes](CAP_Elec_1_19.md)
-- [1.20 Attacher les fils](https://youtu.be/qQ7J0bxueS0)
+- [1.20 Attacher les fils](https://youtu.be/qQ7J0bxueS0) / [Notes](CAP_Elec_1_20.md)
 
 ---
 
