@@ -1,7 +1,7 @@
 # CAP Elec Tableau récapitulatif câblage prises de courant
 ## Foley Services Elec - [Programme 1ère partie](../1ere_partie/README.md)
 
-#### Tableau récapitulatif Ampérage et dimension des câbles
+### Tableau récapitulatif Ampérage et dimension des câbles
 
 | Section de fil minimum en mm² | Disjoncteur Calibre maximum en Ampères |
 | ----------------------------- | -------------------------------------- |
