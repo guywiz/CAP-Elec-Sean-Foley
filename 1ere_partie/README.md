@@ -3,7 +3,7 @@
 
 ### Addendum
 
-- [Tableau récapitulatif câblage prises de courant](./CAP_Elec_Tableau_Recapitulatif.md)
+- [Tableaux récapitulatifs section, ampérage, câblage prises de courant](./CAP_Elec_Tableaux_Recapitulatifs.md)
 
 ### Programme 1ère partie
 
