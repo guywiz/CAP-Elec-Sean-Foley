@@ -1,6 +1,10 @@
 # CAP Elec Programme 1ère partie
 ## Foley Services Elec
 
+### Addendum
+
+- [Tableau récapitulatif câblage prises de courant](./CAP_Elec_Tableau_Recapitulatif.md)
+
 ### Programme 1ère partie
 
 - [1.01 Les grandeurs électriques](https://youtu.be/BNpGLPDqrYg) / [Notes](./CAP_Elec_1_01.md)
