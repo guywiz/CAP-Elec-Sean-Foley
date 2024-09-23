@@ -49,7 +49,7 @@
 
 ---
 
-- [1.21 Le multimètre](https://youtu.be/A37xp-oW7IQ)
+- [1.21 Le multimètre](https://youtu.be/A37xp-oW7IQ) / [Notes](CAP_Elec_1_21.md)
 - [1.22 Recherche période en entreprise](https://youtu.be/b9D4YOapaas)
 - [1.23 Outillage d’électricien(ne)](https://youtu.be/Uoy_TMYy3Yw)
 - [1.24 Dénuder fils & câbles](https://youtu.be/eELPhmZnZrU)
