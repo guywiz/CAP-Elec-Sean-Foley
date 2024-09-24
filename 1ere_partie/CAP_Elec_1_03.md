@@ -37,7 +37,9 @@ Analogie avec le flux d'un cours d'eau qui se partage entre deux chemins.
 
 Chacune des résistances est alors soumise à la même différence de potentiel, celle du circuit (dans l'exemple $$U = 10 V$$).
 
-On peut calculer l'intensité dans chacune des "bracnehs" du circuit en appliquant la formule $$I_1 = U/R_1$$, $$I_2 = U/R_2$$. L'intensité du circuit est alors égale à la somme $$I_1 + I_2 = U \cdot \frac{R_1 \cdot R_2}{R_1 + R_2}$$.
+On peut calculer l'intensité dans chacune des "branches" du circuit en appliquant la formule $$I_1 = U/R_1$$, $$I_2 = U/R_2$$. L'intensité du circuit est alors égale à la somme $$I_1 + I_2 = U \cdot \frac{R_1 + R_2}{R_1 \cdot R_2}$$.
+
+La résistance est donc égale à $$\frac{1}{\frac{R_1 + R_2}{R_1 \cdot R_2}} = \frac{R_1 \cdot R_2}{R_1 + R_2}$$.
 
 Dans l'exemple, si $$R_1 = 2\Omega$$ et $$R_2 = 8\Omega$$, puisque la différence de potentiel est de $$U = 10V$$, on trouve une intensité de $$I_1 + I_2 = 5A + 1.25A = 6.25A$$.
 
