@@ -52,7 +52,7 @@
 - [1.21 Le multimètre](https://youtu.be/A37xp-oW7IQ) / [Notes](CAP_Elec_1_21.md)
 - [1.22 Recherche période en entreprise](https://youtu.be/b9D4YOapaas)
 - [1.23 Outillage d’électricien(ne)](https://youtu.be/Uoy_TMYy3Yw) / [Notes](CAP_Elec_1_23.md)
-- [1.24 Dénuder fils & câbles](https://youtu.be/eELPhmZnZrU)
+- [1.24 Dénuder fils & câbles](https://youtu.be/eELPhmZnZrU) / [Notes](CAP_Elec_1_24.md)
 - [1.25 Faire des boites](https://youtu.be/6ADzZg6S6-4)
 - [1.26 Testeur des prises](https://youtu.be/UkJkzR5oeZg)
 - [1.27 Testeur de différentiels](https://youtu.be/9i7WhVqjMvo)
