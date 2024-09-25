@@ -37,9 +37,17 @@ Budget global environ 200€
 
 | Outil | Prix approx. | Photo |
 |-------|--------------|-------|
-| Pince pour cheville Molly 15€ | - | <img src="./images/Pince_Molly.jpeg" width="30%"> |
-| Cisaille 15€ - 20€ | - | <img src="./images/Cisaille.png" width="30%"> |
+| Pince pour cheville Molly | 15€ | <img src="./images/Pince_Molly.jpeg" width="30%"> |
+| Cisaille | 15€ - 20€ | <img src="./images/Cisaille.png" width="30%"> |
 | Pince Colson | - | <img src="./images/Pince_Colson.jpeg" width="30%"> |
 | Multimètre (à pince ampèremétrique) | - | <img src="./images/Multimetre_amperemetrique.jpeg" width="30%"> |
 
+#### Quelques autres idées
+
+Ces idées sont de moi, pas de Sean ...
+
+| Outil | Prix approx. | Photo |
+|-------|--------------|-------|
+| Détecteur mural (métal, bois, courant) | 60€ - 90€ | <img src="./images/Detecteur_mural.png" width="20%"> |
+| Cutter | 15€ | <img src="./images/Cutter.jpeg" width="30%"> |
 
