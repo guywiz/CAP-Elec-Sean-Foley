@@ -15,14 +15,14 @@ Pour mesurer une résistance, il faut impérativement ***être hors tension*** a
 
 L'appareil émet un son (bip) s'il y a une continuité. Mais qu'est-ce qu'une continuité ?
 
-- La continuité de terre est de 2$$\Omega$$ maximum
+- La continuité de terre est de 2 $$\Omega$$ maximum
 - L'appareil bip à moins de 40 $$\Omega$$
 
 Ainsi, lors du test de continuité de terre (entre par exemple la terre d'une prise courant et la terre du tableau), si la résistance est de 30 $$\Omega$$, l'appareil va biper -- alors que la résistance max autorisé ets de 2 $$\Omega$$ (!!!)
 
 #### Voltmètre - Tension
 
-La norme 18 510 (concernant tout ce qui est sécurité électrique) impose le port des EPI (équipements de protection individuels), vêtement non propriétaire de la flamme, etc. lorsqu'on est à proximité (moins de 30cm) d'un appareil sous tension.
+La norme NF 18-510 (concernant tout ce qui est sécurité électrique) impose le port des EPI (équipements de protection individuels), vêtement non propriétaire de la flamme, etc. lorsqu'on est à proximité (moins de 30cm) d'un appareil sous tension.
 
 Pour mesurer la tension, on met l'appareil sur la position "V". L'appareil est souvent en mode "DC" par défaut (courant continu), et il faut avant d'effectuer la mesure faire passer l'appareil en mode "AC" (courant alternatif).
 
