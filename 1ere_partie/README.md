@@ -55,7 +55,7 @@
 - [1.24 Dénuder fils & câbles](https://youtu.be/eELPhmZnZrU) / [Notes](CAP_Elec_1_24.md)
 - [1.25 Faire des boîtes de dérivation](https://youtu.be/6ADzZg6S6-4) / [Notes](CAP_Elec_1_25.md)
 - [1.26 Testeur des prises](https://youtu.be/UkJkzR5oeZg) / [Notes](CAP_Elec_1_26.md)
-- [1.27 Testeur de différentiels](https://youtu.be/9i7WhVqjMvo)
+- [1.27 Testeur de différentiels](https://youtu.be/9i7WhVqjMvo) / [Notes](CAP_Elec_1_27.md)
 
 ---
 
