@@ -59,28 +59,28 @@
 
 ---
 
-- [1.28 Les faux plafonds](https://youtu.be/7TmmokNonGY)
-- [1.29 Les plans électriques](https://youtu.be/18_gyriwtQ4)
-- [1.30 Recherche d’entreprise 2](https://youtu.be/uPxI4AQ0yn8)
+- [1.28 Les faux plafonds](https://youtu.be/7TmmokNonGY) / [Notes](CAP_Elec_1_28.md)
+- [1.29 Les plans électriques](https://youtu.be/18_gyriwtQ4) / [Notes](CAP_Elec_1_29.md)
+- [1.30 Recherche d’entreprise 2](https://youtu.be/uPxI4AQ0yn8) / [Notes](CAP_Elec_1_30.md)
 
 ---
 
-- [1.31 Classes / IP](https://youtu.be/CYTlxeuK7Bc)
-- [1.32 La salle de bains](https://youtu.be/6hM56Hh6bjE)
+- [1.31 Classes / IP](https://youtu.be/CYTlxeuK7Bc) / [Notes](CAP_Elec_1_31.md)
+- [1.32 La salle de bains](https://youtu.be/6hM56Hh6bjE) / [Notes](CAP_Elec_1_32.md)
 
 ---
 
-- [1.33 Liaison équipotentiel Principal](https://youtu.be/n4e2tvvMp3g)
-- [1.34 Réalisation terre](https://youtu.be/XEFzNvb5wEM)
-- [1.35 Test terre](https://youtu.be/6RQQ4GZxY0w)
-- [1.36 Test terre pratique](https://youtu.be/umzNrkhozAs)
-- [1.37 Terre résumée](https://youtu.be/0INst5_C6Ks)
+- [1.33 Liaison équipotentiel Principal](https://youtu.be/n4e2tvvMp3g) / [Notes](CAP_Elec_1_33.md)
+- [1.34 Réalisation terre](https://youtu.be/XEFzNvb5wEM) / [Notes](CAP_Elec_1_34.md)
+- [1.35 Test terre](https://youtu.be/6RQQ4GZxY0w) / [Notes](CAP_Elec_1_35.md)
+- [1.36 Test terre pratique](https://youtu.be/umzNrkhozAs) / [Notes](CAP_Elec_1_36.md)
+- [1.37 Terre résumée](https://youtu.be/0INst5_C6Ks) / [Notes](CAP_Elec_1_37.md)
 - QCM
 
 ---
 
-- [1.38 La Diagnostique](https://youtu.be/rxcyqBwmhUQ)
-- [1.39 Exercice cage escalier](https://youtu.be/_1x-YoNrlTU)
-- [1.40 SLT (régime de neutre)](https://youtu.be/y-40KXzLjjk)
+- [1.38 La Diagnostique](https://youtu.be/rxcyqBwmhUQ) / [Notes](CAP_Elec_1_38.md)
+- [1.39 Exercice cage escalier](https://youtu.be/_1x-YoNrlTU) / [Notes](CAP_Elec_1_39.md)
+- [1.40 SLT (régime de neutre)](https://youtu.be/y-40KXzLjjk) / [Notes](CAP_Elec_1_40.md)
 - QCM
 
