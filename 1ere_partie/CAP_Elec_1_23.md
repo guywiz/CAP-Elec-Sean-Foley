@@ -8,7 +8,7 @@
 #### Caisse d'outils a minima
 
 - Agence d'intérim, il faut avoir un minimum d'outillage
-- Impact sur le jury de l'épreuve, du sérieux de la cnadidature, en capacité d'aller travailler dès l'obtention du diplôme
+- Impact sur le jury de l'épreuve, du sérieux de la candidature, en capacité d'aller travailler dès l'obtention du diplôme
 
 Budget global environ 200€
 
