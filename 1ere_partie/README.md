@@ -61,7 +61,7 @@
 
 - [1.28 Les faux plafonds](https://youtu.be/7TmmokNonGY) / [Notes](CAP_Elec_1_28.md)
 - [1.29 Les plans électriques](https://youtu.be/18_gyriwtQ4) / [Notes](CAP_Elec_1_29.md)
-- [1.30 Recherche d’entreprise 2](https://youtu.be/uPxI4AQ0yn8) / [Notes](CAP_Elec_1_30.md)
+- [1.30 Recherche d’entreprise 2](https://youtu.be/uPxI4AQ0yn8)
 
 ---
 
