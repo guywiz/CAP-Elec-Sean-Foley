@@ -1,9 +1,9 @@
-# CAP Elec 1.28 Les faux plafonds
+# CAP Elec 1.29 Les plans électriques
 ## Foley Services Elec - [Programme 1ère partie](../1ere_partie/README.md)
 
-### 1.28 Les faux plafonds
+### 1.29 Les plans électriques
 
-- **Accès à la vidéo** [1.28 Les faux plafonds](https://youtu.be/7TmmokNonGY)
+- **Accès à la vidéo** [1.29 Les plans électriques](https://youtu.be/18_gyriwtQ4)
 
 #### Câblage dans les faux plafonds
 
