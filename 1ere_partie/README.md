@@ -65,7 +65,7 @@
 
 ---
 
-- [1.31 Classes / IP](https://youtu.be/CYTlxeuK7Bc) / [Notes](CAP_Elec_1_31.md)
+- [1.31 Classes de protection / IP](https://youtu.be/CYTlxeuK7Bc) / [Notes](CAP_Elec_1_31.md)
 - [1.32 La salle de bains](https://youtu.be/6hM56Hh6bjE) / [Notes](CAP_Elec_1_32.md)
 
 ---
