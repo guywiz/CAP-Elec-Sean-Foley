@@ -64,6 +64,8 @@ Les parties métalliques de la SdB doivent être mises à la terre par des liais
 
 <img src="./images/LES_SdB.png" width="70%">
 
+[Voir aussi le site schéma-électrique ](https://www.schema-electrique.net/norme-electrique-volume-salle-de-bain.html)
+
 --
 
 ##### Quel équipement dans quel volume ?
