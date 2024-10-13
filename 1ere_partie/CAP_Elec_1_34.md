@@ -61,14 +61,14 @@ Mise en situation lors de la construction d'une maison
 - on peut ensuite fixer la barrette de coupure au GTL et la lier au répartiteur de terre du tableau
 - la résistance induite par cette installation ne doit pas excéder 100 $$\Omega$$
 
-Q. Et si par malheur, on a un dispositif dont la résistance excède 100 $$\Œmega$$ ?
+Q. Et si par malheur, on a un dispositif dont la résistance excède 100 $$\Omega$$ ?
 R. Rappel, si on a deux résistances en parallèle, la résistance résultante est inférieure au minimum des deux. Si les deux résistances sont égales, la résistance résultante est égale à la moitié.
 
 Anoter, que le dispositif décrit plus haut résulte plutôt en une résistance qui se situe entre 10 $$\Omega$$ et 20 $$\Omega$$. La résistance dépend des qualités du sol, si le sol est argileux elle sera moindre que si le sol est sabloneux et humide (la présence de l'eau en fai tun bon conducteur).
 
 Pourquoi 100 $$\Omega$$ ? La résistance est définie par le ratio $$R = U / I$$ où $$U$$ est la tension limite conventionnelle de sécurité, et $$I$$ est la variation d'intensité la plus défavorable de l'installation, qui correspond à la sensibilité des dispositifs de l'AGCP, soit 500mA = 0,5A. On trouve donc $$R = 100\Omega$$.
 
-- En d'autres mots, en assurant d'avoir une résistance qui n'excède pas 100$$\Omega$$, on garantit que la tension limite conventionnelle de sécurité ne dépassera pas 50V.
-- Si on a une résistance de 80$$\Omega$$, la tension provoquée par un défaut (différentiel de 500mA) = 40. On ne dépasse donc pas la tension limite conventionnelle de sécurité.
-- Si la résistance excède 100$$\Omega$$, la tension excèdera la limite conventionnelle de 50V.
+- En d'autres mots, en assurant d'avoir une résistance qui n'excède pas 100 $$\Omega$$, on garantit que la tension limite conventionnelle de sécurité ne dépassera pas 50V.
+- Si on a une résistance de 80 $$\Omega$$, la tension provoquée par un défaut (différentiel de 500mA) = 40. On ne dépasse donc pas la tension limite conventionnelle de sécurité.
+- Si la résistance excède 100 $$\Omega$$, la tension excèdera la limite conventionnelle de 50V.
 - Si en dépit des solutions de parallélisation des piquets, on n'arrive pas à diminuer la résistance, on peut avoir recourt à l'installation d'un AGCP plus sensible, par exemple de 0.35mA (on aura alors U = RI = 49V).
