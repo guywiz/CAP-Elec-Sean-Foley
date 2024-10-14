@@ -76,7 +76,7 @@
 - [1.36 Test terre pratique](https://youtu.be/umzNrkhozAs) / [Notes](CAP_Elec_1_36.md)
 - [1.37 Terre résumée](https://youtu.be/0INst5_C6Ks) / [Notes](CAP_Elec_1_37.md)
 
-**QCM** [1.37 Terre / LES /LEP](./QCMs/1_37_QCM.md)
+**QCM** [1.37 Terre / LES / LEP](./QCMs/1_37_QCM.md)
 
 ---
 

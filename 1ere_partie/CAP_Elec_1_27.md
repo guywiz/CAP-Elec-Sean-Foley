@@ -9,9 +9,9 @@
 
 Remarque sur des vidéos illustrant des test de différentiel en les alimentant soit par le haut, soit par le bas. Réaction de Sean: respectez le sens de raccordement imposés par le fabricant.
 
-Un raccordement inversé pourra peut-être fonctioné, mais la responsabilité de l'installateur est engagée si le raccordement ne se plie pas aux exigences du fabricant.
+Un raccordement inversé pourra peut-être fonctionné, mais la responsabilité de l'installateur est engagée si le raccordement ne se plie pas aux exigences du fabricant.
 
-Pour tester le fonctionnement d'un différentiel, il ne suffit pas de provoquer un court-circuit. Il faut un apareil dédié:
+Pour tester le fonctionnement d'un différentiel, il ne suffit pas de provoquer un court-circuit. Il faut un appareil dédié:
 
 - tester le déclenchement mesurant la sensibilité (max 30mA),
 - et le temps de réaction au déclenchement
