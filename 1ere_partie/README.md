@@ -75,7 +75,8 @@
 - [1.35 Mesure de prise de terre](https://youtu.be/6RQQ4GZxY0w) / [Notes](CAP_Elec_1_35.md)
 - [1.36 Test terre pratique](https://youtu.be/umzNrkhozAs) / [Notes](CAP_Elec_1_36.md)
 - [1.37 Terre résumée](https://youtu.be/0INst5_C6Ks) / [Notes](CAP_Elec_1_37.md)
-- QCM
+
+**QCM** [1.37 Terre / LES /LEP](./QCMs/1_37_QCM.md)
 
 ---
 
