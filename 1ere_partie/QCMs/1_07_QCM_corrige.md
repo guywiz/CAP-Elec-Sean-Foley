@@ -5,7 +5,7 @@
 
 [Le corrigé de ce QCM](./1.07 protections domestiques corrigé.pdf)
 
-Nom et Prénom	: 	Date : 
+Nom et Prénom	: **GUY MELANÇON**	Date : **3 SEPTEMBRE 2024**
 
 1.	Un dispositif différentiel réagit selon
 
@@ -15,7 +15,7 @@ Nom et Prénom	: 	Date :
 
  C. Le courant dans le fil de terre
 
- D. La différence de courant entre les conducteurs actifs
+ D. **La différence de courant entre les conducteurs actifs**
 
  E. La différence de tension entre les conducteurs actifs
 
@@ -25,7 +25,7 @@ Nom et Prénom	: 	Date :
 
  B. Des surcharges / surintensités
 
- C. Des défauts d’isolement
+ C. **Des défauts d’isolement**
 
  D. Des inversions de rotation
 
@@ -35,7 +35,7 @@ Nom et Prénom	: 	Date :
 
  A. Des court-circuits
 
- B. Des surcharges / surintensités
+ B. **Des surcharges / surintensités**
 
  C. Des défauts d’isolement
 
@@ -45,7 +45,7 @@ Nom et Prénom	: 	Date :
 
 4. Un disjoncteur magnétothermique protège contre
 
- A. Des court-circuits & des surcharges / surintensités
+ A. **Des court-circuits & des surcharges / surintensités**
 
  B. Des chutes de tension
 
@@ -59,7 +59,7 @@ Nom et Prénom	: 	Date :
 
  A. Oui
 
- B. Non
+ B. **Non**
 
  C. Certains, ça dépend le type (A, AC, HPI, etc.)
 
@@ -69,7 +69,7 @@ Nom et Prénom	: 	Date :
 
  A. Oui
 
- B. Non
+ B. **Non**
 
  C. Certains, ça dépend le type (A, AC, HPI, etc.)
 
@@ -90,7 +90,7 @@ Nom et Prénom	: 	Date :
 
  A. Des court-circuits
 
- B. Des surcharges / surintensités
+ B. **Des surcharges / surintensités**
 
  C. Des défauts d’isolement
 
@@ -101,7 +101,7 @@ Nom et Prénom	: 	Date :
 
 9. La partie magnétique d’un disjoncteur protège conte
 
- A. Des court-circuits
+ A. **Des court-circuits**
 
  B. Des surcharges / surintensités
 
@@ -115,7 +115,7 @@ Nom et Prénom	: 	Date :
 
  A. 0.01A
 
- B. 0.03A
+ B. **0.03A**
 
  C. 500mA
 
@@ -127,10 +127,10 @@ Nom et Prénom	: 	Date :
 
 | Section de fil minimum en mm² | Disjoncteur Calibre maximum en Ampères |
 | ----------------------------- | -------------------------------------- |
-|              10               |                  ?               |
-|              ?          |                  16A                   |
-|              ?            |                  25A                   |
-|              2.5              |                  ?               |
-|              ?           |                  63A                   |
-|              6                |                  ?               |
+|              10               |                  **50A**               |
+|              **1.5**          |                  16A                   |
+|              **4**            |                  25A                   |
+|              2.5              |                  **20A**               |
+|              **16**           |                  63A                   |
+|              6                |                  **32A**               |
 

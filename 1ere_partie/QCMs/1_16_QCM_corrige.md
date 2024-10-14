@@ -5,14 +5,14 @@
 
 [Le corrigé de ce QCM](./1.16 éclairage corrigé.pdf)
 
-Nom et Prénom	: 	Date : 
+Nom et Prénom	: **GUY MELANÇON**	Date : **19 SEPTEMBRE 2024**
 
 
 1. Quelle précaution faut-il prendre lors de pose de spots encastrés dans les combles ?
 
  A. Faire la liaison entre eux.
 
- B. Protéger les spots par un vide d’air.
+ B. **Protéger les spots par un vide d’air.**
 
  C. Utiliser des spots TBT
 
@@ -25,7 +25,7 @@ Nom et Prénom	: 	Date :
 
  A. La haute tension.
 
- B. La basse tension.
+ B. ***La basse tension.***
 
  C. La haute et basse tension
 
@@ -38,7 +38,7 @@ Nom et Prénom	: 	Date :
 
  A. L’effet papillon.
 
- B. L’effet strobe.
+ B. **L’effet strobe.**
 
  C. L’effet joule
 
@@ -53,7 +53,7 @@ Nom et Prénom	: 	Date :
 
  B. Assurer l’étanchéité à l’air.
 
- C. Eviter le surchauffe du spot
+ C. **Eviter le surchauffe du spot**
 
  D. Eviter un pont thermique
 
@@ -62,7 +62,7 @@ Nom et Prénom	: 	Date :
 
 5. Il faut connecter un voyant lumineux ?
 
- A. En parallèle des boutons poussoirs
+ A. ***En parallèle des boutons poussoirs***
 
  B. Sur la phase et neutre
 
@@ -81,7 +81,7 @@ Nom et Prénom	: 	Date :
 
  C. Sur le retour lampe et phase
 
- D. Sur le retour lampe et neutre
+ D. **Sur le retour lampe et neutre**
 
  E. Entre deux phases
 
@@ -90,7 +90,7 @@ Nom et Prénom	: 	Date :
 
  A. 6
 
- B. 8
+ B. **8**
 
  C. 10
 

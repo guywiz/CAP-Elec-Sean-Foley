@@ -6,20 +6,20 @@
 [Le corrigé de ce QCM](./1.01 grandeurs. corrigé.pdf)
 
 
-Nom et Prénom	: 	Date : 
+Nom et Prénom	: **GUY MELANÇON**	Date : **3 SEPTEMBRE 2024**
 
 
 1.	La tension est:
 
- A.	La différence de potentiel électrique entre plusieurs points de référence
+ A.	**TENSION** La différence de potentiel électrique entre plusieurs points de référence
  
- B.	L’opposition de passage des électrons
+ B.	**RESISTANCE** L’opposition de passage des électrons
 
- C. Le mouvement des électrons
+ C. **INTENSITE** Le mouvement des électrons
  
- D. Donnée par multiplier la différence de potentiel par l’intensité
+ D. **PUISSANCE** Donnée par multiplier la différence de potentiel par l’intensité
  
- E.	 Donnée par la durée de temps, et la puissance
+ E.	 **ENERGIE** Donnée par la durée de temps, et la puissance
 
 2. L’intensité est:
 
@@ -71,13 +71,13 @@ Nom et Prénom	: 	Date :
 
 6. La valeur de tension est donnée par la formule:
 
- A. $$P = U \cdot I$$
+ A. $$P = U \cdot I$$ **PUISSANCE** 
 
- B. $$E = P \cdot t$$
+ B. $$E = P \cdot t$$ **ENERGIE** 
 
- C. $$U = R \cdot I$$
+ C. $$U = R \cdot I$$ **TENSION**
 
- D. $$I = U / R$$
+ D. $$I = U / R$$ **INTENSITE**
 
  E. $$Y = T^2$$
 
@@ -121,7 +121,7 @@ Nom et Prénom	: 	Date :
 
  A.	Le débit des électrons
 
- B.	La différence de pression électrique
+ B.	**La différence de pression électrique**
 
  C.	l’obstacle à la passage des électrons
 
@@ -131,10 +131,10 @@ Nom et Prénom	: 	Date :
 
  B.	La différence de pression électrique
 
- C.	L’obstacle à la passage des électrons
+ C.	**L’obstacle à la passage des électrons**
 
 12. L’intensité est comparable à
- A.	Le débit des électrons
+ A.	**Le débit des électrons**
 
  B.	La différence de pression électrique
 
@@ -142,12 +142,15 @@ Nom et Prénom	: 	Date :
 
 13. Remplissez le triangle des formules	tension/résistance/intensité
 
+<img src="./U_R_I.png" width="30%">
 
 14. Remplissez le triangle des formules	tension/puissance/intensité
 
+<img src="./P_U_I.png" width="30%">
 
 15. Remplissez le triangle des formules	puissance/temps/énergie
 
+<img src="./W_P_t.png" width="30%">
 
 16. Le cuivre est un:
 
@@ -155,7 +158,7 @@ Nom et Prénom	: 	Date :
  
  B.	Semi-conducteur
  
- C.	Conducteur
+ C.	**Conducteur**
  
  D.	Barrière électrique
  
@@ -164,7 +167,7 @@ Nom et Prénom	: 	Date :
 
 17. Le plastique est un:
 
- A.	Isolant
+ A.	**Isolant**
  
  B.	Semi-conducteur
  
@@ -177,7 +180,7 @@ Nom et Prénom	: 	Date :
 
 18. L'air est un:
 
- A.	Isolant
+ A.	**Isolant**
  
  B.	Semi-conducteur
  
@@ -193,7 +196,7 @@ Nom et Prénom	: 	Date :
  
  B.	Laisse passer le courant dans un seul sens
  
- C.	Laisse passer le courant dans les deux sens
+ C.	**Laisse passer le courant dans les deux sens**
  
  D.	Est toujours en cuivre
 
@@ -201,7 +204,7 @@ Nom et Prénom	: 	Date :
 
 20.	Un matériau isolant:
 
- A.	Créer un obstacle au passage du courant
+ A.	**Créer un obstacle au passage du courant**
  
  B.	Laisse passer le courant dans un seul sens
  

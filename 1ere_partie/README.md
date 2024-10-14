@@ -83,5 +83,6 @@
 - [1.38 La Diagnostique](https://youtu.be/rxcyqBwmhUQ) / [Notes](CAP_Elec_1_38.md)
 - [1.39 Exercice cage escalier](https://youtu.be/_1x-YoNrlTU) / [Notes](CAP_Elec_1_39.md)
 - [1.40 SLT (régime de neutre)](https://youtu.be/y-40KXzLjjk) / [Notes](CAP_Elec_1_40.md)
-- QCM
+
+**QCM** [1.40 Régime de Neutre ou Schéma de Liaison à la Terre (SLT)](./QCMs/1_40_QCM.md)
 

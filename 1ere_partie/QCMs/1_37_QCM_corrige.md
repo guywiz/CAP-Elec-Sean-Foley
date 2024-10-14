@@ -6,14 +6,14 @@
 [Le corrigé de ce QCM](./1.37 Terre, LEP, LES.pdf)
 
 
-Nom et Prénom	: 	Date : 
+Nom et Prénom	: **GUY MELANÇON**	Date : **13 OCTOBRE 2024**
 
 
 1. Sur un SLT T.T. un AGCP différentiel est
 
  A. Recommandé
 
- B. Obligatoire
+ B. **Obligatoire**
 
  C. Pas nécessaire
 
@@ -30,7 +30,7 @@ Nom et Prénom	: 	Date :
 
  C. 4mm²
 
- D. 16mm²
+ D. **16mm²**
 
  E. 25mm²
 
@@ -39,7 +39,7 @@ Nom et Prénom	: 	Date :
 
   A. 50 $$\Omega$$ minimum
 
- B. 100 $$\Omega$$ maximum
+ B. **100 $$\Omega$$ maximum**
 
  C. 5000 $$\Omega$$ minimum
 
@@ -54,7 +54,7 @@ Nom et Prénom	: 	Date :
 
  B. 16mm²
 
- C. 25mm²
+ C. **25mm²**
 
  D. 6mm²
 
@@ -65,7 +65,7 @@ Nom et Prénom	: 	Date :
 
  A. Fil nu
 
- B. Câble nu
+ B. **Câble nu**
 
  C. Fil isolé
 
@@ -82,7 +82,7 @@ Nom et Prénom	: 	Date :
 
  C. Fil isolé
 
- D. Câble isolé
+ D. **Câble isolé**
 
  E. Peu importe
 
