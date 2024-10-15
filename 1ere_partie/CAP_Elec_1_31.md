@@ -87,3 +87,7 @@ Il y a une corrélation entre les deux indices. Par exemple, on ne trouvera jama
 #### Indice de protection IK contre les chocs mécaniques
 
 <img src="./images/IK.png" width="100%">
+
+La progression de l'énergie du choc par rapport à l'indice suit une courbe exponentielle:
+
+<img src="./images/IK_bis.png" width="75%">
