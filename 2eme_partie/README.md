@@ -12,11 +12,13 @@
 - [1.47 Câble aluminium](https://youtu.be/e_nsy8G_vWw)
 - [1.48 Facteur de puissance](https://youtu.be/8dPOf_TP2os)
 - [1.49 Parafoudre domestique](https://youtu.be/PvcWnjI9txw)
+- [1.49B Intro dimmensionnement tableau & détecteur d'arc](https://www.youtube.com/watch?v=1BrWSIsZ2Cs)
 - [1.50 Dimensionnement tableau 1](https://youtu.be/8fg6fAb5ePg)
 - [1.51 Dimensionnement tableau 2](https://youtu.be/kSIwx_Da0PM)
 - [1.52 Dimensionnement tableau 3](https://youtu.be/KU_7UYiddlM)
 - [1.53 Dimensionnement tableau 4](https://youtu.be/KVZfmLhppeQ)
 - [1.53 Bis maj parafoudre](https://youtu.be/N7zTI1mvZ0o)
+- [1.53C maj parafoudre 2024](https://www.youtube.com/watch?v=Gg5PzQFj1DQ)
 
 QCM
 

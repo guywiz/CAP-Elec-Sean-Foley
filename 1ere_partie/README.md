@@ -22,6 +22,8 @@
 - [1.05 Branchement ENEDIS](https://youtu.be/5sb8Nx8I8fk) / [Notes](CAP_Elec_1_05.md)
 - [1.06 Protections 1](https://youtu.be/NFdUS3kmSCI) / [Notes](CAP_Elec_1_06.md)
 - [1.07 Protections 2](https://youtu.be/JUcMXK3wq50) / [Notes](CAP_Elec_1_07.md)
+- [1.07B Tableaux: section & fils, départs domestiques](https://www.youtube.com/watch?v=6HJ_WErG7Nc) / [Notes](CAP_Elec_1_07B.md)
+- [1.07C Maquette d'entraînement](https://www.youtube.com/watch?v=gU8o_c3lzt8) / [Notes](CAP_Elec_1_07C.md)
 
 **QCM** [1.07 Les protections **QCM**](./QCMs/1_07_QCM.md)
 
