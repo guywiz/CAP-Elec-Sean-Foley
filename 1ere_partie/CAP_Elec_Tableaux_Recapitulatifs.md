@@ -14,6 +14,7 @@
 |              10               |                  50A                   |
 |              16               |                  63A                   |
 
+<img src="./images/Tab_dim.png" width="50%">
 
 ### Tableau récapitulatif câblage prises de courant
 

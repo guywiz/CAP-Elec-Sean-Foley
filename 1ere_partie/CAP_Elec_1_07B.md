@@ -18,6 +18,8 @@
 | 10mm2 | 50A |
 | 16mm2 | 63A |
 
+<img src="./images/Tab_dim.png" width="50%">
+
 #### Les départs en domestique
 
 | Départ | Nb fils minimum | Section | Disjoncteur | Type différentiel | Coeff différentiel | Nb points maximum|
