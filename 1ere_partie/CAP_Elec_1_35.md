@@ -22,6 +22,8 @@ La résistance de la prise de terre doit donc au maximum être de 100 $$\Omega$$
 
 #### Mesurer la résistance de la prise de terre
 
+[Voir aussi la fiche Chauvin & Arnoux](https://www.chauvin-arnoux.com/sites/default/files/documents/dc_f_guide-terre_ed4.pdf)
+
 On veut mesurer la résistance $$R$$ associée à un piquet.
  
 Si on plante un second piquet, de résistance $$R_{ref}$$, on peut brancher un appareil de mesure (Ohmètre) qui va mesurer la résistance du circuit induit par les deux piquets (branchement via l'appareil, et connexion induite par la terre).
