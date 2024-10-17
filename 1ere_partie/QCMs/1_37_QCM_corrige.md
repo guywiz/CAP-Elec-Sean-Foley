@@ -3,10 +3,10 @@
 
 ### 1.37 QCM Terre / LES /LEP
 
-[Le corrigé de ce QCM](./1.37 Terre, LEP, LES.pdf)
+[Le corrigé de ce QCM](./1_37_QCM_corrige.md)
 
 
-Nom et Prénom	: **GUY MELANÇON**	Date : **13 OCTOBRE 2024**
+Nom et Prénom	: **GUY MELANÇON**	Date : **17 OCTOBRE 2024**
 
 
 1. Sur un SLT T.T. un AGCP différentiel est
@@ -63,9 +63,9 @@ Nom et Prénom	: **GUY MELANÇON**	Date : **13 OCTOBRE 2024**
 
 5. La liaison entre la barrette de coupure et le piquet de terre est en
 
- A. Fil nu
+ A. **Fil nu**
 
- B. **Câble nu**
+ B. Câble nu
 
  C. Fil isolé
 
@@ -80,38 +80,38 @@ Nom et Prénom	: **GUY MELANÇON**	Date : **13 OCTOBRE 2024**
 
  B. Câble nu
 
- C. Fil isolé
+ C. **Fil isolé**
 
- D. **Câble isolé**
+ D. Câble isolé
 
  E. Peu importe
 
 
 7. Nommer les 2 méthodes de mesurer la prise de terre
 
- A. ___
+ A. **Méthode des 62% (trois piquets)**
 
- B. ___
+ B. **Méthode à l'aide d'un mesureur de terre (CATU)**
 
 
 8. Citez les opérations nécessaires pour mesurer la prise de terre dans une maison avec jardin, sans alimentation électrique
 
- A. ___
+ A. Ouvrir la barrette de mesure (de coupure)
 
- B. ___
+ B. Planté deux piquets de référence, l'un à 6,20m du piquet à mesurer, l'autre à 10m
 
- C. ___
+ C. Tester la batterie de l'appareil
 
- D. ___
+ D. Faire un test d'absence de tension
 
- E. ___
+ E. Brancher les trois câbles aux piquets (pinces crocodiles), et aux entrées correspondantes de l'appareil, effectuer une lecture
 
 
 9. La section de fil minimum pour la LEP, quand la section des fils sur l’AGCP est en 10mm²
 
  A. 10mm²
 
- B. 6mm²
+ B. **6mm²**
 
  C. 16mm²
 
@@ -122,7 +122,7 @@ Nom et Prénom	: **GUY MELANÇON**	Date : **13 OCTOBRE 2024**
 
 10. La section de fil minimum pour la LEP, quand la section des fils sur l’AGCP est en 16mm²
 
- A. 10mm²
+ A. **10mm²**
 
  B. 6mm²
 
@@ -132,11 +132,12 @@ Nom et Prénom	: **GUY MELANÇON**	Date : **13 OCTOBRE 2024**
 
  E. Peu importe
 
+
 11. La section de fil pour la LES (supplémentaire) dans une salle de bains, quand le fil est passé dans une gaine, est de
 
  A. 1.5mm² minimum
 
- B. 2.5mm² minimum
+ B. **2.5mm² minimum**
 
  C. 4mm² minimum
 
@@ -151,7 +152,7 @@ Nom et Prénom	: **GUY MELANÇON**	Date : **13 OCTOBRE 2024**
 
  B. 2.5mm² minimum
 
- C. 4mm² minimum
+ C. **4mm² minimum**
 
  D. 6mm² minimum
 
@@ -160,20 +161,21 @@ Nom et Prénom	: **GUY MELANÇON**	Date : **13 OCTOBRE 2024**
 
 13. Nommer les équipements obligatoirement mise à la terre dans une salle de bains
 
- A. ___
+ A. **Douche (cabine, ou receveur en métal)**
 
- B. ___
+ B. **Baignoire (métallique)**
 
 
 14. Si les équipements (de question 13) sont en plastique ...
 
  A. Pas besoin de emmener la LES
 
- B. Il faut laisser le fil en attente
+ B. **Il faut laisser le fil en attente**
 
  C. Il n’y a pas d’obligation, mais c’est mieux de prévoir la LES quand même
 
  D. Il faut connecter sur le plastique
+
 
 15. Pour la mise à la terre des tuyaux, on peut utiliser
 
@@ -181,7 +183,7 @@ Nom et Prénom	: **GUY MELANÇON**	Date : **13 OCTOBRE 2024**
 
  B. Un collier agrée en fer
 
- C. Les colliers agrée en inox
+ C. **Les colliers agrée en inox**
 
  D. Peu importe la connexion
 
@@ -192,7 +194,7 @@ Nom et Prénom	: **GUY MELANÇON**	Date : **13 OCTOBRE 2024**
 
  A. Oui
 
- B. Jamais
+ B. **Jamais**
 
  C. Oui, si c’est nécessaire
 
@@ -205,7 +207,7 @@ Nom et Prénom	: **GUY MELANÇON**	Date : **13 OCTOBRE 2024**
 
  A. Pour isoler un défaut
 
- B. Pour isoler le piquet des liaisons équipotentiels
+ B. **Pour isoler le piquet des liaisons équipotentiels**
 
  C. Pour faciliter les connexions de la terre
 
