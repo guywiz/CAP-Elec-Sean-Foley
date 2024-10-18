@@ -5,14 +5,14 @@
 
 ### Tableau récapitulatif Ampérage et dimension des câbles
 
-| Section de fil minimum en mm² | Disjoncteur Calibre maximum en Ampères |
-| ----------------------------- | -------------------------------------- |
-|              1.5              |                  16A                   |
-|              2.5              |                  20A                   |
-|              4                |                  25A                   |
-|              6                |                  32A                   |
-|              10               |                  50A                   |
-|              16               |                  63A                   |
+| Section de fil minimum en mm² | Disjoncteur Calibre maximum en Ampères | Porte fusible Calibre maximum en Ampères |
+| ----------------------------- | ----------------------------- | -------------------------------------- |
+|              1.5              |                  16A                   | 10A |
+|              2.5              |                  20A                   | 16A |
+|              4                |                  25A                   | 20A |
+|              6                |                  32A                   | 25A |
+|              10               |                  50A                   | 32A |
+|              16               |                  63A                   | 50A |
 
 <img src="./images/Tab_dim.png" width="50%">
 
