@@ -26,6 +26,7 @@ QCM
 - [1.55 Saignées](https://youtu.be/fod4OYvmtuw)
 - [1.56 Rappel chute de tension](https://youtu.be/QUgGy3fLktY)
 - [1.57 Alim bâtiment secondaire](https://youtu.be/kEPQB54pdL4)
+- [1.57B Mise à la terre dan sune dépendance](https://youtu.be/ZaVL4Owi4lc)
 - [1.58 Logement pmr (handicapé)](https://youtu.be/OK8U51aTHD0)
 - [1.59 Éclairage de sécurité](https://youtu.be/V8duOcuLCEs)
 
@@ -49,6 +50,7 @@ QCM
 
 - [1.69 Colonne montante](https://youtu.be/KrRZw7bWsGU)
 - [1.70 Types de différentiels](https://youtu.be/NNVNwgB-Tfo)
+ - [1.70B Mise-à-jour - Types de différentiels](https://youtu.be/abAQy3E_n8E)
 - [1.71 Pieuvres](https://youtu.be/JrfXZtyOuKM)
 - [1.72 Logiciel legrand xlpro3](https://youtu.be/s8D-OFFw0ww)
 - [1.73 Indus 1 : protections & commandes](https://youtu.be/E8TSs---Z_Q)
@@ -57,6 +59,7 @@ QCM
 - [1.76 Indus 4 : inversion de rotation](https://youtu.be/y5A29PchogE)
 - [1.77 Indus 5 : démarrage étoile / triangle](https://youtu.be/iD2r5pWdcNo)
 - [1.77 Bis  : cosses et embouts](https://youtu.be/4DLiVuQbld0)
+- [1.77C Prise Hypra (industrielles)](https://youtu.be/Jny5fdDGQXg)
 
 QCM
 
