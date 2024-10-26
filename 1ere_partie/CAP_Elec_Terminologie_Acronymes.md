@@ -31,4 +31,5 @@
 | Installation électrique | ICC | Intensité de court-circuit |
 | Sécurité | EPI | Equipement de protection individuel |
 | Sécurité | TBTS | Très Basse Tension de Sécurité | 
-| Installation électrique | SLT | Schéma de liaison à la terre | | 
+| Installation électrique | SLT | Schéma de liaison à la terre |
+| Sécurité | PEN | Protective Earth and Neutral |
