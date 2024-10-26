@@ -4,6 +4,7 @@
 ### Addendum
 
 - [Tableaux récapitulatifs section, ampérage, câblage prises de courant](./CAP_Elec_Tableaux_Recapitulatifs.md)
+- [Terminologie et acronymes](./CAP_Elec_Terminologie_Acronymes.md)
 
 ### Programme 1ère partie
 
