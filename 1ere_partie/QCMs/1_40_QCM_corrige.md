@@ -1,0 +1,136 @@
+# CAP Elec
+## Foley Services Elec - [Programme 1ère partie](CAP Elec.md)
+
+### 1.40 QCM Régime de Neutre ou Schéma de Liaison à la Terre (SLT)
+
+[Le corrigé de ce QCM](./1_40_QCM_corrige.md)
+
+
+Nom et Prénom	: **GUY MELANÇON**	Date : **26 OCTOBRE 2024**
+
+
+1. Le SLT utilisé par ENEDIS en France est
+
+ A. ***TT***
+
+ B. TN-C
+
+ C. TN-S
+
+ D. IT
+
+ E. TN-C-S
+
+
+2. Le SLT utilisé souvent dans des hôpitaux est
+
+ A. TT
+
+ B. TN-C
+
+ C. TN-S
+
+ D. ***IT***
+
+ E. TN-C-S
+
+
+3. L’intensité (en A.C.) est dangereux à partir de quelle valeur ?
+
+ A. 0.005A
+
+ B. ***0.01A***
+
+ C. 30mA
+
+ D. 1A
+
+ E. 10A
+4. La résistance moyenne d’un corps humane en milieu sec est environ
+
+ A. 100 $$\Omega$$
+
+ B. 500 $$\Omega$$
+
+ C. 1000 $$\Omega$$
+
+ D. ***5000 $$\Omega$$***
+
+ E. 1 ohm
+
+
+5. La tension limite conventionnelle en milieu sec est fixé à
+
+ A. 10V
+
+ B. 25V
+
+ C. ***50V***
+
+ D. 100V
+
+ E. 230V
+
+
+6. Sur un SLT / régime de neutre TT, un différentiel est
+
+ A. Préconisée
+
+ B. ***Obligatoire***
+
+ C. Interdit
+
+ D. Optionnelle
+
+ E. Inutile
+
+
+7. Sur un SLT	IT	(isolé/impédance terre), en cas de premier défaut
+
+ A. Le différentiel réagis
+
+ B. La partie thermique du disjoncteur réagis
+
+ C. Il ne se passe rien
+
+ D. La partie magnétique du disjoncteur réagis
+
+ E. ***Le contrôleur permanant sonne l’alarme de défaut***
+
+8. Sur un SLT	IT	(isolé/impédance terre), en cas d’un 2ème défaut
+
+ A. Le différentiel réagis
+
+ B. La partie thermique du disjoncteur réagis
+
+ C. Il ne se passe rien
+
+ D. ***La partie magnétique du disjoncteur réagis***
+
+ E. Le contrôleur permanant sonne l’alarme de défaut
+
+
+9. Pour un différentiel de 500mA en régime TT, la prise de terre
+
+ A. N’est pas obligatoire
+
+ B. ***Doit être inférieur à 100 $$\Omega$$***
+
+ C. Doit être supérieur à 100 $$\Omega$$
+
+ D. Doit être connectée sur la neutre en amont de l’AGCP
+
+ E. Doit être connectée sur la neutre en aval de l’AGCP
+
+
+10. L’objectif d’un SLT est de
+
+ A. ***Créer un circuit pour que le courant de défaut puisse retourner au neutre du transformateur***
+
+ B. Créer un obstacle au passage du courant dans les personnes
+
+ C. Créer un circuit supplémentaire pour assurer le bon fonctionnement des équipements
+
+ D. Créer un circuit pour équilibrer les charges électriques
+
+ E. Créer un circuit pour réduire les sections des fils des conducteurs actifs.
