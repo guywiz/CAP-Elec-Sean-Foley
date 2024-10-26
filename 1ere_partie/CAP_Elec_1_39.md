@@ -14,6 +14,6 @@
 - Stabilité mécanique des boîtes de dérivation
 - Stabilité mécanique des interrupteurs/boutons poussoir/etc.
 - Esthétique des connexions dans les boîtes de dérivation
- - La protectionmécanique des câbles doit entrer dans les boîtes
+  - La protection mécanique des câbles doit entrer dans les boîtes
 - Alignement des interrupteurs (horizontal, vertical)
 
