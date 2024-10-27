@@ -10,7 +10,7 @@
 - SA (simple allumgae),
 - DA (double allumage),
 - VV (va-et-vient) + permutateur,
-- TL (télérupteur)
+- [TL (télérupteur)](#Télérupteur)
 
 Schéma développé: plusieurs façons de faire, phase et neutre à l'horizontale ou à la verticale ...
 
