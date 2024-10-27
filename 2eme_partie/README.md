@@ -3,7 +3,7 @@
 
 ### Programme 2ème partie
 
-- [1.41 Transformateurs](https://youtu.be/3l55DdoqlK4)
+- [1.41 Transformateurs](https://youtu.be/3l55DdoqlK4) / [Notes](./CAP_Elec_1_41.md)
 - [1.42 Tri / tétra](https://youtu.be/Z-q5bp78TiA)
 - [1.43 H0 &amp; poste hta](https://youtu.be/CfZVZvTpzMs)
 - [1.44 Rupture du neutre](https://youtu.be/lqpS-oGQVwA)
