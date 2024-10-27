@@ -11,11 +11,11 @@
 
 Type 1 -- lorsque le CCPI est à moins de 30 mètres de l'habitation (le point de livraison PDL), AGCP dans la maison.
 
-<img = src="./images/Branchement_individuel_au_reseau_type_1.webp" width="80%">
+<img = src="./images/Branchement_individuel_au_reseau_type_1.png" width="80%">
 
 Type 2 lorsque le CCPI est à plkus de 30 du PDL (point de livraison)
 
-<img = src="./images/Branchement_individuel_au_reseau_type_2.webp" width="80%">
+<img = src="./images/Branchement_individuel_au_reseau_type_2.png" width="80%">
 
 [(Images reprise du site "electrotoile")](https://electrotoile.eu/branchement-individuel-electrique-souterrain.php)
 
