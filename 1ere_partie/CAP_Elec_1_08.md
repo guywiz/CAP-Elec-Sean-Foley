@@ -87,3 +87,10 @@ Qui est une option qu'on préfère aux points de commande multiples. Un ***tél�
 <img src="./images/Telerupteur.png" width="30%">
 
 [Voir le schéma de branchement dans la vidéo (à partir de 1:02:07)](https://www.youtube.com/watch?v=CJScY8vPzTY&t=1h2m7s)
+
+Le schéma de cablage d'un télérupteur:
+
+<img src="./images/Schema_cablage_telerupteur_unipolaire.png" width="80%">
+
+- La phase passe du point 1 au point 2
+- Son passage est contrôlée par le télérupteur qui reçoit l'impulsion A1 (retour bouton poussoir orange) et le neutre A2
