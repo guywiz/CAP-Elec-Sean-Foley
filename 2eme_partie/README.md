@@ -1,6 +1,12 @@
 # CAP Elec Programme 2ème partie
 ## Foley Services Elec
 
+### Rappels (addendum 1ère partie)
+
+- [Tableaux récapitulatifs section, ampérage, câblage prises de courant](../1ere_partie/CAP_Elec_Tableaux_Recapitulatifs.md)
+- [Terminologie et acronymes](./1_ere_partie/CAP_Elec_Terminologie_Acronymes.md)
+
+
 ### Programme 2ème partie
 
 - [1.41 Transformateurs](https://youtu.be/3l55DdoqlK4) / [Notes](./CAP_Elec_1_41.md)
