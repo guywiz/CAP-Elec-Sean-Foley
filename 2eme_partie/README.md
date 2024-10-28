@@ -11,7 +11,7 @@
 
 - [1.41 Transformateurs](https://youtu.be/3l55DdoqlK4) / [Notes](./CAP_Elec_1_41.md)
 - [1.42 Triphasé / Tétraphasé](https://youtu.be/Z-q5bp78TiA) / [Notes](./CAP_Elec_1_42.md)
-- [1.43 H0 &amp; poste hta](https://youtu.be/CfZVZvTpzMs)
+- [1.43 H0 & poste HTA](https://youtu.be/CfZVZvTpzMs) / [Notes](./CAP_Elec_1_43.md)
 - [1.44 Rupture du neutre](https://youtu.be/lqpS-oGQVwA)
 - [1.45 Rupture du neutre pratique](https://youtu.be/JJfUtDiRq2k)
 - [1.46 Chute de tension](https://youtu.be/9riZqBhiBao)
