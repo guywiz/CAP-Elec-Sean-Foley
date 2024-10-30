@@ -12,7 +12,7 @@
 - [1.41 Transformateurs](https://youtu.be/3l55DdoqlK4) / [Notes](./CAP_Elec_1_41.md)
 - [1.42 Triphasé / Tétraphasé](https://youtu.be/Z-q5bp78TiA) / [Notes](./CAP_Elec_1_42.md)
 - [1.43 H0 & poste HTA](https://youtu.be/CfZVZvTpzMs) / [Notes](./CAP_Elec_1_43.md)
-- [1.44 Rupture du neutre](https://youtu.be/lqpS-oGQVwA)
+- [1.44 Rupture du neutre](https://youtu.be/lqpS-oGQVwA) / [Notes](./CAP_Elec_1_44.md)
 - [1.45 Rupture du neutre pratique](https://youtu.be/JJfUtDiRq2k)
 - [1.46 Chute de tension](https://youtu.be/9riZqBhiBao)
 - [1.47 Câble aluminium](https://youtu.be/e_nsy8G_vWw)
