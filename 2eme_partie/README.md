@@ -15,7 +15,7 @@
 - [1.44 Rupture du neutre](https://youtu.be/lqpS-oGQVwA) / [Notes](./CAP_Elec_1_44.md)
 - [1.45 Rupture du neutre pratique](https://youtu.be/JJfUtDiRq2k) / [Notes](./CAP_Elec_1_45.md)
 - [1.46 Chute de tension](https://youtu.be/9riZqBhiBao) / [Notes](./CAP_Elec_1_46.md)
-- [1.47 Câble aluminium](https://youtu.be/e_nsy8G_vWw)
+- [1.47 Câble aluminium](https://youtu.be/e_nsy8G_vWw) / [Notes](./CAP_Elec_1_47.md)
 - [1.48 Facteur de puissance](https://youtu.be/8dPOf_TP2os)
 - [1.49 Parafoudre domestique](https://youtu.be/PvcWnjI9txw)
 - [1.49B Intro dimmensionnement tableau & détecteur d'arc](https://www.youtube.com/watch?v=1BrWSIsZ2Cs)
