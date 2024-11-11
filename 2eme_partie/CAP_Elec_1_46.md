@@ -1,5 +1,5 @@
 # CAP Elec 1.46 Chute de tension
-## Foley Services Elec - [Programme 1ère partie](../1ere_partie/README.md)
+## Foley Services Elec - [Programme 2ème partie](../2eme_partie/README.md)
 
 ### 1.46 Chute de tension
 
