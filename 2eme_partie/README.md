@@ -19,15 +19,7 @@
 - [1.48 Facteur de puissance](https://youtu.be/8dPOf_TP2os) / [Notes](./CAP_Elec_1_48.md)
 - [1.49 Parafoudre domestique](https://youtu.be/PvcWnjI9txw)
 - [1.49B Intro dimmensionnement tableau & détecteur d'arc](https://www.youtube.com/watch?v=1BrWSIsZ2Cs)
-
-| Titre leçon | Vidéo (fichier local) |
-|-------------|-------|
-| [1.50 Dimensionnement tableau 1](https://youtu.be/8fg6fAb5ePg) | <img src="./videos/1.50.mp4" width="25%"> |
-
-<video id="1.50.mp4" autoplay mute>
-<source src="./videos/1.50.mp4" type="video/mp4">
-</video>
-
+- [1.50 Dimensionnement tableau 1](https://youtu.be/8fg6fAb5ePg)
 - [1.51 Dimensionnement tableau 2](https://youtu.be/kSIwx_Da0PM)
 - [1.52 Dimensionnement tableau 3](https://youtu.be/KU_7UYiddlM)
 - [1.53 Dimensionnement tableau 4](https://youtu.be/KVZfmLhppeQ)
