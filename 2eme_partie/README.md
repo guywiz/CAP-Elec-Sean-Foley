@@ -22,7 +22,7 @@
 
 | Titre leçon | Vidéo (fichier local) |
 |-------------|-------|
-| [1.50 Dimensionnement tableau 1](https://youtu.be/8fg6fAb5ePg) | <img src="./videos/1.50 dimm  tableau domestique 1 [8fg6fAb5ePg].mp4" width="25%"> |
+| [1.50 Dimensionnement tableau 1](https://youtu.be/8fg6fAb5ePg) | <img src="./videos/1.50_dimm_tableau_domestique_1_[8fg6fAb5ePg].mp4" width="25%"> |
 
 - [1.51 Dimensionnement tableau 2](https://youtu.be/kSIwx_Da0PM)
 - [1.52 Dimensionnement tableau 3](https://youtu.be/KU_7UYiddlM)
