@@ -24,6 +24,9 @@
 |-------------|-------|
 | [1.50 Dimensionnement tableau 1](https://youtu.be/8fg6fAb5ePg) | <img src="./videos/1.50.mp4" width="25%"> |
 
+<a href="./videos/1.50.mp4" title="1.50">1.50 Dimensionnement tableau 1</a>
+
+
 - [1.51 Dimensionnement tableau 2](https://youtu.be/kSIwx_Da0PM)
 - [1.52 Dimensionnement tableau 3](https://youtu.be/KU_7UYiddlM)
 - [1.53 Dimensionnement tableau 4](https://youtu.be/KVZfmLhppeQ)
