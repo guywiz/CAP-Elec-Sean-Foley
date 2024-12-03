@@ -42,7 +42,7 @@ $$S = \frac{2L \cdot \rho \cdot I}{U}$$
 
 où $$U$$ est la chute de tension maximum autorisée.
 
-Ainsi, pour une chuite de tension maximum autorisée de 6.9V (= 3% de 230V), sur une distance de 100m depuis l'habitation (donc $$L = 200m$$), AGCP 60A:
+Ainsi, pour une chute de tension maximum autorisée de 6.9V (= 3% de 230V), sur une distance de 100m depuis l'habitation (donc $L = 200m$), AGCP 60A:
 
 $$S = \frac{200 \times 0.022 \times 60}{6.9} = 38.26$$
 
