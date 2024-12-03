@@ -19,7 +19,7 @@ Parfois le TGBT (tableau général basse tension) est situé dans le même local
 
 ##### Habilitation H0
 
-- La zone de voisinnage renforcée impose une distance (minimum) de 2m à respecter des pièce snues sous tension,
+- La zone de voisinnage renforcée impose une distance (minimum) de 2m à respecter des pièces nues sous tension,
   - définie comme des pièces non IP3X (taille accès 2.5mm = taille de l'extrémité d'un tournevis)
 - Les extincteurs nécessaires pour éteindre un incendie en zone HTA sont des extincteurs CO2
   - Il faut cependant s'assurer de rester à 2m (minimum) de la zone où le CO2 est utilisé
