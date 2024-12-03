@@ -32,8 +32,8 @@ QCM
 - [1.55 Saignées](https://youtu.be/fod4OYvmtuw)
 - [1.56 Rappel chute de tension](https://youtu.be/QUgGy3fLktY)
 - [1.57 Alim bâtiment secondaire](https://youtu.be/kEPQB54pdL4)
-- [1.57B Mise à la terre dan sune dépendance](https://youtu.be/ZaVL4Owi4lc)
-- [1.58 Logement pmr (handicapé)](https://youtu.be/OK8U51aTHD0)
+- [1.57B Mise à la terre dans une dépendance](https://youtu.be/ZaVL4Owi4lc)
+- [1.58 Logement PMR (handicapé)](https://youtu.be/OK8U51aTHD0)
 - [1.59 Éclairage de sécurité](https://youtu.be/V8duOcuLCEs)
 
 QCM
