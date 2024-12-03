@@ -17,7 +17,7 @@
 - [1.46 Chute de tension](https://youtu.be/9riZqBhiBao) / [Notes](./CAP_Elec_1_46.md)
 - [1.47 Câble aluminium](https://youtu.be/e_nsy8G_vWw) / [Notes](./CAP_Elec_1_47.md)
 - [1.48 Facteur de puissance](https://youtu.be/8dPOf_TP2os) / [Notes](./CAP_Elec_1_48.md)
-- [1.49 Parafoudre domestique](https://youtu.be/PvcWnjI9txw)
+- [1.49 Parafoudre domestique](https://youtu.be/PvcWnjI9txw) / [Notes](./CAP_Elec_1_49.md)
 - [1.49B Intro dimmensionnement tableau & détecteur d'arc](https://www.youtube.com/watch?v=1BrWSIsZ2Cs)
 - [1.50 Dimensionnement tableau 1](https://youtu.be/8fg6fAb5ePg)
 - [1.51 Dimensionnement tableau 2](https://youtu.be/kSIwx_Da0PM)
