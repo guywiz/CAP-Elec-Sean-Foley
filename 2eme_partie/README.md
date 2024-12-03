@@ -44,7 +44,7 @@ QCM
 - [1.63 Échelle à câble](https://youtu.be/M0igHLdhrMo)
 - [1.64 Borniers tertiaires](https://youtu.be/QMEewGe-vYs)
 - [1.65 Presse – étoupes](https://youtu.be/js9a-c29eMU)
-- 1.65B Cosses et embouts 
+- 1.65B Cosses et embouts [(voir leçon 1.77B)](./CAP_Elec_1_77B.md)
 - [1.66 Arrêt d’urgence 1 et &amp; mt](https://youtu.be/nefQDojra7Y)
 - [1.67 Arrêt d’urgence 2 mnx](https://youtu.be/dvejGrUoQ3c)
 
