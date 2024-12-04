@@ -17,7 +17,7 @@ Préconisation voire obligation dans certains départements (dont la Gironde).
 
 - Le parafoudre ne doit pas être protégé par un interrupteur différentiel, il est donc en amont du tableau (entre le réseau de distribution d'électricité et le tableau de distribution principal).
 - Le parafoudre doit être protégé par un disjoncteur de 20A
-- La longueur totale des fils reliant le disjoncteur à l'alimentation de l'habitation $L_1$, le disjoncteur au parafoudre $L_2$, et le parafoudre bornier de terre du tableau $L_3$, ne doit pas dépasser 50 cm:
+- La longueur totale des fils reliant le disjoncteur à l'alimentation de l'habitation $L_1$, le disjoncteur au parafoudre $L_2$, et le parafoudre au répartiteur de terre du tableau $L_3$, ne doit pas dépasser 50 cm:
 
 <img src="./images/Parafoudre.png" width="80%">
 
