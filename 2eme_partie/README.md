@@ -20,7 +20,7 @@
 - [1.49 Parafoudre domestique](https://youtu.be/PvcWnjI9txw) / [Notes](./CAP_Elec_1_49.md)
 - [1.49B Intro dimmensionnement tableau & détecteur d'arc](https://www.youtube.com/watch?v=1BrWSIsZ2Cs) / [Notes](./CAP_Elec_1_49B.md)
 - [1.50 Dimensionnement tableau 1](https://youtu.be/8fg6fAb5ePg) / [Notes](./CAP_Elec_1_50.md)
-- [1.51 Dimensionnement tableau 2](https://youtu.be/kSIwx_Da0PM)
+- [1.51 Dimensionnement tableau 2](https://youtu.be/kSIwx_Da0PM) / [Notes](./CAP_Elec_1_51.md)
 - [1.52 Dimensionnement tableau 3](https://youtu.be/KU_7UYiddlM)
 - [1.53 Dimensionnement tableau 4](https://youtu.be/KVZfmLhppeQ)
 - [1.53 Bis maj parafoudre](https://youtu.be/N7zTI1mvZ0o)
