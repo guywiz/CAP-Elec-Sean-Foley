@@ -32,6 +32,7 @@ Contraintes de câblage des prises de courant.
 | Four | 3 | 2,5 mm2 | 20A | AC | 0.5 | 1 |
 | Plaque de cuisson | 3 | 6 mm2 | 32A | A | 0.5 | 1 |
 | PC tableau | 3 | 1,5 mm2 | 16A | AC | 0.5 | 2 min |
+| IRVE | 3 | 6 mm2 | 32A | AC | 1 | 1 |
 
 (Promotelec, pages 245, 247)
 

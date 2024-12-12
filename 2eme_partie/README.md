@@ -22,7 +22,7 @@
 - [1.50 Dimensionnement tableau 1](https://youtu.be/8fg6fAb5ePg) / [Notes](./CAP_Elec_1_50.md)
 - [1.51 Dimensionnement tableau 2](https://youtu.be/kSIwx_Da0PM) / [Notes](./CAP_Elec_1_51.md)
 - [1.52 Dimensionnement tableau 3](https://youtu.be/KU_7UYiddlM) / [Notes](./CAP_Elec_1_52.md)
-- [1.53 Dimensionnement tableau 4](https://youtu.be/KVZfmLhppeQ)
+- [1.53 Dimensionnement tableau 4](https://youtu.be/KVZfmLhppeQ) / [Notes](./CAP_Elec_1_53.md)
 - [1.53 Bis maj parafoudre](https://youtu.be/N7zTI1mvZ0o)
 - [1.53C maj parafoudre 2024](https://www.youtube.com/watch?v=Gg5PzQFj1DQ)
 
