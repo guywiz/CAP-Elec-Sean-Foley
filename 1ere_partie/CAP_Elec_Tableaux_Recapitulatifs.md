@@ -13,8 +13,17 @@
 |              6                |                  32A                   | 25A |
 |              10               |                  50A                   | 32A |
 |              16               |                  63A                   | 50A |
+|              25               |                  80A                   | - |
+|              35               |                  100A                   | - |
+|              50               |                  140A                   | - |
+|              70               |                  180A                   | - |
+|              95               |                  200A                   | - |
+|              120               |                  220A                   | - |
+
 
 <img src="./images/Tab_dim.png" width="50%">
+
+Les valeurs sur les sections/ampérage au-delà de 16mm2/63A sont reprises d'un gorupe FB (à prendre avec précaution).
 
 ### Tableau récapitulatif câblage prises de courant
 

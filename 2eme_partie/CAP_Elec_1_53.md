@@ -14,4 +14,4 @@ Parafoudre auto-protégé de Legrand, ne nécessite pas de disjoncteurs (pour le
 
 <img src="./images/Parafoudre_auto_protege_et_circuits.png" width="60%">
 
-POur en savoir plus sur l'installation du parafoudre protégé monophasé de type 2, [voir aussi la vidéo (incluse dans la vidéo)](https://youtu.be/bPBI5mxx2j8?si=NGvlpFbEHyC5gkn3&t=146&t=141).
+Pour en savoir plus sur l'installation du parafoudre protégé monophasé de type 2, [voir aussi la vidéo (incluse dans la vidéo)](https://youtu.be/bPBI5mxx2j8?si=NGvlpFbEHyC5gkn3&t=146&t=141).
