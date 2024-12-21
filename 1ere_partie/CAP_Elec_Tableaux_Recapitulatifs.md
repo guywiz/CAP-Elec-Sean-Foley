@@ -21,7 +21,8 @@
 |              120               |                  220A                   | - |
 
 
-<img src="./images/Tab_dim.png" width="50%">
+<img src="./images/Tab_dim.png" width="45%">
+<img src="./images/Tab_dim_bis.png" width="45%">
 
 Les valeurs sur les sections/ampérage au-delà de 16mm2/63A sont reprises d'un groupe FB (à prendre avec précaution).
 
