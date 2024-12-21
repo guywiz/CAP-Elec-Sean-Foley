@@ -23,7 +23,7 @@
 
 <img src="./images/Tab_dim.png" width="50%">
 
-Les valeurs sur les sections/ampérage au-delà de 16mm2/63A sont reprises d'un gorupe FB (à prendre avec précaution).
+Les valeurs sur les sections/ampérage au-delà de 16mm2/63A sont reprises d'un groupe FB (à prendre avec précaution).
 
 ### Tableau récapitulatif câblage prises de courant
 
