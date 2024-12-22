@@ -24,11 +24,11 @@
 - [1.52 Dimensionnement tableau 3](https://youtu.be/KU_7UYiddlM) / [Notes](./CAP_Elec_1_52.md)
 - [1.53 Dimensionnement tableau 4](https://youtu.be/KVZfmLhppeQ) / [Notes](./CAP_Elec_1_53.md)
 - [1.53 Bis maj parafoudre](https://youtu.be/N7zTI1mvZ0o) / [Notes](./CAP_Elec_1_53_bis.md)
-- [1.53C maj parafoudre 2024](https://www.youtube.com/watch?v=Gg5PzQFj1DQ)
+- [1.53C maj parafoudre 2024](https://www.youtube.com/watch?v=Gg5PzQFj1DQ) / [Notes](./CAP_Elec_1_53C.md)
 
 QCM
 
-- [1.54 Pouvoir de coupure &amp; courbes](https://youtu.be/eCK39U4HOTg)
+- [1.54 Pouvoir de coupure &amp; courbes](https://youtu.be/eCK39U4HOTg) / [Notes](./CAP_Elec_1_54.md)
 - [1.55 Saignées](https://youtu.be/fod4OYvmtuw)
 - [1.56 Rappel chute de tension](https://youtu.be/QUgGy3fLktY)
 - [1.57 Alim bâtiment secondaire](https://youtu.be/kEPQB54pdL4)
