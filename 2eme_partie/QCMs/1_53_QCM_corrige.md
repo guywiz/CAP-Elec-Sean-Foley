@@ -62,7 +62,7 @@ Nom et Prénom	: **GUY MELANÇON**	Date : **22 DECEMBRE 2024**
    E. Borniers de connexion non IP2X
 
 
-5. `#ff0000` Un interrupteur différentiel protège contre les surcharges / surintensités: `#ffffff`
+5. Un interrupteur différentiel protège contre les surcharges / surintensités:
 
    A. Oui
 
@@ -104,7 +104,7 @@ Nom et Prénom	: **GUY MELANÇON**	Date : **22 DECEMBRE 2024**
 
 8. La partie thermique d’un disjoncteur magnétothermique protège contre:
 
-   **A. Des court-circuits**
+   A. Des court-circuits
 
    **B. Des surcharges / surintensités**
 
@@ -180,9 +180,9 @@ Remplissez les valeurs suivantes ... la section de fil minimum en aval disjoncte
 
 19. Les 3 départs avec un coefficient de 1 sont
 
-- Four
+- 
 
-- Plaque de cuisson
+- 
 
 – IRVE
 
@@ -198,4 +198,4 @@ Remplissez les valeurs suivantes ... la section de fil minimum en aval disjoncte
 
     D. Réduire le cout de l’installation
 
-    **E. Mieux équilibrer le tableau de distribution**
+    E. Mieux équilibrer le tableau de distribution
