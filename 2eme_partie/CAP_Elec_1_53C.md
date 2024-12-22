@@ -17,7 +17,7 @@ Mise-à-jour de la [leçon 1.53](./CAP_Elec_1_53.md) (où est abordé le parafou
 | Introduction de deux nouvelles abbréviations | SPDA | (Parafoudre non protégé) |
 |  | SPDI | (Parafoudre auto-protégé)  |
 
-N.B. Trouvé en cherchant le développement des acronymes
+N.B. Trouvé en cherchant le développement des acronymes, sans certitude qu'il désigne bien ce qui est relevé par Sean dans la leçon:
 
 - SPDA  (Système de Protection contre les Décharges Atmosphériques)
 - SPDI (Système de Protection contre les Décharges Internes)
