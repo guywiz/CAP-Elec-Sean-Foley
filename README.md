@@ -7,6 +7,6 @@ Ce projet regroupe les ressources du cours animé par Sean Foley (de la sociét�
 - [CAP Elec Programme 2ème partie](./2eme_partie/)
 - [CAP Elec Programme 3ème partie](./3eme_partie/)
 
---
+<hr width="75%">
 
 [Index thémathique](./Index.md)
