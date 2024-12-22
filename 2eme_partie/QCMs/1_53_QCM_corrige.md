@@ -1,0 +1,201 @@
+# CAP Elec
+## Foley Services Elec - [Programme 2ème partie](CAP Elec.md)
+
+### 1.53 QCM Questionnaire Protection Domestique
+
+
+[Le corrigé de ce QCM](./1.53 tableau corrigé.pdf)
+
+
+Nom et Prénom	: **GUY MELANÇON**	Date : **22 DECEMBRE 2024**
+
+
+1. Un dispositif différentiel réagis selon:
+
+   A. Le courant dans la phase
+
+   B. Le courant dans le neutre
+
+   C. Le courant dans le fil de terre
+
+   **D. La différence de courant entre les conducteurs actifs**
+
+   E. La différence de tension entre les conducteurs actifs
+
+
+2. Un interrupteur différentiel protège contre:
+
+   A. Des court-circuits
+
+   B. Des surcharges / surintensités
+
+   **C. Des défauts d’isolement**
+
+   D. Des inversions de rotation
+
+   E. La rupture du neutre
+
+
+3. Les parafoudres modulaires sont ...
+
+   A. Obligatoires partout en France
+
+   **B. Obligatoires dans certains départements**
+
+   C. Obligatoires en Ile de France
+
+   D. Recommandés partout en France
+
+   E. Optionnels
+
+
+4. Un parafoudre modulaire a une contrainte d’installation, laquelle ?
+
+   A. Position physique dans le tableau
+
+   **B. Longueur de fils**
+
+   C. Différentiel qui le protège
+
+   D. Entrées haut & bas
+
+   E. Borniers de connexion non IP2X
+
+
+5. `#ff0000` Un interrupteur différentiel protège contre les surcharges / surintensités: `#ffffff`
+
+   A. Oui
+
+   B. Non
+
+   C. Certains, ça dépend le type (A, AC, HPI, etc.)
+
+   D. Non, sauf quand c’est associé avec une prise de terre
+
+   E. Seulement en domestique
+
+
+
+6. 	Un disjoncteur protège des personnes contre le contact direct:
+
+   A. Oui
+
+   **B. Non**
+
+   C. Certains, ça dépend le type (A, AC, HPI, etc.)
+
+   D. Non, sauf quand c’est associé avec une prise de terre
+
+   E. Seulement en domestique
+
+
+7. Un disjoncteur protège des personnes contre le contact indirect:
+
+   A. Oui
+
+   B. Non
+
+   C. Certains, ça dépend le type (A, AC, HPI, etc.)
+
+   D. Non, sauf quand c’est associé avec une prise de terre
+
+   E. Seulement en domestique
+
+
+8. La partie thermique d’un disjoncteur magnétothermique protège contre:
+
+   **A. Des court-circuits**
+
+   **B. Des surcharges / surintensités**
+
+   C. Des défauts d’isolement
+
+   D. Des inversions de rotation
+
+   E. De la rupture du neutre
+
+
+9. La partie magnétique d’un disjoncteur protège contre:
+
+   A. Des court-circuits
+
+   B.. Des surcharges / surintensités
+
+   **C. Des défauts d’isolement**
+
+   D. Des inversions de rotation
+
+   E. De la rupture du neutre
+
+
+10. Un différentiel domestique 40A 30ma doit être alimenté avec une section de fil minimum de:
+
+   A. 25mm²
+
+   B. 16mm²
+
+   C. 2.5mm²
+
+   **D. 10mm²**
+
+   E. 6mm²
+
+
+11. Les peignes horizontaux ont une section équivalente à:
+
+   A. 25mm²
+
+   B. 16mm²
+
+   C. 2.5mm²
+
+   D. 10mm²
+
+   **E. 6mm²**
+
+--
+
+Remplissez les valeurs suivantes ... la section de fil minimum en aval disjoncteur
+
+| Question | Section de fil minimum en mm² | Disjoncteur Calibre maximum en Ampères |
+|----|-------------------------------|-------------|
+| 12. | 10mm² | **50A** |
+| 13. | **1.5mm²** | 16A |
+| 14. | **4mm²** | 25A |
+| 15. | 2.5mm² | **20A** |
+| 16. | **16mm²** | 63A |
+| 17. | 6mm² | **32A** |
+
+
+
+18. Les 3 départs obligatoirement protégé par un inter. diff. de type A sont
+
+- Plaque de cuisson
+
+- Lave-linge
+
+- IRVE
+
+
+
+19. Les 3 départs avec un coefficient de 1 sont
+
+- Four
+
+- Plaque de cuisson
+
+– IRVE
+
+
+
+20. Le coefficient appliqué sur les départs (1 ou 0.5) sert à:
+
+    A. Protéger l’inter. diff. des court-circuits
+
+    B. Equilibrer les départs
+
+    **C. Protéger l’inter diff contre une surcharge**
+
+    D. Réduire le cout de l’installation
+
+    **E. Mieux équilibrer le tableau de distribution**
