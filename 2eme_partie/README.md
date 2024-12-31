@@ -29,7 +29,7 @@
 QCM
 
 - [1.54 Pouvoir de coupure &amp; courbes](https://youtu.be/eCK39U4HOTg) / [Notes](./CAP_Elec_1_54.md)
-- [1.55 Saignées](https://youtu.be/fod4OYvmtuw)
+- [1.55 Saignées](https://youtu.be/fod4OYvmtuw) / [Notes](./CAP_Elec_1_55.md)
 - [1.56 Rappel chute de tension](https://youtu.be/QUgGy3fLktY)
 - [1.57 Alim bâtiment secondaire](https://youtu.be/kEPQB54pdL4)
 - [1.57B Mise à la terre dans une dépendance](https://youtu.be/ZaVL4Owi4lc)
