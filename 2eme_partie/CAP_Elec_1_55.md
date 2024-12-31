@@ -26,6 +26,8 @@ Une rainure faite dans un mur pour y loger une gaine électrique.
 - La réglementation impose un recouvrement des gaines (qui passent dans les joints entre les moellons) doit être de 4mm minimum, mais en réalité ils doivebn têtre d'aumoins 2cm pour ne pas se fissurer
 - Les gaines doivent pénétrer dans les pots (!!!)
 
+<img src="./images/Saignees_distances.png" width="50%">
+
 - Les saignées en diagonale sont interdites
 - Si une saignée est faite sur une face du mur, on ne peut en pratiquer sur la face opposée
 - Une saignée verticale
