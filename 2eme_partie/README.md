@@ -33,7 +33,7 @@ QCM
 - [1.56 Rappel chute de tension](https://youtu.be/QUgGy3fLktY) / [Notes](./CAP_Elec_1_56.md)
 - [1.57 Alim bâtiment secondaire](https://youtu.be/kEPQB54pdL4) / [Notes](./CAP_Elec_1_57.md)
 - [1.57B Mise à la terre dans une dépendance](https://youtu.be/ZaVL4Owi4lc) / [Notes](./CAP_Elec_1_57B.md)
-- [1.58 Logement PMR (handicapé)](https://youtu.be/OK8U51aTHD0)
+- [1.58 Logement PMR (handicapé)](https://youtu.be/OK8U51aTHD0) / [Notes](./CAP_Elec_1_58.md)
 - [1.59 Éclairage de sécurité](https://youtu.be/V8duOcuLCEs)
 
 QCM
