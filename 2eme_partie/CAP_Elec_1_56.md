@@ -44,4 +44,12 @@ Rappel, chute de tension maximum admise:
 - 3% (d'une tension nominale 230V) sur un circuit éclairage = 6.9V
 - 5% sur les autres circuits = 11.5V
 
+#### Calcul de puissance
 
+En situation de courant alternatif monophasé, à cause de réactance des appareils, il faut tenir compte d'un déphasage (un angle $\varphi$) du courant, et calculer la puissance active:
+
+$$P = U \cdot I \cdot \cos \varphi$$
+
+d'où le calcul de l'intensité
+
+$$I = \frac{P}{U \cdot \cos \varphi}$$

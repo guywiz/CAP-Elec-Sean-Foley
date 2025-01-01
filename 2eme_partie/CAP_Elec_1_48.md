@@ -43,4 +43,4 @@ Le facteur de puissance - aussi appelé $$\cos \varphi = \frac{\text{Puissance a
 
 L'intensité réactive (moteur, typiquement puissance induite d'un système à bobines, donc magnétique) est *en retard* par rapport à la tension (ou à l'intensité associée) donc *négative*, alors que l'intensité inductive (condensateur) est *en avance*, donc *positive*
 
-On a intérêt à ce que le facteur de puissance soit proche de 1 ($\varphi \sim 0$), pour que la puissance active soit au plus près de la puissance apparente. D'où la présence combinée de condensateurs et de bobnies (moteurs).
+On a intérêt à ce que le facteur de puissance soit proche de 1 ($\varphi \sim 0$), pour que la puissance active soit au plus près de la puissance apparente. D'où la présence combinée de condensateurs et de bobines (moteurs).
