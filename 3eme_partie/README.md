@@ -1,6 +1,11 @@
 # CAP Elec Programme 3ème partie
 ## Foley Services Elec
 
+### Addendum
+
+- [Tableaux récapitulatifs section, ampérage, câblage prises de courant](../1ere_partie/CAP_Elec_Tableaux_Recapitulatifs.md)
+- [Terminologie et acronymes](../1ere_partie/CAP_Elec_Terminologie_Acronymes.md)
+
 ### Programme 3ème partie
 
 - [2.01 Alarme intrusion cours](https://youtu.be/JoW5WQoYw3Q)

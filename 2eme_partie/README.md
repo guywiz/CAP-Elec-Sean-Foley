@@ -4,8 +4,7 @@
 ### Rappels (addendum 1ère partie)
 
 - [Tableaux récapitulatifs section, ampérage, câblage prises de courant](../1ere_partie/CAP_Elec_Tableaux_Recapitulatifs.md)
-- [Terminologie et acronymes](./1_ere_partie/CAP_Elec_Terminologie_Acronymes.md)
-
+- [Terminologie et acronymes](../1ere_partie/CAP_Elec_Terminologie_Acronymes.md)
 
 ### Programme 2ème partie
 

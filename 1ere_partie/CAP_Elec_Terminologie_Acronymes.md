@@ -33,3 +33,8 @@
 | Sécurité | TBTS | Très Basse Tension de Sécurité | 
 | Installation électrique | SLT | Schéma de liaison à la terre |
 | Sécurité | PEN | Protective Earth and Neutral |
+| Sécurité | PPSPS  | Plan Particulier de Sécurité et de Protection de la Santé |
+| Sécurité | DEEE PRO  | Déchets d’Équipements Électriques et Électroniques Professionnels |
+| Installation électrique | PE  | Protection Équipotentielle |
+| Installation électrique | DALI |  Digital Addressable Lighting Interface |
+| Sécurité | PMR  | Personne à mobilité réduite |
