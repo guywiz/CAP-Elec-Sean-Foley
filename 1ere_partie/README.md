@@ -11,12 +11,12 @@
 - [1.01 Les grandeurs électriques](https://youtu.be/BNpGLPDqrYg) / [Notes](./CAP_Elec_1_01.md)
 - [Notes](https://github.com/guywiz/CAP-Elec-Sean-Foley/blob/main/CAP%20Elec_1_01.md)
 
-**QCM** [1.01 Les grandeurs électriques **QCM**](./QCMs/1_01_QCM.md)
+**QCM** [1.01 Les grandeurs électriques](./QCMs/1_01_QCM.md)
 
 - [1.02 AC : DC](https://youtu.be/ZubeDL4bBZ0) / [Notes](CAP_Elec_1_02.md)
 - [1.03 Résistances](https://youtu.be/ngCHGVHVL3k) / [Notes](CAP_Elec_1_03.md)
 
-**QCM** [1.03 Résistances **QCM**](./QCMs/1_03_QCM.md)
+**QCM** [1.03 Résistances](./QCMs/1_03_QCM.md)
 
 - [1.03B Impédances](https://youtu.be/2CV95VA8dQQ) / [Notes](CAP_Elec_1_03B.md)
 - [1.04 GTL & ETEL](https://youtu.be/xuFOlUG-MCU) / [Notes](CAP_Elec_1_04.md)
@@ -26,7 +26,7 @@
 - [1.07B Tableaux: section & fils, départs domestiques](https://www.youtube.com/watch?v=6HJ_WErG7Nc) / [Notes](CAP_Elec_1_07B.md)
 - [1.07C Maquette d'entraînement](https://www.youtube.com/watch?v=gU8o_c3lzt8) / [Notes](CAP_Elec_1_07C.md)
 
-**QCM** [1.07 Les protections **QCM**](./QCMs/1_07_QCM.md)
+**QCM** [1.07 Les protections](./QCMs/1_07_QCM.md)
 
 ---
 
@@ -46,7 +46,7 @@
 - [1.16 Eclairage 9 - Interrupteur / Coupure Pompier](https://youtu.be/TU4D8IpbF-Y) / [Notes](CAP_Elec_1_16.md)
 - [1.16B Eclairage 10 - Anciennes technologies](https://youtu.be/gmlp44cK7Yk) / [Notes](CAP_Elec_1_16B.md)
 
-**QCM** [1.16 L'éclairage **QCM**](./QCMs/1_16_QCM.md)
+**QCM** [1.16 L'éclairage](./QCMs/1_16_QCM.md)
 
 ---
 

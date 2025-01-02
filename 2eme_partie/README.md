@@ -25,7 +25,7 @@
 - [1.53 Bis maj parafoudre](https://youtu.be/N7zTI1mvZ0o) / [Notes](./CAP_Elec_1_53_bis.md)
 - [1.53C maj parafoudre 2024](https://www.youtube.com/watch?v=Gg5PzQFj1DQ) / [Notes](./CAP_Elec_1_53C.md)
 
-QCM
+**QCM** [1.53 Protection domestique](./QCMs/1_53_QCM.md)
 
 - [1.54 Pouvoir de coupure &amp; courbes](https://youtu.be/eCK39U4HOTg) / [Notes](./CAP_Elec_1_54.md)
 - [1.55 Saignées](https://youtu.be/fod4OYvmtuw) / [Notes](./CAP_Elec_1_55.md)
@@ -35,7 +35,7 @@ QCM
 - [1.58 Logement PMR (handicapé)](https://youtu.be/OK8U51aTHD0) / [Notes](./CAP_Elec_1_58.md)
 - [1.59 Éclairage de sécurité](https://youtu.be/V8duOcuLCEs) / [Notes](./CAP_Elec_1_59.md)
 
-QCM
+**QCM** [1.59 BAES](./QCMs/1_59_QCM.md)
 
 - [1.60 Goulotte tertiaire](https://youtu.be/S5jN4580Igg)
 - [1.61 Chemin de câble](https://youtu.be/oxysXJcldJw)

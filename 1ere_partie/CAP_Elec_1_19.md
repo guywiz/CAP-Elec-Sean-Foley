@@ -49,7 +49,7 @@ Le caractère multi-brins de ces cables imposent d'utliser un embout de cablage.
 
 R2V = avec bourrage, R02V = sans bourrage
 
-Ces câbles sont utilisés en extérieur (pompe piscine, pome relevage, alimentation portail, ...).
+Ces câbles sont utilisés en extérieur (pompe piscine, pompe relevage, alimentation portail, ...).
 
 Si le cable passe dans un endroit accessible (combles, extérieur le long d'un mur, etc. il n'est pas nécessaire de l'insérer dans une gaine. Si le cable n'est pas accessible, on doit le gainer.
 
@@ -92,3 +92,37 @@ Il existe trois types de gaines fréquemment installées.
 - La gaine est destinée à être en terrée, sinon elle vieillit mal (pas de portection contre les UV).
 - On peut le noyer dans le béton.
 - Il est ***interdit de l'utiliser en intérieur*** car ***il est propagateur de la flamme***.
+
+--
+
+Ajout 2025/01
+
+Tableau récapitulatif des nomenclatures, [repris du site "Comptoir du câble"](https://www.comptoir-du-cable.com/articles/decrypter-et-comprendre-la-reference-d-un-cable-electrique-n5?srsltid=AfmBOoq_734hmQ6geukC4nGTILPyExkpsPmR9-p8r7pzlwSdpYLCR1yM)
+
+| Tenue en tension | Isolant 1 | Isolant 2 | Souplesse âme |
+|------------------|-----------|-----------|---------------|
+| H05 | V | V | F |
+
+Tenue en tension
+
+- H01 : 100V
+- H03 : 300V
+- H05 : 500V
+- H07 : 750V
+- H1 : 1000V
+
+Isolant 1 (intérieur) et isolant 2 (extérieur)
+
+- V : PVC
+- R : Réticulé
+- N : Néoprène
+- Z : Zéro Halogène
+- B : mélange spécial sans halogène
+- Q : PUR (polyuréthane)
+
+Souplesse âme
+
+- K : souple classe 5 (souple multibrins)
+- F : souple classe 5 (souple multibrins)
+- U : rigide classe 1 (âme pleine)
+- R : rigide classe 2 (âme câblée)
