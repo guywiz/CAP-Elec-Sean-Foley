@@ -37,7 +37,7 @@
 
 **QCM** [1.59 BAES](./QCMs/1_59_QCM.md)
 
-- [1.60 Goulotte tertiaire](https://youtu.be/S5jN4580Igg)
+- [1.60 Goulotte tertiaire](https://youtu.be/S5jN4580Igg) / [Notes](./CAP_Elec_1_60.md)
 - [1.61 Chemin de câble](https://youtu.be/oxysXJcldJw)
 - [1.62 Câblofil](https://youtu.be/5VBfm7ynQAU)
 - [1.63 Échelle à câble](https://youtu.be/M0igHLdhrMo)
