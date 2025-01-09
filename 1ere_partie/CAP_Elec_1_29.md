@@ -13,7 +13,7 @@ Rappel, dans une chambre, la norme impose:
 - 1 commande à l'entrée de la pièce avec au moins un point lumineux au plafond ***ou*** deux appliques ***ou*** deux prises de courant commandée
 - 1 prise de communication (RJ45)
 
-Symboles à connaître:
+Symboles à connaître -- ***voir aussi Promotelec volume 1, Annexe 1 "Symboles normalisés", pages 500 et ss.***
 
 | Symbole | Icône |
 |---------|-------|

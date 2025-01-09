@@ -38,3 +38,5 @@
 | Installation électrique | PE  | Protection Équipotentielle |
 | Installation électrique | DALI |  Digital Addressable Lighting Interface |
 | Sécurité | PMR  | Personne à mobilité réduite |
+| Installation électrique | PRM | Point de référence et mesure (compteur) - voir PDL |
+| Installation électrique | PDL | Point de livraison (compteur) - voir PRM |

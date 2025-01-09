@@ -7,7 +7,7 @@
 
 L'AGCP doit être aménagé (son accessibilité)
 
-Voir Promotelec page 319
+*Voir Promotelec (édition 2022), chapitre 5, pages 323 et ss.*
 
 - L'AGCP se situe à une hauteur entre 90cm et 1,30m
 - Les commandes se situent entre 75cm et 1,30m
