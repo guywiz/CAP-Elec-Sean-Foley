@@ -50,6 +50,6 @@ Contraintes de câblage des prises de courant.
 
 | Section $$S$$ des conducteurs actifs | Section $$S'$$ des conducteurs de protection |
 |--------------------------------|---------------------------------------|
-| Section $$S \leq 16$$ | Section $$S' = S$$ (même section) |
-| Section $$S \in \{ 25, 35 \}$$ | Section $$S' = 16$$ |
-| Section $$S > 35$$ | Section $$S' = 0,5 S$$ |
+| Section $S \leq 16$ | Section $S' = S$ (même section) |
+| Section $S \in \{ 25, 35 \}$ | Section $S' = 16$ |
+| Section $S > 35$ | Section $S' = 0,5 S$ |
