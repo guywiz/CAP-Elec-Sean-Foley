@@ -9,7 +9,6 @@
 ### Programme 1ère partie
 
 - [1.01 Les grandeurs électriques](https://youtu.be/BNpGLPDqrYg) / [Notes](./CAP_Elec_1_01.md)
-- [Notes](https://github.com/guywiz/CAP-Elec-Sean-Foley/blob/main/CAP%20Elec_1_01.md)
 
 **QCM** [1.01 Les grandeurs électriques](./QCMs/1_01_QCM.md)
 
