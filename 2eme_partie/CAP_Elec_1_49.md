@@ -9,7 +9,7 @@
 
 Un *paratonnerre* est une tige métallique qui se met sur la partie haute d'un bâtiment.
 
-Un *parafoudre* s'installe aujourd'hui dans le tableau électrique. IL y a deux types de parafoudre:
+Un *parafoudre* s'installe aujourd'hui dans le tableau électrique. Il y a deux types de parafoudre:
 
 - Pour les bâtiments équipés d'un paratonnerre
 
