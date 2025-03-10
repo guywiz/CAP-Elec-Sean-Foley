@@ -12,7 +12,7 @@ Parafoudre auto-protégé de Legrand, ne nécessite pas de disjoncteurs (pour le
 - il existe désormais un modèle avec intensité max de 63A ([voir notice Legrand](https://media.adeo.com/media/1542147/media.pdf) accessible depuis le site de Leroy-Merlin, par exmeple)
 - on peut donc installer en aval un interrupteri différentel de 63A
 
-- pratique aussi [l'accessoire de raccordement](https://www.legrand.fr/catalogue/peigne-et-accessoires-de-raccordement/accessoire-de-raccordement-inter-differentiel-ou-parafoudre-63a-et-peigne-vertical) (connexion entre le peigne vertical (depuis AGCP) et le parafoudre)
+- pratique aussi <a href="https://www.legrand.fr/catalogue/peigne-et-accessoires-de-raccordement/accessoire-de-raccordement-inter-differentiel-ou-parafoudre-63a-et-peigne-vertical" target="_blank">l'accessoire de raccordement</a> (connexion entre le peigne vertical (depuis AGCP) et le parafoudre)
 
 <img src="./images/Raccordement_parafoudre.png" width="20%">
 
