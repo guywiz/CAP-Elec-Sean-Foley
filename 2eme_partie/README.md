@@ -38,8 +38,8 @@
 **QCM** [1.59 BAES](./QCMs/1_59_QCM.md)
 
 - [1.60 Goulotte tertiaire](https://youtu.be/S5jN4580Igg) / [Notes](./CAP_Elec_1_60.md)
-- [1.61 Chemin de câble](https://youtu.be/oxysXJcldJw)
-- [1.62 Câblofil](https://youtu.be/5VBfm7ynQAU)
+- [1.61 Chemin de câble](https://youtu.be/oxysXJcldJw) / [Notes](./CAP_Elec_1_61.md)
+- [1.62 Câblofil](https://youtu.be/5VBfm7ynQAU) / [Notes](./CAP_Elec_1_62.md)
 - [1.63 Échelle à câble](https://youtu.be/M0igHLdhrMo)
 - [1.64 Borniers tertiaires](https://youtu.be/QMEewGe-vYs)
 - [1.65 Presse – étoupes](https://youtu.be/js9a-c29eMU)
