@@ -44,7 +44,7 @@
 - [1.64 Borniers tertiaires](https://youtu.be/QMEewGe-vYs) / [Notes](./CAP_Elec_1_64.md)
 - [1.65 Presse – étoupes](https://youtu.be/js9a-c29eMU) / [Notes](./CAP_Elec_1_65.md)
 - 1.65B Cosses et embouts [(voir leçon 1.77B)](./CAP_Elec_1_77B.md)
-- [1.66 Arrêt d’urgence 1 et &amp; mt](https://youtu.be/nefQDojra7Y)
+- [1.66 Arrêt d’urgence 1 et &amp; mt](https://youtu.be/nefQDojra7Y) / [Notes](./CAP_Elec_1_66.md)
 - [1.67 Arrêt d’urgence 2 mnx](https://youtu.be/dvejGrUoQ3c)
 
 QCM
