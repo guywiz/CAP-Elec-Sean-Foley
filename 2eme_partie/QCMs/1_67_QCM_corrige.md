@@ -1,0 +1,169 @@
+# CAP Elec
+## Foley Services Elec - [Programme 2ème partie](CAP Elec.md)
+
+### 1.67 QCM Arrêt d'urgence
+
+
+[Le corrigé de ce QCM](./1.59 BAES corrigé.pdf)
+
+Nom et Prénom	: **GUY MELANÇON**	Date : **9 JANVIER 2025**
+
+
+1. Les bornes d'un déclencheur d’arrêt d’urgence (coup de poing) manuel sont:
+
+  **A. Un contact sec**
+
+  B. Un liaison informatique
+
+  C. Pour la lecture de l’état de l’appareil
+
+  D. Sous tension
+
+  E. Obsolètes
+
+
+2. Les contacts des coups de poings sur un circuit E.T. (émission de tension) sont:
+
+  A. n/o en séries
+
+  **B. n/o en parallèle**
+
+  C. n/f en séries
+
+  D. n/f en parallèle
+
+  E. Obsolètes
+
+
+3. Les contacts des coups de poings sur un circuit M.T. (manque/minimum de tension) sont:
+
+  A. n/o en séries
+
+  B. n/o en parallèle
+
+  **C. n/f en séries**
+
+  D. n/f en parallèle
+
+  E. Obsolètes
+
+4. Les déclencheurs A.U. sont:
+
+  A. Rouge
+
+  B. Bleu
+
+  C. Jaune
+
+  **D. Rouge & jaune**
+
+  E. Noir & rouge
+
+
+5. Un déclencheur d’arrêt d’urgence est normalement posé à quelle hauteur (environ), entre:
+
+  A. 0m80 et 1m00
+
+  B. 1m80 et 2m00
+
+  **C. 1m30 et 1m50**
+
+  D. 2m00 et 2m20
+
+  E. 2m50 et 2m80
+
+
+6. Un câble d’A.U. peut-être passer dans une gaine avec:
+
+  A. Tous les autres câbles
+
+  B. La ligne téléphonique
+
+  C. La télé-information
+
+  **D. Un autre câble courant fort**
+
+  E. Aucun autre câble
+
+
+7. Un départ A.U. est un départ:
+
+  A. 2A ou 6A en 1.0mm²
+
+  B. 6A ou 10Aen 2.5mm²
+
+  C. 10A ou 16A en 1.5mm²
+
+  D. 10A ou 16A en 1.0mm²
+
+  **E. 2A ou 6A en 1.5mm²**
+
+
+8. Un départ d’arrêt d’urgence est un départ en aval d’un dispositif différentiel:
+
+  A. 10mA
+
+  B. 30mA
+
+  C. 100mA
+
+  **D. 300mA**
+
+  E. 500mA
+
+
+9. Le plus gros avantage d’un système A.U. avec une bobine d’émission de tension est:
+
+  A. Aucun avantage
+
+  B. Le circuit s’autoteste
+
+  **C. Le système n’est pas sensible aux microcoupures**
+
+  D. C’est moins cher que les autres systèmes
+
+  E. Meilleur protection contre le contact indirect
+
+
+10. Le plus gros avantage d’un système A.U. avec une bobine de manque (ou minimum) de tension est
+
+  A. Aucun avantage
+
+  **B. Le circuit s’autoteste**
+
+  C. Le système n’est pas sensible aux microcoupures
+
+  D. C’est moins cher que les autres systèmes
+
+  E. Meilleur protection contre le contact indirect
+
+
+11. Pour un système d’arrêt d’urgence avec 2 voyants pour montrer l’état du système, il faut
+
+  **A. Alimenter le circuit A.U. en amont de l’appareil à déclencher**
+
+  B. Alimenter le circuit AU en aval de l’appareil à déclencher
+
+  C. Alimenter le circuit en amont ou en aval de l’appareil à déclencher
+
+  D. Peu importe
+
+  E. Ce n’est pas possible d’avoir 2 voyants
+
+
+12. Un déclencheur MNx
+
+  **A. Un 2 systèmes de déclenchement**
+
+  B. N’est pas utilisé en France
+
+  C. Est utilisé uniquement en milieu industriel
+
+  D. Est préconisé pour les alimentations des ascenseurs
+
+  E. N’a pas de liaison mécanique avec l’actionneur
+
+
+Complétez le circuit avec 2 coups de poings (pas de voyant)
+
+<img src="../images/cablage_bobine_mx_solution.png" width=600>
