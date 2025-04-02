@@ -49,7 +49,7 @@
 
 **QCM** [1_67 Arrêt d’urgence](./QCMs/1_67_QCM.md)
 
-- [1.68 Consuel](https://youtu.be/yTc8WVrhkdc)
+- [1.68 Consuel](https://youtu.be/yTc8WVrhkdc) / [Notes](./CAP_Elec_1_68.md)
 
 QCM
 
