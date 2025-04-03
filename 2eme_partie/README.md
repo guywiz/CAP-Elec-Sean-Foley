@@ -53,7 +53,7 @@
 
 QCM
 
-- [1.69 Colonne montante](https://youtu.be/KrRZw7bWsGU)
+- [1.69 Colonne montante](https://youtu.be/KrRZw7bWsGU) / [Notes](./CAP_Elec_1_69.md)
 - [1.70 Types de différentiels](https://youtu.be/NNVNwgB-Tfo)
  - [1.70B Mise-à-jour - Types de différentiels](https://youtu.be/abAQy3E_n8E)
 - [1.71 Pieuvres](https://youtu.be/JrfXZtyOuKM)

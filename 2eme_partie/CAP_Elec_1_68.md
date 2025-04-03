@@ -1,4 +1,4 @@
-# CAP Elec 1.68 Consuel
+# CAP Elec 1.68 CONSUEL
 ## Foley Services Elec - [Programme 2ème partie](../2eme_partie/README.md)
 
 ### 1.68 Consuel
