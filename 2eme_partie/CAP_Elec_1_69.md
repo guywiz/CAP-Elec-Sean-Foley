@@ -7,3 +7,8 @@
 
 #### Colonne montante
 
+Dans le contetxe d'une habitation collective.
+
+<img src="./images/schema_colonne_montante_electrique.png" width="400">
+
+Fusible AD (asssocié disjoncteur)
