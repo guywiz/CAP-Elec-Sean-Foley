@@ -51,7 +51,7 @@
 
 - [1.68 Consuel](https://youtu.be/yTc8WVrhkdc) / [Notes](./CAP_Elec_1_68.md)
 
-QCM
+**QCM** [1_68 CONSUEL](./QCMs/1_68_QCM.md)
 
 - [1.69 Colonne montante](https://youtu.be/KrRZw7bWsGU) / [Notes](./CAP_Elec_1_69.md)
 - [1.70 Types de différentiels](https://youtu.be/NNVNwgB-Tfo) / [Notes](./CAP_Elec_1_70.md)
