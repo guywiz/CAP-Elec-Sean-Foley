@@ -6,7 +6,7 @@
 
 [Le corrigé de ce QCM](./1.59 BAES corrigé.pdf)
 
-Nom et Prénom	: **GUY MELANÇON**	Date : **9 JANVIER 2025**
+Nom et Prénom	: **GUY MELANÇON**	Date : **31 MARS 2025**
 
 
 1. Les bornes d'un déclencheur d’arrêt d’urgence (coup de poing) manuel sont:
