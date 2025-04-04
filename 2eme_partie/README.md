@@ -73,7 +73,7 @@ QCM
 - [1.80 Habélec points clés avant br](https://youtu.be/t-RSv5eRos4)
 - [1.81 Habélec b1v](https://youtu.be/c7WcghYbpxY)
 - [1.82 Habélec br](https://youtu.be/0EXhXeuHikI)
-- [1.83 Mise en service cours](https://youtu.be/wNK_aQaREA4)
+- [1.83 Mise en service cours](https://youtu.be/wNK_aQaREA4) / [Notes](./CAP_Elec_1_83.md)
 - [1.84 Mes formateur pratique](https://youtu.be/6vNvEA7uU18)
 - [1.85 Mes stagiaire pratique](https://youtu.be/XLqzRfDTvWI)
 - [1.86 Mes tétra (chantier)](https://youtu.be/JrzBQiw3lIA)
