@@ -55,7 +55,7 @@
 
 - [1.69 Colonne montante](https://youtu.be/KrRZw7bWsGU) / [Notes](./CAP_Elec_1_69.md)
 - [1.70 Types de différentiels](https://youtu.be/NNVNwgB-Tfo) / [Notes](./CAP_Elec_1_70.md)
- - [1.70B Mise-à-jour - Types de différentiels](https://youtu.be/abAQy3E_n8E)
+ - [1.70B Mise-à-jour - Types de différentiels](https://youtu.be/abAQy3E_n8E) / [Notes](./CAP_Elec_1_70B.md)
 - [1.71 Pieuvres](https://youtu.be/JrfXZtyOuKM)
 - [1.72 Logiciel legrand xlpro3](https://youtu.be/s8D-OFFw0ww)
 - [1.73 Indus 1 : protections & commandes](https://youtu.be/E8TSs---Z_Q)
