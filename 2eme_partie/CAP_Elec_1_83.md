@@ -36,7 +36,7 @@
 
 - Mesure de la qualité de l'isolation des conducteurs (en $\Omega$ Ohms aussi)
 - On doit pouvoir mesurer des résistaces dans le domaine des Mega Ohms (milliers de $\Omega$), avec un appareil, le *méga-ohmètre*
-- On injecte dans un résseau 230V, une tension de 500V, dan sune installation 500V on injectera une tension de 1000V
+- On injecte dans un réseau 230V, une tension de 500V, dans une installation 500V on injectera une tension de 1000V
 - Pour une très basse tension, on utilisera une tension de 250V
 - L'usage de l'appareil ne nécessite pas l'utilisation des EPI
   - L'appareil n'est pas relié au réseau
