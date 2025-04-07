@@ -24,7 +24,7 @@
 - Dès lors qu'on a établi que le tableau n'est pas sous tension, on peut enlever les équipements de protection
 
 ##### 2ème étape Mesures de résistance
-- L'appareil qui lit la résistance (mesurée en $\Omega$ Ohms) fait entendre un bip si la résistance ne dépasse 40 Ohms (à vérifier selon les modèles), mais li faut en tous les cas pouvoir lire la valeur sur l'écran digitale de l'appareil
+- L'appareil qui lit la résistance (mesurée en $\Omega$ Ohms) fait entendre un bip si la résistance ne dépasse 40 Ohms (à vérifier selon les modèles), mais il faut en tous les cas pouvoir lire la valeur sur l'écran digital de l'appareil
 
 "Il est impératif de vérifier la continuité des conducteurs de protection et des liaisons équipotentielles supplémentaires et principales éventuelles. Elles doivent être testées avec un ohmétre et leur continuité doit être inférieure ou égale à 2 ohms."
 
@@ -44,14 +44,14 @@
 
 |  Tension nominale du circuit | Tension d'essai  | Résistance minimale d'isolement  |
 |---|---|---|---|---|
-|  Inférieur à 50 V |  250 VDC |  0,25 M$\Omega$ |
-| De 50 V à 500 V  |  500 VDC |  0,50 M$\Omega$ |
+|  Inférieur à 50 V |  250 VDC |  0,25 M $\Omega$ |
+| De 50 V à 500 V  |  500 VDC |  0,50 M $\Omega$ |
 
-Pour tester l'isolement, on pourrait tester individuellement chacun des départ de circuit (et on doit observer pour chacun  une résistance d'au moins 0,5M$\Omega$).
+Pour tester l'isolement, on pourrait tester individuellement chacun des départ de circuit (et on doit observer pour chacun  une résistance d'au moins 0,5M $\Omega$).
 
 On va plutôt considérer l'ensemble des circuits, tous à la fois -- qui sont alors en parallèle. On se rappelle que la résistance d'un circuit parallèle est plus petite que la résistance la plus faible des circuits qui sont connectés en parallèle.
 
-- Ainsi, si la résistance mesurée est au moins égale à 0,5M$\Omega$, c'est qu'elle est au moins égale à cette valeur pour chacun des circuits.
+- Ainsi, si la résistance mesurée est au moins égale à 0,5M $\Omega$, c'est qu'elle est au moins égale à cette valeur pour chacun des circuits.
 
 Cette vérification se fait en s'assurant d'board que tous les circuits sont fermés (tous les disjoncteurs sont "en marche forcée").
 
