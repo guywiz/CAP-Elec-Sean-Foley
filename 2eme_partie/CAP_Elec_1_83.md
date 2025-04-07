@@ -40,26 +40,26 @@
 - Pour une très basse tension, on utilisera une tension de 250V
 - L'usage de l'appareil ne nécessite pas l'utilisation des EPI
   - L'appareil n'est pas relié au réseau
-  - Il n'injecte un courant électrique que de 1mmA (or le seul de non lâcher est de 10mmA).
+  - Il n'injecte un courant électrique que de 1mmA (or le seuil de non lâcher est de 10mmA).
 
 |  Tension nominale du circuit | Tension d'essai  | Résistance minimale d'isolement  |
 |---|---|---|
 |  Inférieur à 50 V |  250 VDC |  0,25 M $\Omega$ |
 | De 50 V à 500 V  |  500 VDC |  0,50 M $\Omega$ |
 
-Pour tester l'isolement, on pourrait tester individuellement chacun des départ de circuit (et on doit observer pour chacun  une résistance d'au moins 0,5M $\Omega$).
+Pour tester l'isolement, on pourrait tester individuellement chacun des départs de circuit (et on doit observer pour chacun  une résistance d'au moins 0,5M $\Omega$).
 
-On va plutôt considérer l'ensemble des circuits, tous à la fois -- qui sont alors en parallèle. On se rappelle que la résistance d'un circuit parallèle est plus petite que la résistance la plus faible des circuits qui sont connectés en parallèle.
+On va plutôt considérer l'ensemble des circuits, tous à la fois -- qui sont alors en parallèle. [On se rappelle que la résistance d'un circuit parallèle est plus petite que la résistance la plus faible des circuits qui sont connectés en parallèle.](../1ere_partie/CAP_Elec_1_03.md)
 
 - Ainsi, si la résistance mesurée est au moins égale à 0,5M $\Omega$, c'est qu'elle est au moins égale à cette valeur pour chacun des circuits.
 
-Cette vérification se fait en s'assurant d'board que tous les circuits sont fermés (tous les disjoncteurs sont "en marche forcée").
+Cette vérification se fait en s'assurant d'abord que tous les circuits sont fermés (tous les disjoncteurs sont "en marche forcée").
 
 ##### 3ème étape Vérification d'absence de court-circuit
 
-Avec le teste décrit à la section précédente, on ne vérifie pas l'isolement entre phase et neutre.
+Avec le test décrit à la section précédente, on ne vérifie pas l'isolement entre phase et neutre.
 
-On peut donc procéder circuit par circuit et mesurer la résistance entre phase et neutre.
+Pour mesurer la résistance entre phase et neutre, on pourrait procéder circuit par circuit.
 
-- Cependant, s'il y a continuité entre phas eet neutre, le muti-mètre indiquera la résistance des appareils alimentés par ce circuit, si par exemple ils sont en marche.
+- Cependant, s'il y a continuité entre phase et neutre, le multi-mètre indiquera la résistance des appareils alimentés par ce circuit, si par exemple ils sont en marche (ampoule, chauffe-eau, etc.).
 - Si la résistance
