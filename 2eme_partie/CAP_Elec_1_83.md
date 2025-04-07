@@ -43,7 +43,7 @@
   - Il n'injecte un courant électrique que de 1mmA (or le seul de non lâcher est de 10mmA).
 
 |  Tension nominale du circuit | Tension d'essai  | Résistance minimale d'isolement  |
-|---|---|---|---|---|
+|---|---|---|
 |  Inférieur à 50 V |  250 VDC |  0,25 M $\Omega$ |
 | De 50 V à 500 V  |  500 VDC |  0,50 M $\Omega$ |
 
