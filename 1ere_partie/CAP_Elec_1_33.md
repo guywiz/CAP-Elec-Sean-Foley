@@ -7,11 +7,11 @@
 
 #### Retour sur la salle de bain
 
-Toutes le sparties métalliques doivent être mises à la terre.
+Toutes les parties métalliques doivent être mises à la terre.
 
 Cas particulier (et en réalité plutôt rare) des menuiseries en aluminium, lorsqu'elles sont dans  le volume 1.
 
-Les douches et baignoires, si elles sont en résine et non en métal, ne sont pas mises à la terre, mais la liaison doit être mise en attente (elle est là, non connetcée, mais déjà installée si dans le futur on change la douche ou la baignoire pour un modèle métallique).
+Les douches et baignoires, si elles sont en résine et non en métal, ne sont pas mises à la terre, mais la liaison doit être mise en attente (elle est là, non connectée, mais déjà installée si dans le futur on change la douche ou la baignoire pour un modèle métallique).
 
 Si la liaison équipotentielle secondaire est protégée mécaniquement, le diamètre de 2,5mm^2 suffit, sinon (pas protégée mécaniquement) il faut passer en diamètre 4mm^2.
 
@@ -36,7 +36,7 @@ Autres cas possibles:
 - réservoir fioul
 - etc.
 
-On installe une liaison équipotentielle qui court sur chacun des tuyaux sans discontinuité. Le fil est dénudé (partie rouge sur l'image) sur la partie qui assure la connexion au tuyau. *C'est imposé parla norme.*
+On installe une liaison équipotentielle qui court sur chacun des tuyaux sans discontinuité. Le fil est dénudé (partie rouge sur l'image) sur la partie qui assure la connexion au tuyau. *C'est imposé par la norme.*
 
 <img src="./images/Liaison_equipotielle_principale.png" width="50%">
 
