@@ -47,11 +47,11 @@
 - [1.66 Arrêt d’urgence 1 et &amp; mt](https://youtu.be/nefQDojra7Y) / [Notes](./CAP_Elec_1_66.md)
 - [1.67 Arrêt d’urgence 2 mnx](https://youtu.be/dvejGrUoQ3c) / [Notes](./CAP_Elec_1_67.md)
 
-**QCM** [1_67 Arrêt d’urgence](./QCMs/1_67_QCM.md)
+**QCM** [1.67 Arrêt d’urgence](./QCMs/1_67_QCM.md)
 
 - [1.68 Consuel](https://youtu.be/yTc8WVrhkdc) / [Notes](./CAP_Elec_1_68.md)
 
-**QCM** [1_68 CONSUEL](./QCMs/1_68_QCM.md)
+**QCM** [1.68 CONSUEL](./QCMs/1_68_QCM.md)
 
 - [1.69 Colonne montante](https://youtu.be/KrRZw7bWsGU) / [Notes](./CAP_Elec_1_69.md)
 - [1.70 Types de différentiels](https://youtu.be/NNVNwgB-Tfo) / [Notes](./CAP_Elec_1_70.md)
