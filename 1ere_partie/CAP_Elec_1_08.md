@@ -90,7 +90,10 @@ Qui est une option qu'on préfère aux points de commande multiples. Un ***tél�
 
 Le schéma de cablage d'un télérupteur:
 
+- Alimentation de la bobine, bornes A1 et A2
+- Utilisation du contact, bornes 1 et 2
+
 <img src="./images/Schema_cablage_telerupteur_unipolaire.png" width="80%">
 
-- La phase passe du point 1 au point 2
-- Son passage est contrôlée par le télérupteur qui reçoit l'impulsion A1 (retour bouton poussoir orange) et le neutre A2
+- La phase passe du point 1 au point 2 (contact)
+- Son passage est contrôlée par le télérupteur qui reçoit l'impulsion A1 (retour bouton poussoir orange) et le neutre A2 (A1, A2 alimentation bobine après impulsion du bouton poussoir)
