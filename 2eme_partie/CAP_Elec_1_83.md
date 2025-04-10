@@ -131,5 +131,6 @@ Dans le tableau, rangée par rangée:
 - Enclenchement de l'interrupteur différentiel
 - Test de l'interrupteur différentiel
 - Ré-enclenchement de l'interrupteur différentiel
+- Enclenchement des disjoncteurs divisionnaires
 
 -- (Fin partie mise en service installation domestique monophasée, [un peu avant à 1h 6m dans la vidéo](https://youtu.be/wNK_aQaREA4?t=1h6m))
