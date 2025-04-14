@@ -32,7 +32,7 @@
 - [2.22 Tv 3](https://youtu.be/-Vgi3K9OqYA)
 - [2.23 Cpl](https://youtu.be/5yyVLWvkeyo)
 - [2.24 Introduction knx](https://youtu.be/2ja5wV8K01g)
-- [2.25 Chauffe-eau](https://youtu.be/giYwQs1e_nk)
+- [2.25 Chauffe-eau](https://youtu.be/giYwQs1e_nk) / [Notes](./CAP_Elec_2_25.md)
 - [2.26 Chauffage 1 : sol et plafond](https://youtu.be/79TuG6X33qM)
 - [2.27 Thermostat radio](https://youtu.be/5F0alniXHnY)
 - [2.28 Chauffage 2 : murale](https://youtu.be/1iFnF9HFCTA)
