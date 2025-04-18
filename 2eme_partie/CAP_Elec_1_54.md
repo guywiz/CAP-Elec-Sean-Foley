@@ -13,7 +13,7 @@
 
 Un court-circuit qui se produit en aval du disjoncteur va provoquer le passage d'un courant d'une très grande intensité dans le disjoncteur (typiquement, si un transformateur peut fournir 4500A dans un quartier, c'est l'intensité qu'un disjoncteur est susceptible de connaître).
 
-Le *pouvoir de coupure* du disjoncteur est cette intensit maximale à laquelle il peut réagir et couper le circuit, sans être détruit.
+Le *pouvoir de coupure* du disjoncteur est cette intensité maximale à laquelle il peut réagir et couper le circuit, sans être détruit.
 
 Le pouvoir de coupure (PdC) doit donc toujours être au moins égale à l'intensité de court-circuit (ICC)
 
