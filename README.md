@@ -7,9 +7,9 @@ Ce projet regroupe les ressources du cours animé par Sean Foley (de la [sociét
 
 Les leçons sont extrêmement bien organisées et conçues. Le contenu va largement au-delà d'un programme de CAP. Outre les questions plus "théoriques" ou plus standard d'une formation CAP, le cours aborde des questions qui se posent sur le terrain.
 
-Certaines vidéos montrent d'ailleurs les choses telles qu'elles se présentent sur un chantier. Je recommande vivement le cours de Sean. Les inscrits aux cours ont aussi accès à [un groupe privé sur Facebook pour échanger sur des questions techniques ou des questions liées au CAP ou aux autres habilitatiosn du métier](https://www.facebook.com/groups/476879141274627).
+Certaines vidéos montrent d'ailleurs les choses telles qu'elles se présentent sur un chantier. Je recommande vivement le cours de Sean. Les inscrits aux cours ont aussi accès à [un groupe privé sur Facebook pour échanger sur des questions techniques ou des questions liées au CAP ou aux autres habilitations du métier](https://www.facebook.com/groups/476879141274627).
 
-Les notes associées aux leçons sont de moi et sont accessibles librement. Merci de vos retours (vous pouvez poster des issues ou carrément forker le dépôt et lancer des pull request, avec plaisir !).
+Les notes associées aux leçons sont de moi et sont accessibles librement. Merci de vos retours (vous pouvez poster des "issues" ou carrément "forker" le dépôt et lancer des "pull request", avec plaisir !).
 
 - [CAP Elec Programme 1ère partie](./1ere_partie/README.md)
 - [CAP Elec Programme 2ème partie](./2eme_partie/README.md)
