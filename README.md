@@ -5,7 +5,7 @@ Ce projet regroupe les ressources du cours animé par Sean Foley (de la [sociét
 
 [Les vidéos des leçons de Sean sont privées, l'accès est réservé aux personnes qui s'inscrivent à son cours.](https://www.youtube.com/@foley.elec.services)
 
-Le cours est extrêmement bien organisés et conçus. Le contenu va largement au-delà d'un programme de CAP. Outre les questions pus "théoriques" ou plus standard d'une formation CAP, le cours aborde des questions qui se posent sur le terrain.
+Les leçons sont extrêmement bien organisées et conçues. Le contenu va largement au-delà d'un programme de CAP. Outre les questions plus "théoriques" ou plus standard d'une formation CAP, le cours aborde des questions qui se posent sur le terrain.
 
 Certaines vidéos montrent d'ailleurs les choses telles qu'elles se présentent sur un chantier. Je recommande vivement le cours de Sean. Les inscrits aux cours ont aussi accès à [un groupe privé sur Facebook pour échanger sur des questions techniques ou des questions liées au CAP ou aux autres habilitatiosn du métier](https://www.facebook.com/groups/476879141274627).
 
