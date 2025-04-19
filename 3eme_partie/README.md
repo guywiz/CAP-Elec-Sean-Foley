@@ -41,7 +41,7 @@
 - [2.31 Chauffage 3 : fil pilote](https://youtu.be/8ib27uiPg0I)
 - [2.32 Délestage](https://youtu.be/RWbRCJXEgOc)
 - [2.33 Rt2012 / re2020](https://youtu.be/99BcIsffWjk)
-- [2.34 Vmc](https://youtu.be/2PXk-sIaqbI)
+- [2.34 Vmc](https://youtu.be/2PXk-sIaqbI) / [Notes](./CAP_Elec_2_34.md)
 - [2.35 Motorisations volets roulants](https://youtu.be/ECKjn2T1bYo) / [Notes](./CAP_Elec_2_35.md)
 - [2.36 Commandes radio](https://youtu.be/76YzUk0_qV8)
 - [2.37 Recharge véhicules électrique (irve)](https://youtu.be/UmaJEbJ95sI)
