@@ -13,11 +13,11 @@ Interrrupteur piloté par une horloge. Schéma de cablage d'un simple allumage a
 
 Réglage, comme les blocs prises programmables, par exemple.
 
-Remarque: les dispositifs comportent souvent une *réserve de marche*, qui évite que le réglage soit décalé lors d'interventions. Marque Theben, possibilité de programme plus sophistiqué et différencié pour chacun de sjours de la semaine, qu'une simple programme journalier qui se répète systématiquement tous les jours de la semaine.
+Remarque: les dispositifs comportent souvent une *réserve de marche*, qui évite que le réglage soit décalé lors d'interventions. Marque Theben, possibilité de programme plus sophistiqué et différencié pour chacun des jours de la semaine, qu'une simple programme journalier qui se répète systématiquement tous les jours de la semaine.
 
 <img src="./images/Interrupteur_horaire_bis.png" width="30%">
 
-Variation avec la possibiolité de basculer le contact vers un autre éclairage.
+Variation avec la possibilité de basculer le contact vers un autre éclairage.
 
 <img src="./images/Interrupteur_horaire_ter.png" width="30%">
 
@@ -25,9 +25,9 @@ Variation avec la possibiolité de basculer le contact vers un autre éclairage.
 
 Dispositif qui comporte un capteur photocellulaire qui capte le niveau de luminosité ambiante.
 
-On a donc un circuit d'allumage dont le contact ets piloté par un interrupteur crépusculaire. Ce dernier reçoit entrée un signal qui correspond à la luminosité captée par la cellule, qui se traduit par une résisitance variable (en fonciton de la luminosité). L'interrupteur déclenche alors seulement lorsque la résistance franchit un seuil.
+On a donc un circuit d'allumage dont le contact est piloté par un interrupteur crépusculaire. Ce dernier reçoit entrée un signal qui correspond à la luminosité captée par la cellule, qui se traduit par une résistance variable (en fonction de la luminosité). L'interrupteur déclenche alors seulement lorsque la résistance franchit un seuil.
 
-Ce type d'interrupteur combine donc les avantages d'un éclairage soumis à des contraintes horaires && de luminosité.
+Ce type d'interrupteur combine donc les avantages d'un éclairage soumis à des contraintes horaires & de luminosité.
 
 - Connexion en parallèle == ou logique (peu importe le bouton poussoir qui est activé, il y a contact)
 - Connexion en série == et logique (toutes les conditions doivent être réunies pour activé le contact)
