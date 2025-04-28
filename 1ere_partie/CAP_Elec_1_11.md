@@ -7,7 +7,7 @@
 
 #### Interrrupteur horaire
 
-Interrrupteur piloté par une horloge. Schéma de cablage d'un saimple allumage auquel s'adjoint l'alimentation du "moteur".
+Interrrupteur piloté par une horloge. Schéma de cablage d'un simple allumage auquel s'adjoint l'alimentation du "moteur".
 
 <img src="./images/Interrupteur_horaire.png" width="30%">
 
