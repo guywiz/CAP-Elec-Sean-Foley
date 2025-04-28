@@ -7,9 +7,9 @@
 
 #### Détecteur de mouvement
 
-***Dispositif infra-rouge passif***, qui détecte un signal infra-rouge produite par une source tierce (par opposition à un dispositif qui détecte un signal infra-rouge qu'il produit lui-même, comme les commandes de portails).
+***Dispositif infra-rouge passif***, qui détecte un signal infra-rouge produit par une source tierce (par opposition à un dispositif qui détecte un signal infra-rouge qu'il produit lui-même, comme les commandes de portails).
 
-Discussion sur la capacité d'un détecteur passif à détecter le mouvemnt, qui doit être perçu dans le plan XY "orthogonal au faisceau". Si la source de chaleur avance vers le détecteur selon un axe orthogonal à son orientation, bien que la source grandisse en surface (et en intensité de chaleur infra-rouge), le mouvement ne sera pas détecté.
+Discussion sur la capacité d'un détecteur passif à détecter le mouvement, qui doit être perçu dans le plan XY "orthogonal au faisceau". Si la source de chaleur avance vers le détecteur selon un axe orthogonal à son orientation, bien que la source grandisse en surface (et en intensité de chaleur infra-rouge), le mouvement ne sera pas détecté.
 
 
 #### Principe du câblage d'un détecteur de mouvement
