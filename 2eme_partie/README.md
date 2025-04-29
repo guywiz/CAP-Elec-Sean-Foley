@@ -69,7 +69,7 @@
 QCM
 
 - [1.78 Rappel boites](https://youtu.be/fl50XQxa7GM)
-- [1.79 Habilitations élec. introduction](https://youtu.be/pe7i9GkI_H4)
+- [1.79 Habilitations élec. introduction](https://youtu.be/pe7i9GkI_H4) / [Notes](./CAP_Elec_1_79.md)
 - [1.80 Habélec points clés avant br](https://youtu.be/t-RSv5eRos4)
 - [1.81 Habélec b1v](https://youtu.be/c7WcghYbpxY)
 - [1.82 Habélec br](https://youtu.be/0EXhXeuHikI)
