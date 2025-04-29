@@ -58,7 +58,7 @@
  - [1.70B Mise-à-jour - Types de différentiels](https://youtu.be/abAQy3E_n8E) / [Notes](./CAP_Elec_1_70B.md)
 - [1.71 Pieuvres](https://youtu.be/JrfXZtyOuKM) / [Notes](./CAP_Elec_1_71.md)
 - [1.72 Logiciel legrand xlpro3](https://youtu.be/s8D-OFFw0ww)
-- [1.73 Indus 1 : protections & commandes](https://youtu.be/E8TSs---Z_Q)
+- [1.73 Indus 1 : protections & commandes](https://youtu.be/E8TSs---Z_Q) / [Notes](./CAP_Elec_1_73.md)
 - [1.74 Indus 2 : démarrage directe](https://youtu.be/anSNjzBhB5g)
 - [1.75 Indus 3 : moteur asynchrone](https://youtu.be/xz1XHJVTQSA)
 - [1.76 Indus 4 : inversion de rotation](https://youtu.be/y5A29PchogE)
