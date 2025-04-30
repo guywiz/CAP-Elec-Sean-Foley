@@ -102,3 +102,6 @@ Dans le contexte d'un local réservé aux électriciens <img src="./
 
 Obligation employeur / Responsabilité employé
 
+--
+
+[Un bon résumé des habilitations et des sigles qui les désignent est accessible sur le site voltwork.](https://www.voltwork.fr/nf-c18-510/symboles-habilitation-electrique/)
