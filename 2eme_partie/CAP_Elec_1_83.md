@@ -25,7 +25,10 @@
 |  AGCP coupé, ***port des EPI avant d'ouvrir le tableau*** |  On doit mesurer 0V (aucune tension) | A l'origine du répartiteur (peigne vertical) |
 
 - L'AGCP a été désactivé (coupure), puis consigné
-- On vérifie à l'aide d'un appareil VAT que le tableau n'est pas sous tension: tension nulle entre neutre et phase(s), entre phase(s) et terre, entre neutre et terre.
+- On vérifie à l'aide d'un appareil VAT que le tableau n'est pas sous tension:
+  - tension nulle entre neutre et phase(s),
+  - entre phase(s) et terre,
+  - entre neutre et terre.
 
 Les mesures se font:
 
@@ -60,10 +63,10 @@ Les mesures se font:
 
 |  *Précondition(s)* | *Mesure attendue*  | *Méthode de mesure* |
 |---|---|---|
-| Tous les circuits fermés, contacteurs en marche forcée |  Résistance supérieure à 0.5M $\Omega$ | Une seule mesure en amont de tous els cricuits (au niveau du répartiteur, peigne vertical, par exemple) |
+| Tous les circuits fermés, contacteurs en marche forcée |  Résistance supérieure à 0.5M $\Omega$ | Une seule mesure en amont de tous les circuits (au niveau du répartiteur, peigne vertical, par exemple) |
 
 - Mesure de la qualité de l'isolation des conducteurs (en $\Omega$ Ohms aussi)
-- On doit pouvoir mesurer des résistaces dans le domaine des Mega Ohms (milliers de $\Omega$), avec un appareil, le *méga-ohmètre*
+- On doit pouvoir mesurer des résistaces dans le domaine des Mega Ohms (millions de $\Omega$), avec un appareil, le *méga-ohmètre*
 
 L'appareil est en capacité de lire des résistances élevées, variant de 10K $\Omega$ à 10G $\Omega$
 
