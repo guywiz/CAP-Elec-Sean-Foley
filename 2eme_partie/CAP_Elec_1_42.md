@@ -13,7 +13,7 @@
 
 Réseau HTA triphasé en France, tension 20kV entre toutes les paires de phase.
 
-*Rappel*. Equation d'équilibre au niveua des transformateurs.
+*Rappel*. Equation d'équilibre au niveau des transformateurs.
 
 La puissance $$P$$ (primaire) est conservée (perte marginale) et est égale à la fois à:
 
@@ -22,7 +22,7 @@ $$P = U_{\text{primaire}} \cdot I_{\text{primaire}} = U_{\text{secondaire}} \cdo
 --
 
 - Règle générale, la tension entre les phases en triphasé est de 400V
-- Représentation des tensiosn entre phase à l'aide d'une distance: les phases forment les sommets d'un triangle équilatérial de côté 400
+- Représentation des tensions entre phase à l'aide d'une distance: les phases forment les sommets d'un triangle équilatérial de côté 400
 - Le neutre est équidistant (même tension) de toutes les phases, il est donc au milieu du triangle
   - la distance $$L$$ d'une phase au neutre satisfait $$cos(30 \deg) * L = 200$$, c'est-à-dire $$\frac{\sqrt{3}}{2} \cdot L = 200$$, d'où $$L = 230$$.
 
@@ -33,10 +33,10 @@ En triphasé, on parle donc de
 
 ##### Installation triphasée domestique
 
-- Parce que certains appareils nécessitent une almentation triphasée
+- Parce que certains appareils nécessitent une alimentation triphasée
   - Exemple de la scie à bois, des machines d'un artisan (tour à bois du menuisier)
 - On utilisera l'une des phases pour les appareils monophasés,
-  - En veillant à équilibré chacune des phases (pas si facile)
+  - En veillant à équilibrer chacune des phases (pas si facile)
 
 - Difficulté: comparé à un abonnement monophasé d'intensité max A, un abonnement triphasé limitera chacune des phases à A/3, empêchant d'y faire reposer des appareils qui dépasserait une intensité de A/3 s'ils étaient en marche simultanément
   - La solution consiste à passer à un abonnement d'intensité supérieure , induisant un coût mensuel plus élevé ...

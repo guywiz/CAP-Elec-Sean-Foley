@@ -51,6 +51,8 @@ Les mesures se font:
 
 ([tiré du site web Zoom Elec](https://www.schema-electrique.net/mise-a-la-terre-installation-electrique-norme-NF-C-15-100.html)) 
 
+<img src="./images/Test_continuite_terre.png" width="300">
+
 Les mesures se font:
 
 - Entre le répartiteur de terre et chacun des équipements alimentés par un circuit du tableau
@@ -63,7 +65,7 @@ Les mesures se font:
 
 |  *Précondition(s)* | *Mesure attendue*  | *Méthode de mesure* |
 |---|---|---|
-| Tous les circuits fermés, contacteurs en marche forcée |  Résistance supérieure à 0.5M $\Omega$ | Une seule mesure en amont de tous les circuits (au niveau du répartiteur, peigne vertical, par exemple) |
+| Tous les circuits fermés, contacteurs en marche forcée |  Résistance supérieure à 0.5M $\Omega$ | Une seule mesure en amont de tous les circuits (au niveau du répartiteur, peigne vertical, par exemple), entre phase et terre, et entre neutre et terre |
 
 - Mesure de la qualité de l'isolation des conducteurs (en $\Omega$ Ohms aussi)
 - On doit pouvoir mesurer des résistaces dans le domaine des Mega Ohms (millions de $\Omega$), avec un appareil, le *méga-ohmètre*
@@ -83,11 +85,16 @@ L'appareil est en capacité de lire des résistances élevées, variant de 10K $
 |  Inférieur à 50 V |  250 VDC |  0,25 M $\Omega$ |
 | De 50 V à 500 V  |  500 VDC |  0,50 M $\Omega$ |
 
-Pour tester l'isolement, on pourrait tester individuellement chacun des départs de circuit (et on doit observer pour chacun  une résistance d'au moins 0,5M $\Omega$).
+Pour tester l'isolement, on pourrait tester individuellement chacun des départs de circuit (et on doit observer pour chacun  une résistance d'au moins 0,5M $\Omega$ = 500000 $\Omega$).
+
+- Entre la terre et le neutre
+- Entre la terre et la (les) phase(s)
 
 On va plutôt considérer l'ensemble des circuits, tous à la fois -- qui sont alors en parallèle. [On se rappelle que la résistance d'un circuit parallèle est plus petite que la résistance la plus faible des circuits qui sont connectés en parallèle.](../1ere_partie/CAP_Elec_1_03.md)
 
 - Ainsi, si la résistance mesurée est au moins égale à 0,5M $\Omega$, c'est qu'elle est au moins égale à cette valeur pour chacun des circuits.
+
+<img src="./images/Test_isolement.png" width="600">
 
 Cette vérification se fait en s'assurant d'abord que tous les circuits sont fermés (tous les disjoncteurs sont "en marche forcée"), que tous les contacteurs sont aussi en marche forcée (contacteur chauffe-eau, par exemple).
 
@@ -101,10 +108,12 @@ Avec le test décrit à la section précédente, on ne vérifie pas l'isolement 
 
 Pour mesurer la résistance entre phase et neutre, on pourrait procéder circuit par circuit.
 
+<img src="./images/Test_absence_court_circuit.png" width="600">
+
 Les mesures se font:
 
 - Commandes en marche forcée (contacteur à "ON")
-- Circcuit ouvert (Interrupteur à "OFF") 
+- Circuit ouvert (Interrupteur à "OFF") 
 
 - En principe, la mesure doit afficher  $\infty$ (OL over limit) puisqu'il n'y a pas continuité entre phase et neutre (sauf en cas de court-circuit).
   - Cependant, il peut y avoir continuité sur certains appareils s'ils étaient en marche avant que l'on coupe l'alimentation (au niveau de l'AGCP)
@@ -122,6 +131,8 @@ Première mesure au niveau du répartiteur entre phase et neutre
 - On doit obtenir 230V
 - Mais on n'est pas assuré qu'il n'y a pas eu inversion de phase et de neutre
   - On s'en assure en mesurant la tension entre phase et terre, neutre et terre
+  - On doit trouver en principe 0V entre neutre et terre (ou une petite valeur, 4V, par exemple)
+  - On doit trouver 230V entre phase et terre (ou 228V, par exemple)
 
 ##### 6ème étape Mise sous tension progressive***"s"***
 
