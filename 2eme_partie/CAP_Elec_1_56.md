@@ -17,11 +17,11 @@ On cherche à mesurer la chute de tension dans un câble, en se basant sur la lo
 Coefficient de résistivité (exprimée en $\Omega \cdot mm^2 / m$)
 
 - Cuivre: 0.0225
-- ALuminium: 0.036
+- Aluminium: 0.036
 
 La résistance induite est
 
-- proportinnelle à la longueur du câble: attention à tenir compte de l'aller-retour (phase/neutre) dans le câble
+- proportionnelle à la longueur du câble: attention à tenir compte de l'aller-retour (phase/neutre) dans le câble
 - inversement proportionnelle à la section du câble
 
 Calcul de la chute de tension induite d'un câble de longueur $L$, de section $S$ et de résistivité $\rho$ (cuivre ou aluminium)

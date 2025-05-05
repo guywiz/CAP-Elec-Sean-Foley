@@ -11,7 +11,7 @@ Un conducteur présente intrinsèquement une résistivité (résistance) (à la 
 
 Cette perte dépend de la longueur du câble utilisé.
 
-*Analogie*: perte de pression dans un tuyau d'arrosage. La perte de pression est plus importante si on réduit la section du tuyau. A l'inverse on réduit cette perte si on uitlise une plus grande section (et plus forte pression).
+*Analogie*: perte de pression dans un tuyau d'arrosage. La perte de pression est plus importante si on réduit la section du tuyau. A l'inverse on réduit cette perte si on utilise une plus grande section (et plus forte pression).
 
 - Chute de tension entre AGCP (alimentation Enedis) et l'habitation, qui se situe disons 100m plus loin.
 - L'intensité a un impact direct sur la chute de tension, qui lui est proportionnelle ($U = R \cdot I$).
@@ -23,9 +23,9 @@ Ainsi, la chute de tension se calcule en faisant le produit
 
 $U = R \cdot I = \big( \frac{2L \cdot \rho}{S} \big) \cdot I$
 
-où $\rho$ ets le coefficient de résistivité, $L$ ets la longueur du câble (doublée en raison de la présence de la phase et du neutre), divisé par la section du câble.
+où $\rho$ est le coefficient de résistivité, $L$ est la longueur du câble (doublée en raison de la présence de la phase et du neutre), divisé par la section du câble.
 
-AInsi, dans le cas du câble de $L =100m$ de cuivre, de section $S = 16mm2$, alimenté depuis l'AGCP en $I = 60A$, on obtient une chute de tension:
+Ainsi, dans le cas du câble de $L =100m$ de cuivre, de section $S = 16mm2$, alimenté depuis l'AGCP en $I = 60A$, on obtient une chute de tension:
 
 $U = \big( \frac{2L \cdot \rho}{S} \big) \cdot I = \frac{200 \times 0.022 \times 60}{16} = 16.5V$
 

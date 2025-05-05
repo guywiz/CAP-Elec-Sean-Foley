@@ -49,16 +49,16 @@ Inconvénient MT:
 
 Avantage MT:
 
-- Si par mégarde, l'un des contacteurs est mal connectés, mauvais branchements, câble abîmés, etc. on ne porura pas enclenché le général (puisque les contacteurs sotn branchés en série).
+- Si par mégarde, l'un des contacteurs est mal connectés, mauvais branchements, câbles abîmés, etc. on ne pourra pas enclencher le général (puisque les contacteurs sont branchés en série).
 
 #### Arrêt d'urgence par émission de tension (ET) avec deux voyants (vert/rouge)
 
 Les deux voyants pour indiquer si le dispositif est en fonction (prêt à être déclenché) ou déclenché (et nécessitant d'être réarmé, par exemple).
 
-- Dans ce cas, parce que la pression coup de poing ouvre le circuit, les voyants ne peuvent pas être aliemntés par celui-ci, mais doivent être alimentés en amont du cricuit qui sera coupé par le dispositif.
+- Dans ce cas, parce que la pression coup de poing ouvre le circuit, les voyants ne peuvent pas être alimentés par celui-ci, mais doivent être alimentés en amont du cricuit qui sera coupé par le dispositif.
 
 - L'utilisation d'un contact auxilliaire permet de simuler un "effet va-et-vient" entre les deux voyants.
 
 <img src="./images/schema_contacteur_emission_deux_voyants.png" width="800">
 
-***Remarque importante***. Le câble alimentant les voyants restent sous tension même après la coupure "générale" (soir par coup de poing, soit manuellement).
+***Remarque importante***. Le câble alimentant les voyants restent sous tension même après la coupure "générale" (soit par coup de poing, soit manuellement).
