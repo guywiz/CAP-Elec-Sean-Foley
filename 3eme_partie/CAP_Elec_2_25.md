@@ -41,6 +41,6 @@ Il peut se produire un cas particulier, celui où l'AGCP (appareil général de 
 
 On peut alors utiliser un contacteur horaire (et en le positionnant sur les horaires des tarifs heures creuses du client).
 
-Le site [schema-electrique.net](https://www.schema-electrique.net/schema-cablage-branchement-interrupteur-horaire-chauffe-eau.html) explique clairement le principe du banchement de l'interrupetur horaire.
+Le site [schema-electrique.net](https://www.schema-electrique.net/schema-cablage-branchement-interrupteur-horaire-chauffe-eau.html) explique clairement le principe du banchement de l'interrupteur horaire.
 
 <img src="./images/branchement_interrupteur_horaire.png" width="600">

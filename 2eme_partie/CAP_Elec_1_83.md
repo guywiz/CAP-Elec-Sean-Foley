@@ -12,6 +12,15 @@
 
 - Tableau deux rangées (minimum deux interrupteurs différentiels en domestique)
 
+La mise en service se fait en 6 étapes:
+
+1. (EPI / Mise hors tension de l'AGCP), vérification d'absence de tension
+2. (Sans EPI) Vérification de la continuité de la terre sur chaque appareil
+3. (Sans EPI) Vérification de l'isolement (entre terre/neutre, terre/phase)
+4. (Sans EPI) Vérification d'absence de court-circuit (phase/neutre)
+5. (EPI / Remise tension AGCP), vérification des tensions
+6. Mise en service progressive
+
 #### Principes de l'exercice de mise en service
 
 - Protection individuelle

@@ -87,7 +87,7 @@ Le principe
 
 - A noter que le boitier télécommmande contient lui-même une pile (rechargeable), ce qui permet d'utiliser l'envoi du signal même lorsque la coupure se fait en amont du disjoncteur qui alimente le boitier.
 
-- A noter que courant fort et courant fiable sont transportés dans un memecâble (non recommandé) (voir figure)
+- A noter que courant fort et courant fiable sont transportés dans un même câble (non recommandé) (voir figure)
   - En effet, si on utilise un 5G1.5 pour rassembler l'ensemble des fil snécessaire au montage (phase neutre pour le bloc BAES, noir/gris pour les bornes +/- du boitier de télécommande + vert-jaune pour la terre
 
   ### Source centralisée
