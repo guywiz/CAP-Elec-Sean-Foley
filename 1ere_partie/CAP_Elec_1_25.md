@@ -48,9 +48,9 @@ Usage d'un wago de 2 pour rallonger un fil, il est si petit qu'on peut le loger 
 
 - Dans une pièce qui peut être humide ou carrément mouillée, il faut privilégier l'arrivée des câbles par le bas pour éviter que l'eau n'entre dans la boîte.
 
-- A prendre en compte so on doit insérer deux cable spar l'un des presse-étoupes de la boite, car alors on n'a pas étanchéité (on n'est pas IP55).
+- A prendre en compte si on doit insérer deux cable spar l'un des presse-étoupes de la boite, car alors on n'a pas étanchéité (on n'est pas IP55).
 
-- Pour être conforme, le câble ou la gaine doit entrer dans la boîte, les fils ne doivent pas être visibles, car ils ne seraient alors pas protégé mécaniquement.
+- Pour être conforme, le câble ou la gaine doit entrer dans la boîte, les fils ne doivent pas être visibles, car ils ne seraient alors pas protégés mécaniquement.
 
 ##### Méthodo
 
@@ -63,7 +63,7 @@ Penser la configuration des connexions dans la boite avant l'implémentation.
 
 <img src="./images/Wago_bien_ranges.png" width="50%">
 
-- Répéter le même principe pour d'autres fils alientant un autre cicruit, en disposant les wago à l'opposé. En cas d'intervention on pourra "déplier" les couches de fils pour accéder au circuit concerné.
+- Répéter le même principe pour d'autres fils alimentant un autre cicruit, en disposant les wago à l'opposé. En cas d'intervention on pourra "déplier" les couches de fils pour accéder au circuit concerné.
 
 --
 
