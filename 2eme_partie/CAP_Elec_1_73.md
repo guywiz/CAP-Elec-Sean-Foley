@@ -9,7 +9,7 @@
 
 - Un sectionneur <img src="./images/Sectionneur.jpg" width="50"> peut sectionner un circuit ***hors charge***
   - Sectionneur à fusible <img src="./images/Sectionneur_fusible.jpg" width="50">
-  - En industriel, on utlise les fusibles aM (associé moteur) (plutôt que le sfusibles gg "général")
+  - En industriel, on utlise les fusibles aM (associé moteur) (plutôt que les fusibles gg "général")
 - Un interrupteur différentiel <img src="./images/Symbole_interrupteur_differentiel.png" width="50"> peut interrompre en charge, mais supporte une faible intensité
 - Un disjoncteur <img src="./images/Disjoncteur.jpg" width="50"> peut disjoncter alors qu'il est en charge, et supporte une forte intensité
 
@@ -22,4 +22,4 @@
 - Les contacteurs sont actionnés à l'aide du mécanisme d'une bobine <img src="./images/Bobine.jpg" width="50">
 - Il faut utiliser un disjoncteur moteur, à régler selon les spécification du moteur.
 
-- La connexion entre l'alimentaiton, le montage des protection et le moteur se fait à l'aide de bornes viking.
+- La connexion entre l'alimentation, le montage des protection et le moteur se fait à l'aide de bornes viking.

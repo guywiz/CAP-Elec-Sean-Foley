@@ -15,7 +15,7 @@
 - [2.05 Alarmes techniques & maintien à domicile](https://youtu.be/LxhYdKX8rhc)
 - [2.06 Contrôle d’accès cours (interphonie)](https://youtu.be/gN6f9Op8Sxo)
 - [2.07 Contrôle d’accès points clés](https://youtu.be/4dGgDMY4p9U)
-- [2.08 Vidéophone pratique](https://youtu.be/IbDvWg8wCGw)
+- [2.08 Vidéophone pratique](https://youtu.be/IbDvWg8wCGw) / [Notes](./CAP_Elec_2_08.md)
 - [2.09 Portail à battant](https://youtu.be/A0laV5nwD-M)
 - [2.10 Portail coulissant](https://youtu.be/xp2NevJyBqw)
 - [2.11 Portail points clés](https://youtu.be/pObwqaFcPV0)

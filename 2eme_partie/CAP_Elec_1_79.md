@@ -56,11 +56,11 @@ Nature
 
 - **0** non-électriques
 - **1** électriques (en tant que exécutant)
-- **2** chargé de travaux électriques)
+- **2** chargé de travaux électriques
 
 Attributs
 
-- Voisinnage renforcé: à moins de 30cm d'un pièce sous tension
+- V: voisinnage renforcé (à moins de 30cm d'un pièce sous tension)
 - N: nettoyage sous tension
 - T: T.S.T. travaux sous tension
 - X: exceptionnel
