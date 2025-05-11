@@ -24,7 +24,7 @@
 - [2.14 Porte garage pratique](https://youtu.be/0YgFFfxaZZ8)
 - [2.15 Câblage de communication domestique](https://youtu.be/18GInvHQRZs)
 - [2.16 Prise rj45 (1)](https://youtu.be/dD8DHP3YA-I) / [Notes](./CAP_Elec_2_16.md)
-- [2.17 Prise rj45 chantier](https://youtu.be/ocLN-mIXmlY)
+  - [2.17 Prise rj45 chantier](https://youtu.be/ocLN-mIXmlY)
 - [2.18 Câblage communication tertiaire](https://youtu.be/Fu0SxKA87zE)
 - [2.19 Tests câblage informatique (dom. & tertiaire)](https://youtu.be/2SuhT3c4jLM)
 - [2.20 Tv 1](https://youtu.be/uU--GNGj1Ps)
