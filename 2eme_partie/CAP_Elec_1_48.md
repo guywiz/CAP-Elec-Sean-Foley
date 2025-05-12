@@ -22,15 +22,15 @@ On est invité à visionner les vidéos des shadocks sur l'électricité
 #### Bobines - rappels
 
 - Courant alternatif 50 Hz, courbe sinusoïdale
-- Bobine de fils (autour d'une pièce métallique), créationd'un champ magnétique
+- Bobine de fils (autour d'une pièce métallique), création d'un champ magnétique
   - Donc création, destruction, création (inversion de sens) d'un champ magnétique 100 fois par seconde
-- La création/destruction de ce champ magnétique consomme une certiane puissance: *puissance réactive*
+- La création/destruction de ce champ magnétique consomme une certaine puissance: *puissance réactive*
 - Nous avons vu que le calcul de puissance dépend essentiellement des équations $P = UI, U = RI$, qui sont valident lorsqu'on a une charge résistive
   - alors qu'il faut les "adapter" lorsqu'on a aussi une charge inductive, etc.
 
 - Exemple du sèche-cheveux:
   - Charge résistive asociée au dispositif créant la chaleur
-  - Charge réactive correspondant au dispositif actionnant le vetilateur
+  - Charge réactive correspondant au dispositif actionnant le ventilateur
 
 - L'intensité nécessaire pour chauffer l'élément, et l'intensité nécessaire pour faire tourner le moteur sont déphasées dans le temps
 

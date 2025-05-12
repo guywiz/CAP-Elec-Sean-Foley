@@ -17,7 +17,7 @@ Point d'eau:
 
 La norme n'impose rien par rapport aux points d'eau.
 
-A l'inverse de la cuisine où les 4 prises imposées au niveau du plan de travail doietn se trouver à 5cm du sol ou du plan de travail minimum - elles ne doive tpas être situées derrière l'évier ou derrière la plaque de cuisson.
+A l'inverse de la cuisine où les 4 prises imposées au niveau du plan de travail doivent se trouver à 5cm du sol ou du plan de travail minimum - elles ne doivent pas être situées derrière l'évier ou derrière la plaque de cuisson.
 
 La prise qui alimente le lave-vaisselle peut se trouver à côté du point d'eau alimentant le lave-vaisselle (en eau). Idem pour le lave-linge.
 
@@ -47,7 +47,7 @@ N.B. Une baignoire doit avoir obligatoirement un panneau de visite.
 
 ##### Volume caché
 
-Sous une baignoire "habillée", le volume peut être considéré ***caché*** -- et recevoir des équipements comme la pompe du balnéo, par exemple -- s'il un outil est nécessaire pour y accéder. 
+Sous une baignoire "habillée", le volume peut être considéré ***caché*** -- et recevoir des équipements comme la pompe du balnéo, par exemple -- si un outil est nécessaire pour y accéder. 
 
 - Un panneau avec une fermeture magnétique n'est pas un volume caché.
 
@@ -59,8 +59,8 @@ Sous une baignoire "habillée", le volume peut être considéré ***caché*** --
 
 Les parties métalliques de la SdB doivent être mises à la terre par des liaisons équipotentielles, par une fil de 2,5mm^2 (si portégé mécaniquement dans une gaine -- 4mm^2 si non protégé mécaniquement)
 
-- Il est préférable de ne pas faire de pontage entre les appareils mais de prévori une liaison indépendant pour chacun.
-- Au niveau des tuyaux d'alientaiotn en eau (cuivre), on ne doit pas couper les fils assurant le pontage mais seuement les dénuder our maintenir la liaison à la terre même si 'lun des tuyaux devait être supprimé.
+- Il est préférable de ne pas faire de pontage entre les appareils mais de prévoir une liaison indépendante pour chacun.
+- Au niveau des tuyaux d'alimentation en eau (cuivre), on ne doit pas couper les fils assurant le pontage mais seulement les dénuder pour maintenir la liaison à la terre même si 'lun des tuyaux devait être supprimé.
 
 <img src="./images/LES_SdB.png" width="70%">
 
@@ -80,4 +80,4 @@ Appareils TBTS (très basse tension de sécurité)
 
 [Voir aussi la fiche du site schema-electrique](https://www.schema-electrique.net/norme-electrique-volume-salle-de-bain.html)
 
-***Cas exceptionnels*** Cas des petits appartements parisiens, chauffe-eau dan sle volume 1 (chauffe-eau à accumulation, avec IPxy élevé ?)
+***Cas exceptionnels*** Cas des petits appartements parisiens, chauffe-eau dans le volume 1 (chauffe-eau à accumulation, avec IPxy élevé ?)
