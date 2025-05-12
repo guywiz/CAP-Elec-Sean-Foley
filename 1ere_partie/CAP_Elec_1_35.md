@@ -15,7 +15,7 @@
 Cela permet de déterminer la résistance maximum de la prise de terre:
 
 - Qui ne doit pas induire une tension excédant 50V,
-- Prenant en compte l'intensité détéerminée parle dispositif le plus défavorable de l'installation
+- Prenant en compte l'intensité déterminée par le dispositif le plus défavorable de l'installation
  - Qui est de 500mA = 0.5A qui correspond au disjoncteur différentiel de l'AGCP
 
 La résistance de la prise de terre doit donc au maximum être de 100 $$\Omega$$.
@@ -34,18 +34,18 @@ Mais on ne connait alors que la valeur $$R + R_{ref}$$.
 
 --
 
-On plante un second piquet de référence, on a donc deux résistances de références $$R_{ref_1}$$ et $$R_{ref_2}$$ qui sont alors branché en parallèle.
+On plante un second piquet de référence, on a donc deux résistances de références $$R_{ref_1}$$ et $$R_{ref_2}$$ qui sont alors branchées en parallèle.
 
 <img src="./images/Mesure_terre_scenario_II.png" width="75%">
 
 C'est le scénario qui est implicitement utilisé dans l'appareil de mesure , le telluromètre.
 
-Il est utile de convenir d'un protocole lros de la mesure de la terre
+Il est utile de convenir d'un protocole de la mesure de la terre
 
 - Tester la batterie de l'appareil
 - Connecter les câbles sur les piquets (pinces crocodiles)
-- Vérifier d'absence de tension (V.A.T.)
- - Pour s'assurer que les piquets ne sont pas soumis à une tension induite d'un piquet voisin (avec une installaiton en défaut) 
+- Vérifier l'absence de tension (V.A.T.)
+ - Pour s'assurer que les piquets ne sont pas soumis à une tension induite d'un piquet voisin (avec une installation en défaut) 
 - Connecter ensuite les câbles sur l'appareil
 - Effectuer la mesure
 
@@ -58,11 +58,11 @@ Il faut s'assurer que les résistances mesurées sont quasi-identiques.
 
 ##### Pourquoi une barette de coupure ?
 
-Pour isoler la mesure qui est faite (de la réisitance de la prise de terre) d'autres résistances que pourraient induire des équipements de la maison (typiquement la baignoire en métal, dont les pieds auraient uncontact avec le sol). Idem avec des tuyaux d'aliemntation en eau qui pourraient passer par le sol (la dalle).
+Pour isoler la mesure qui est faite (de la résitance de la prise de terre) d'autres résistances que pourraient induire des équipements de la maison (typiquement la baignoire en métal, dont les pieds auraient uncontact avec le sol). Idem avec des tuyaux d'alimentation en eau qui pourraient passer par le sol (la dalle).
 
-La baignoire (tuyaux) se retrouveraient alors connectés en parallèle avec la piquet, faussant le résultat et donc la mesure de la résistance de la prise de terre.
+La baignoire (tuyaux) se retrouveraient alors connectés en parallèle avec le piquet, faussant le résultat et donc la mesure de la résistance de la prise de terre.
 
-Le protocole à suivre est donc à revoir pour ouvrir la barrette. Et deplus, si l'installation est alimentée, il faut obligatoirement une mise à la terre -- interdisant d'ouvrir la barrette de coupure. Il faudrait docn dans ce cas procéder à la consignation de l'AGCP.
+Le protocole à suivre est donc à revoir pour ouvrir la barrette. Et de plus, si l'installation est alimentée, il faut obligatoirement une mise à la terre -- interdisant d'ouvrir la barrette de coupure. Il faudrait donc dans ce cas procéder à la consignation de l'AGCP.
 
 Le premier piquet est placé à une distance du piquet de terre équivalent à 62% de la distance du piquet le plus éloigné (voir schéma). (Le second piquet est à 100%.)
 
@@ -70,9 +70,9 @@ Le premier piquet est placé à une distance du piquet de terre équivalent à 6
 2. Ouverture de la barrette de coupure
 3. Tester la batterie de l'appareil
 4. Faire une V.A.T. (vérification d'absence de tension)
- - Pour s'assurer que les piquets ne sont pas soumis à une tension induite d'un piquet voisin (avec une installaiton en défaut) 
+  - Pour s'assurer que les piquets ne sont pas soumis à une tension induite d'un piquet voisin (avec une installaiton en défaut) 
 5. Faire la mesure
- - Connecter les câbles sur les piquets (pinces crocodiles)
+  - Connecter les câbles sur les piquets (pinces crocodiles)
 6. Connecter ensuite les câbles sur l'appareil
 7. Effectuer la mesure
 
