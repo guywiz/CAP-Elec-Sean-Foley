@@ -92,7 +92,7 @@ On utilise laors la "mesure par la boucle", à l'aide d'un mesureur de la boucle
 
 <img src="./images/Mesureur_prise_de_terre.png" width="95%">
 
-ON fait l'hypothèse d'une résistance nulle entre l'AGCP et le neutre (basse tension) du fournisseur, et de la liaison à la terre du fournisseur (mise à la terre du neutre). AInsi, parce que toutes les résistances sont en série, la mesure de la résistance sur ce circuit est égale à la résistance induite du piquet de terre (en réalité, c'est la somme des résistances qui sont rencontrées, mais avec nos hypothèses, on ne retient que la résistance du piquet).
+On fait l'hypothèse d'une résistance nulle entre l'AGCP et le neutre (basse tension) du fournisseur, et de la liaison à la terre du fournisseur (mise à la terre du neutre). Ainsi, parce que toutes les résistances sont en série, la mesure de la résistance sur ce circuit est égale à la résistance induite du piquet de terre (en réalité, c'est la somme des résistances qui sont rencontrées, mais avec nos hypothèses, on ne retient que la résistance du piquet).
 
 N.B. ***Cette méthode ne fonctionne que s'il n'y a pas de dispositif formant de liaisons équipotentielles principale et/ou secondaire.*** Celles-ci seraient alors considérées comme connectées en parallèle avec le piquet de terre, biaisant alors la méthode exposées précédemment.
 
@@ -104,7 +104,7 @@ Pour isoler les liaisons équipotentielles principale et secondaire, on utilise 
 
 <img src="./images/Mesureur_prise_de_terre_magouille.png" width="95%">
 
-- On utilise une prise dont la terre est "dériver" et connecter au piquet de terre (en amont de la barrette de coupure).
+- On utilise une prise dont la terre est "dérivée" et connectée au piquet de terre (en amont de la barrette de coupure).
 - On ouvre la barrette de coupure pour occulter les liaisons équipotentielles principale et/ou secondaire.
 - On retrouve ainsi un circuit à l'image de celui exposé précédemment, comme dan sla situation où il n'y a pas de L.E.P. ou de L.E.S.
 

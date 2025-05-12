@@ -60,7 +60,7 @@
 - [1.72 Logiciel legrand xlpro3](https://youtu.be/s8D-OFFw0ww)
 - [1.73 Indus 1 : protections & commandes](https://youtu.be/E8TSs---Z_Q) / [Notes](./CAP_Elec_1_73.md)
 - [1.74 Indus 2 : démarrage directe](https://youtu.be/anSNjzBhB5g) / [Notes](./CAP_Elec_1_74.md)
-- [1.75 Indus 3 : moteur asynchrone](https://youtu.be/xz1XHJVTQSA)
+- [1.75 Indus 3 : moteur asynchrone](https://youtu.be/xz1XHJVTQSA) / [Notes](./CAP_Elec_1_75.md)
 - [1.76 Indus 4 : inversion de rotation](https://youtu.be/y5A29PchogE)
 - [1.77 Indus 5 : démarrage étoile / triangle](https://youtu.be/iD2r5pWdcNo)
 - [1.77 Bis  : cosses et embouts](https://youtu.be/4DLiVuQbld0)
