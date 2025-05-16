@@ -1,5 +1,7 @@
 # CAP Elec - ÉPREUVES PRATIQUES session 2025
 
+[Retour à la liste des témoignages](./README.md)
+
 ## Epreuves pratiques - Témoignage
 
 Ce compte-rendu est rédigé au lendemain des épreuves pratiques EP1, EP2 et EP3 session 2025 des candidats libres sur l'académie de Bordeaux.

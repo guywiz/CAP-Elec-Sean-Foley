@@ -1,6 +1,10 @@
 # CAP Elec - ÉPREUVE EP1 COMMUNICATION TECHNIQUE 2024
 ## Epreuve pratique - Témoignage
 
+[Retour à la liste des témoignages](./README.md)
+
+## Epreuves pratiques - Témoignage
+
 [Témoignage tiré du groupe Facebook (privé) du cours de Sean Foley](https://www.facebook.com/groups/476879141274627)
 
 <img src="./images/Retour_CAP_cours_Sean_Foley_p1.jpg">
