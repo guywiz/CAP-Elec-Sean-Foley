@@ -35,7 +35,7 @@
 - [2.25 Chauffe-eau](https://youtu.be/giYwQs1e_nk) / [Notes](./CAP_Elec_2_25.md)
 - [2.26 Chauffage 1 : sol et plafond](https://youtu.be/79TuG6X33qM)
 - [2.27 Thermostat radio](https://youtu.be/5F0alniXHnY)
-- [2.28 Chauffage 2 : murale](https://youtu.be/1iFnF9HFCTA)
+- [2.28 Chauffage 2 : murale](https://youtu.be/1iFnF9HFCTA) / [Notes](./CAP_Elec_2_28.md)
 - [2.29 Fixation placo chauffage (molly)](https://youtu.be/VlZuxktHkl0)
 - [2.30 Sèche serviette à radio](https://youtu.be/7WCPElUZZ3M)
 - [2.31 Chauffage 3 : fil pilote](https://youtu.be/8ib27uiPg0I)

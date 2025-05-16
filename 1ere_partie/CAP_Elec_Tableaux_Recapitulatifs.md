@@ -44,6 +44,7 @@ Contraintes de câblage des prises de courant.
 | PC tableau | 3 | 1,5 mm2 | 16A | AC | 0.5 | 2 min |
 | IRVE | 3 | 6 mm2 | 32A | AC | 1 | 1 |
 | Chauffe-eau | 3 | 2.5 mm2 | 20A | AC | 1 | 1 |
+| Chauffage mural | 4 | 1.5 mm2 | 10A (16A) | AC | 1 | 1 |
 
 (Promotelec, pages 245, 247)
 
