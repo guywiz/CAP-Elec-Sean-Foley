@@ -34,7 +34,7 @@ Le document ressource décrit ce qui est attendu, et fournit un schéma en situa
 
 Pour la réalisation, on se retrouve dans un box face à une plaque de BA13
 
-<img src="./CAP_Elec_CAP_EP1_setup.png" width="800">
+<img src="./images/CAP_Elec_CAP_EP1_setup.png" width="800">
 
 - Sur une plaque côté gauche du box, une GTL qui attend le tableau et les câbles/gaines. 
 - Une partie de l'installation est déjà en place: partie haut de la plaque du fond, et deux éclairages au plafond.
