@@ -4,7 +4,7 @@
 
 ## Epreuves pratiques - Témoignage
 
-[Témoignage tiré du site Forum MYELEEC - Forum d'aide électrotechnique CAP électricien, BAC PRO MELEC et CAPLP génie électrique](https://forum.myeleec.fr/viewtopic.php?t=4976)
+[Témoignage tiré du site Forum MYELEEC - Forum d'aide électrotechnique CAP électricien, BAC PRO MELEC et CAPLP génie électrique](https://forum.myeleec.fr/viewtopic.php?t=4976) (utilisateur Creon81)
 
 Bonjour,
 
