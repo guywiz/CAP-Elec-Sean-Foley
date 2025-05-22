@@ -28,8 +28,8 @@ Sujets pratiques (parfois avec un corrigé) glanés sur le net
 
 - [Sujet 2024 Académie de Versailles](./docs/CAP_PSE_2024_Versailles.pdf) (obtenu du [site de l'académie](https://sbssa.ac-versailles.fr/docrestreint.api/5099/cbbb034a423d6e82098edb9f149a647d64e5ad202fc3af8595067a4a7efe7b3c/pdf/cap_pse_id24r_2406me_suj.pdf))
   - [Avec le corrigé](./docs/CAP_PSE_2024_Versailles_corrige.pdf)
-- [Sujet 2022](./docs/CAP_PSE_2022.pdf) (obtenu du site [education.gouv.fr](https://www.education.gouv.fr/media/115013/download))
-- [Sujet 2020](./docs/CAP_PSE_2020.pdf) (obtenu du site [education.gouv.fr](https://www.education.pf/wp-content/uploads/2021/07/CAP-PREVENTION-SANTE-ENVIRONNEMENT-2.pdf))
+- [Sujet 2022](./docs/CAP_PSE_2022_MEN.pdf) (obtenu du site [education.gouv.fr](https://www.education.gouv.fr/media/115013/download))
+- [Sujet 2020](./docs/CAP_PSE_2020_MEN.pdf) (obtenu du site [education.gouv.fr](https://www.education.pf/wp-content/uploads/2021/07/CAP-PREVENTION-SANTE-ENVIRONNEMENT-2.pdf))
 - [Sujet "simulé" académie d'Orléans](./docs/CAP_PSE_2025_Orleans_exemple_sujet_construction.pdf) ([depuis le portail de l'académie](https://pedagogie.ac-orleans-tours.fr/spip.php?article1657))
   - L'intérêt de ce sujet [est qu'on voit bien ce qui est évalué](./docs/CAP_PSE_2025_Orleans_simulation_grille_evaluation_sujet.pdf)
   - Le sujet est accompagné de [commentaires](./docs/CAP_PSE_2025_Orleans_exemple_sujet_commente.pdf)
