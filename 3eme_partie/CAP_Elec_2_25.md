@@ -10,7 +10,7 @@
 - Chauffe-eau, disjoncteur 20A, section 2.5
 - Le chauffe-eau est ***seul sur son circuit*** (si deux chauffe-eau en même temps, on passe à 32A, le disjoncteur saute), la norme l'exige
 - On peut protéger le chauffe-eau par un interrupteur différentiel de type AC
-- Il est interdit de brancher le chauffe-eau sur une prise d ecourant, les prises ne sont pas conçues pour être sollicitées sur la durée avec un courant de cette intensité (les prises sont plafonnés à 16A max pendant 2h max)
+- Il est interdit de brancher le chauffe-eau sur une prise de courant, les prises ne sont pas conçues pour être sollicitées sur la durée avec un courant de cette intensité (les prises sont plafonnés à 16A max pendant 2h max)
 - Il est conseillé d'utiliser un domino, les wago ont tendance à chauffer
 
 #### Contacteur jour/nuit
@@ -21,13 +21,13 @@ Préambule sur la production d'énergie par les centrales nucléaires, sur la co
   - Ajout d'une onde de fréquence plus élevée 175Hz que la fréqence de 50Hz du flux électrique
   - Les compteurs comportent un récepteur 175Hz
 
-L'AGCP est muni de deux bornes C1 et C2 correspondant à un contact qui se ferme lorsque le signal 175Hz est émis, à l'eure où débute le service en heures creuses (tarif moins élevé). L'idée est d'utiliser ce contact pour alimenter un dispositif (le contacteur) qui alimentera alors le chauffe-eau, qui se mettra en marche (en fonction du comportement du thermostat, par exemmple).
+L'AGCP est muni de deux bornes C1 et C2 correspondant à un contact qui se ferme lorsque le signal 175Hz est émis, à l'heure où débute le service en heures creuses (tarif moins élevé). L'idée est d'utiliser ce contact pour alimenter un dispositif (le contacteur) qui alimentera alors le chauffe-eau, qui se mettra en marche (en fonction du comportement du thermostat, par exemple).
 
 - Le contact C1/C2 doit être protégé par un disjoncteur 2A.
 - Le contacteur est muni de six bornes:
   - A1, A2 qui correpsondent à la bobine actionnant le contact, et qui doit se fermer lors que le contact C1/C2 lui-même se ferme.
   - Deux bornes 1 et 3 où arrivent l'alimention du chauffe,eau, protégé en amont par un dijoncteur 20A
-  - Deux bornes 2 et 4 qui amène l'alimentation vers le chauffe-eau dès que le contact C1/C2 se ferme (et donc lorsque la bobine du contacteur ferme les contacts du contacteur.
+  - Deux bornes 2 et 4 qui amènent l'alimentation vers le chauffe-eau dès que le contact C1/C2 se ferme (et donc lorsque la bobine du contacteur ferme les contacts du contacteur.
 
 <img src="./images/branchement_contacteur_jour_nuit.png" width="600">
 
