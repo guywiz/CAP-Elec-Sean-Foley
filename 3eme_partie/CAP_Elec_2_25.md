@@ -1,5 +1,5 @@
 # CAP 2.25 Chauffe-eau
-## Foley Services Elec - [Programme 2ème partie](../2eme_partie/README.md)
+## Foley Services Elec - [Programme 3ème partie](../3eme_partie/README.md)
 
 ### 2.25 Chauffe-eau
 
