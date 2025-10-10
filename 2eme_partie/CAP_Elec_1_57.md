@@ -15,7 +15,7 @@ Alimentation d'un bâtiment secondaire (atelier, garage, studio, ...) à partir 
 A des fins d'illustration, imaginons que le bilan nous amène à évaluer l'intensité requise à 30A.
 
 - Un câble gainé passera dans une tranchée jusqu'au bâtiment
-- Un disjoncteur 32A (> 30A) qui protégera le câble alimnetant le bâtiment secondaire
+- Un disjoncteur 32A (> 30A) qui protégera le câble alimentant le bâtiment secondaire
 - On peut être tenté de conclure à l'utilisation d'un câble de section 6mm2 (qui correspond au disjoncteur 32A)
   - Mais la longueur $L$ du câble peut induire une chute de tension ... à calculer -- voir [la leçon sur la chute de tension](./CAP_Elec_1_46.md)
 
@@ -31,7 +31,7 @@ A des fins d'illustration, imaginons que le bilan nous amène à évaluer l'inte
 - Le disjoncteur 32A protégeant le câble ***ne doit pas*** être ajouté aux disjoncteurs associés à un interrupteur différentiel du tableau existant
   - Le câble sera acheminé à un interrupterur différentiel dans un tableau indépendant
 
-#### Protecttion équipotentielle (terre)
+#### Protection équipotentielle (terre)
 
 - La câble R2V doit acheminer une liaison de terre
   - Même si on aménage un second piquet de terre, ce câble doit comporter une fil PE, le second piquet de terre n'épargne pas d'avoir à acheminer une liaison PE au niveau du câble

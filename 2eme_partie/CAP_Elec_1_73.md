@@ -21,9 +21,9 @@
 - Mais il ne protège pas contre les surcharges. Il faut alors utiliser des ***relais thermiques***.
   - Ceux-ci se greffent souvent aux contacteurs (de même marque)
 - Les contacteurs sont actionnés à l'aide du mécanisme d'une bobine <img src="./images/Bobine.jpg" width="50">
-  - Il existe des bobines 230V, 400V, 24V, 12V, et mêem pour courant continu, il faut choisir la bobine qui convient
-  - Il existe des contacteurs avec délais (temporisateur), contacteurs délai-repos (delay off) ou délai-travail (delay on); le contacteur ferme le circuit lorsqu'on apuie su un bouton-poussoir (par exemple), puis après avori relâcher le bouton, le contact n'ouvrira le circuit qu'après un certain délai
-- Il faut utiliser un disjoncteur moteur, à régler selon les spécification du moteur.
+  - Il existe des bobines 230V, 400V, 24V, 12V, et même pour courant continu, il faut choisir la bobine qui convient
+  - Il existe des contacteurs avec délais (temporisateur), contacteurs délai-repos (delay off) ou délai-travail (delay on); le contacteur ferme le circuit lorsqu'on appuie sur un bouton-poussoir (par exemple), puis après avoir relâché le bouton, le contact n'ouvrira le circuit qu'après un certain délai
+- Il faut utiliser un disjoncteur moteur, à régler selon les spécifications du moteur.
 
 - La connexion entre l'alimentation, le montage des protections et le moteur se fait à l'aide de bornes viking.
 - Les commmandes sont actionnées à l'aide de bouton de différents formats et de différentes couleurs

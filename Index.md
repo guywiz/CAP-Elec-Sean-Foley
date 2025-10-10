@@ -5,6 +5,7 @@
 
 | Terme | Leçon(s) |
 |-------|----------|
+| Chauffage | Chauffage plafond [2.26 Chauffage 1](./3eme_partie/CAP_Elec_2_26.md) |
 | Protocole KNX | [2.24 KNX](./3eme_partie/CAP_Elec_2_24.md) |
 | Parafoudre | [1.49 Parafoudre domestique](./2eme_partie/CAP_Elec_1_49.md) |
 |            | [1.50 Dimensionnement tableau 1](./2eme_partie/CAP_Elec_1_50.md) |
