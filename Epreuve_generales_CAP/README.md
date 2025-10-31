@@ -79,5 +79,3 @@ Par exemple, pour le thème "Etre citoyen", j'avais choisi un article qui discut
  - [Mes notes pour la fiche EMC3](./EMC - La Liberté_nos libertés_ma liberté_notes.pdf)
 - [EMC4 La laïcité](./EMC - La laïcité.pdf)
  - [Mes notes pour la fiche EMC4](./EMC - La laïcité_notes.pdf)
-
-
