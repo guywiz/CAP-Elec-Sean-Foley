@@ -1,6 +1,6 @@
 # [CAP Elec](../README.md)
 
-## Retour sur les épreuves généralesdu CAP Electricien
+## Retour sur les épreuves générales du CAP Electricien
 
 Comme je ne suis pas français d'origine, mes diplômes ne sont pas français. Ils n'ont donc été pas reconnus pour les équivalences aux épreuves genérales du CAP.
 
