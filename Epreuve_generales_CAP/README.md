@@ -64,13 +64,13 @@ Par exemple, pour le thème "Etre citoyen", j'avais choisi un article qui discut
 
 <img src="./Exemple_fiche_HGEMC.png" width="50%">
 
-- [H1 La France de la Révolution française à la Ve République](./H1 - La France de la révolution à la Ve république.pdf)
- - [Mes notes pour la fiche H1](./H1 - La France de la révolution à la Ve république_notes.pdf)- [H2 La France et la construction européenne depuis 1950](./H2 - La France et la construction européenne depuis 1950.pdf)
- - [Mes notes pour la fiche H2](./H2 - La France et la construction européenne depuis 1950_notes.pdf)
-- [G1 Transports et mobilités](./G1 - Transports et mobilités.pdf)
- - [Mes notes pour la fiche G1](./G1 - Transports et mobilités_notes.pdf)
-- [G2 Espaces urbains : acteurs et enjeux](./G2 - Espaces urbains - acteurs et enjeux.pdf)
- - [Mes notes pour la fiche G2](./G2 - Espaces urbains acteur et enjeux _notes.pdf)
+- [H1 La France de la Révolution française à la Ve République](./H1.pdf)
+ - [Mes notes pour la fiche H1](./H1_notes.pdf)- [H2 La France et la construction européenne depuis 1950](./H2.pdf)
+ - [Mes notes pour la fiche H2](./H2_notes.pdf)
+- [G1 Transports et mobilités](./G1.pdf)
+ - [Mes notes pour la fiche G1](./G1_notes.pdf)
+- [G2 Espaces urbains : acteurs et enjeux](./G2.pdf)
+ - [Mes notes pour la fiche G2](./G2_notes.pdf)
 - [EMC1 Être citoyen](./EMC - Etre citoyen.pdf)
  - [Mes notes pour la fiche EMC1](./EMC - Etre citoyen_notes.pdf)
 - [EMC2 La protection des libertés : défense et sécurité](./EMC - La protection des libertés - défense et sécurité_document.pdf)
