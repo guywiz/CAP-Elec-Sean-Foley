@@ -19,6 +19,8 @@ Les notes associées aux leçons sont de moi et sont accessibles librement. Merc
 
 [Témoignages sur les épreuves pratiques du CAP Electricien](./Retours_CAP/README.md)
 
+[Epreuves générales du CAP Electricien](./Epreuve_generales_CAP/README.md)
+
 <hr width="75%">
 
 [Index thémathique](./Index.md)
