@@ -16,7 +16,7 @@ Cette perte dépend de la longueur du câble utilisé.
 - Chute de tension entre AGCP (alimentation Enedis) et l'habitation, qui se situe disons 100m plus loin.
 - L'intensité a un impact direct sur la chute de tension, qui lui est proportionnelle ($U = R \cdot I$).
 - La chute de tension dépend de la longueur $L$ du conducteur. *Attention*, en monophasé, on double cette longueur ($= 2L$)  pour tenir compte de la phase ***et*** du neutre.
-- LA section $S$ du câble (en $mm^2$)
+- Ls section $S$ du câble (en $mm^2$)
 - Résistivité du cuivre $\rho_{Cu} = 0.022 \Omega / m / mm^2$ (Ohm par mètre par mm^2), qui dépend donc à la fois de la longueur du conducteur et de sa section.
 - Résistivité de l'aluminium $\rho_{Al} = 0.036 \Omega / m / mm^2$ (Ohm par mètre par mm^2)
 
