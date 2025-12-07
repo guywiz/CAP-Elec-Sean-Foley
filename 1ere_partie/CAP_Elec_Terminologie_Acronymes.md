@@ -22,6 +22,7 @@
 | Spécifications | ERP | Etablissement recevant du public |
 | Spécifications | ERT | Etablissement recevant des travailleurs |
 | Installation électrique | GTL | Gaine technique logement  |
+| Installation électrique | BAU | Bouton d'Arrêt d'Urgence |
 | Installation électrique | CCPI | Coupe-Circuit principal individuel | Regroupe le compteur électrique et l'AGCP |
 | Installation électrique | ETEL | Espace technique électrique du logement |
 | Installation électrique | AGCP | Appareil général de coupure/commande et protection |
