@@ -1,3 +1,9 @@
 *.mp4
 videos/
 *.pages
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.bak
+*.swp

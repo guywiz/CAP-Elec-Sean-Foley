@@ -1,4 +1,4 @@
-# CAP Elec Programme 2ème partie
+# [CAP Elec](../README.md) Programme 2ème partie
 ## Foley Services Elec
 
 ### Rappels (addendum 1ère partie)
@@ -22,12 +22,14 @@
 - [1.51 Dimensionnement tableau 2](https://youtu.be/kSIwx_Da0PM) / [Notes](./CAP_Elec_1_51.md)
 - [1.52 Dimensionnement tableau 3](https://youtu.be/KU_7UYiddlM) / [Notes](./CAP_Elec_1_52.md)
 - [1.53 Dimensionnement tableau 4](https://youtu.be/KVZfmLhppeQ) / [Notes](./CAP_Elec_1_53.md)
+  - [1.53A liaison ID - disjoncteur](https://www.youtube.com/watch?v=297vaAcYE1Y) / [Notes](./CAP_Elec_1_53A.md)
 - [1.53 Bis maj parafoudre](https://youtu.be/N7zTI1mvZ0o) / [Notes](./CAP_Elec_1_53_bis.md)
 - [1.53C maj parafoudre 2024](https://www.youtube.com/watch?v=Gg5PzQFj1DQ) / [Notes](./CAP_Elec_1_53C.md)
 
 **QCM** [1.53 Protection domestique](./QCMs/1_53_QCM.md)
 
 - [1.54 Pouvoir de coupure &amp; courbes](https://youtu.be/eCK39U4HOTg) / [Notes](./CAP_Elec_1_54.md)
+  - [1.54B Icc & Ik1, Ik2, Ik3](https://www.youtube.com/watch?v=iRGH0wjkzs4) / [Notes](./CAP_Elec_1_54B.md)
 - [1.55 Saignées](https://youtu.be/fod4OYvmtuw) / [Notes](./CAP_Elec_1_55.md)
 - [1.56 Rappel chute de tension](https://youtu.be/QUgGy3fLktY) / [Notes](./CAP_Elec_1_56.md)
 - [1.57 Alim bâtiment secondaire](https://youtu.be/kEPQB54pdL4) / [Notes](./CAP_Elec_1_57.md)

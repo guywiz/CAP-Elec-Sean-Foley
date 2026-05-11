@@ -10,6 +10,8 @@ Bon à savoir, [les critères d'évaluation des épreuves (et les coeffficients)
 
 Cette page regroupe des témoignages sur les épreuves par différentes candidats.
 
+- [CAP Elec session 2025 Académie de Poitiers - Une vidéo (de Sean) avec un candidat qui rapporte de son expérience](https://www.youtube.com/watch?v=XUabIAyzhTs)
+
 - [CAP Elec session 2025 Académie de Bordeaux](./Retour_CAP_2025.md)
 - [CAP Elec session 2024 Académie (non connue)](./Retour_CAP_2024d.md)
 - [CAP Elec session 2024 Académie de Toulouse](./Retour_CAP_2024a.md)
@@ -18,11 +20,6 @@ Cette page regroupe des témoignages sur les épreuves par différentes candidat
 
 <hr width="75%">
 
-(A venir)
-
-Sujets pratiques (parfois avec un corrigé) glanés sur le net
-
----
 
 ### Epreuve PSE PRÉVENTION, SANTÉ, ENVIRONNEMENT
 
