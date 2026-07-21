@@ -35,7 +35,7 @@
 
 *... « à double isolation » est un appareil conçu pour ne pas nécessiter l'utilisation d'un conducteur de protection (PE) connecté à la terre. L'exigence de base est que toute défaillance unique ne provoque pas de tensions électriques dangereuses exposées dans les équipements/appareils électriques (qui peuvent provoquer des chocs électriques), sans avoir besoin d'un conducteur (PE) connecté à la terre.*
 
-##### CLasse 3 - T.B.T.S. Très Basse Tension Séparée
+##### Classe 3 - T.B.T.S. Très Basse Tension Séparée
 
 <img src="./images/Symbole_classe_3.png" width="20%">
 
@@ -47,7 +47,7 @@ Bobine tension 240V, induction d'une tension sur une bobine voisine proportionne
 
 ##### Résistance, tension et sécurité
 
-- Résistance moyen d'un être humain est de 5000 $$\Omega$$ (5K$$\Omega$$).
+- Résistance moyen d'un être humain est de 5000 $\Omega$ (5K $\Omega$).
 - Intensité moyenne minimale à laquelle réagit un humain par contraction musculaire involontaire est de 10mA (= 0,01A).
 - Par suite, on voit bien que la tension maximale que peut supporter un être humain est de 50V.
 
