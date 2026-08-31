@@ -6,11 +6,11 @@ Comme je ne suis pas français d'origine, mes diplômes ne sont pas français. I
 
 Je fais ici un retour sur ces épreuves pour ceux qui auraient la malchance comme moi de devoir les passer. heureusement, on est dispensé de l'épreuve d'éducation physique en tant que candidat libre :-)
 
-Bon autant vous dire, je suis prof de maths et d'informatique dans le supérieur, donc aguerri à ce type d'épreuves, et surtout habitué à composer des sujets, je partais donc avec une petite avance, c'ets vrai. Mais je coris que c'est accesisble avec un minimum de préparation. En espérant que ce que je met ici est utile.
+Bon autant vous dire, je suis prof de maths et d'informatique dans le supérieur, donc aguerri à ce type d'épreuves, et surtout habitué à composer des sujets, je partais donc avec une petite avance, c'eqt vrai. Mais je crois que c'est accessible avec un minimum de préparation. En espérant que ce que je mets ici est utile.
 
 ### Epreuve mathématiques-physique-chimie
 
-Il faut savoir raisonner logiquement. Bien sûr, si on n'ets pas torp au courant des notions en chimie ou physique on peut se faire piéger (ça a été mon cas en chimie), ou juste ne pas savoir ce que veut dire un terme dans la question, et là, c'est difficile de bein répondre.
+Il faut savoir raisonner logiquement. Bien sûr, si on n'est pas trop au courant des notions en chimie ou physique on peut se faire piéger (ça a été mon cas en chimie), ou juste ne pas savoir ce que veut dire un terme dans la question, et là, c'est difficile de bien répondre.
 
 - [Sujet de la session de 2022](./2022_CAP_1_Sujet.pdf)
 - [Sujet de la session de 2024](./2024_CAP_MSPC1_Sujet.pdf)
@@ -31,7 +31,7 @@ J'avais réussi à dénicher trois sujets de l'année 2024 (probablement différ
 
 L'oral de français a un thème très large: "*Lire, écrire, dire le métier*". Grosso modo, on s'attend à ce que le candidat puisse présenter son métier et en parler de manière originale, avec quelques idées bien structurées.
 
-Je me suis composé un texte pour guider ma présentation, avec l'idée de citer quelque chgose su côté littéraire ou artistique (ce sont souvent des profs de français qui écoute le candidat, qui n'ont en tous cas rien à voir avec la spécialité du CAP).
+Je me suis composé un texte pour guider ma présentation, avec l'idée de citer quelque choses du côté littéraire ou artistique (ce sont souvent des profs de français qui écoutent le candidat, qui n'ont en tous cas rien à voir avec la spécialité du CAP).
 
 Comme je suis informaticien, j'ai pensé amener la présentation sur un sujet que je connais bien: l'IA.
 
@@ -56,9 +56,9 @@ Les 8 thèmes portent soit sur histoire (H1, H2), géographie (G1, G2) ou enseig
 - EMC3 La Liberté, nos libertés, ma liberté
 - EMC4 La laïcité
 
-Sur chaque thème, il faut trouver un document en rapport avec le thème (une image, un extrait d'une vidéo, un article de journal, une caricature, une peinture, etc.). Et on discute du thème autour du docuemnt: en quoi ce document est-il intéressant au vu du thème, que dit-il, etc.
+Sur chaque thème, il faut trouver un document en rapport avec le thème (une image, un extrait d'une vidéo, un article de journal, une caricature, une peinture, etc.). Et on discute du thème autour du document: en quoi ce document est-il intéressant au vu du thème, que dit-il, etc.
 
-Je vous met ici la liste des documents que j'ai choisie. Pour chacun, je vous met la fiche que j'ai présentée au jury, et ma fiche de notes pour préaprer mon oral (si ce thème devait être choisi).
+Je vous mets ici la liste des documents que j'ai choisis. Pour chacun, je vous mets la fiche que j'ai présentée au jury, et ma fiche de notes pour préparer mon oral (si ce thème devait être choisi).
 
 Par exemple, pour le thème "Etre citoyen", j'avais choisi un article qui discutait de l'intérêt porté par les jeunes pour les élections européennes.
 
