@@ -58,7 +58,7 @@ Il faut s'assurer que les résistances mesurées sont quasi-identiques.
 
 ##### Pourquoi une barette de coupure ?
 
-Pour isoler la mesure qui est faite (de la résitance de la prise de terre) d'autres résistances que pourraient induire des équipements de la maison (typiquement la baignoire en métal, dont les pieds auraient uncontact avec le sol). Idem avec des tuyaux d'alimentation en eau qui pourraient passer par le sol (la dalle).
+Pour isoler la mesure qui est faite (de la résitance de la prise de terre) d'autres résistances que pourraient induire des équipements de la maison (typiquement la baignoire en métal, dont les pieds auraient un contact avec le sol). Idem avec des tuyaux d'alimentation en eau qui pourraient passer par le sol (la dalle).
 
 La baignoire (tuyaux) se retrouveraient alors connectés en parallèle avec le piquet, faussant le résultat et donc la mesure de la résistance de la prise de terre.
 
@@ -84,7 +84,7 @@ On reprend deux autres mesures:
 
 ##### Quel autre situation ?
 
-Petite maison de ville, la cave vient d'être bétonné, pas de jardon. Où peut-on planter le piquet de terre ?
+Petite maison de ville, la cave vient d'être bétonné, pas de jardin. Où peut-on planter le piquet de terre ?
 
 Le piquet de terre peut être cacher dans un placard de la cave. Mais impossible de planter les piquets de référence pour procéder comme expliqué précédemment.
 
@@ -94,7 +94,7 @@ On utilise laors la "mesure par la boucle", à l'aide d'un mesureur de la boucle
 
 On fait l'hypothèse d'une résistance nulle entre l'AGCP et le neutre (basse tension) du fournisseur, et de la liaison à la terre du fournisseur (mise à la terre du neutre). Ainsi, parce que toutes les résistances sont en série, la mesure de la résistance sur ce circuit est égale à la résistance induite du piquet de terre (en réalité, c'est la somme des résistances qui sont rencontrées, mais avec nos hypothèses, on ne retient que la résistance du piquet).
 
-N.B. ***Cette méthode ne fonctionne que s'il n'y a pas de dispositif formant de liaisons équipotentielles principale et/ou secondaire.*** Celles-ci seraient alors considérées comme connectées en parallèle avec le piquet de terre, biaisant alors la méthode exposées précédemment.
+N.B. ***Cette méthode ne fonctionne que s'il n'y a pas de dispositif formant de liaisons équipotentielles principale et/ou secondaire.*** Celles-ci seraient alors considérées comme connectées en parallèle avec le piquet de terre, biaisant alors la méthode exposée précédemment.
 
 <img src="./images/Mesureur_de_terre_probleme.png" width="50%">
 
@@ -106,15 +106,15 @@ Pour isoler les liaisons équipotentielles principale et secondaire, on utilise 
 
 - On utilise une prise dont la terre est "dérivée" et connectée au piquet de terre (en amont de la barrette de coupure).
 - On ouvre la barrette de coupure pour occulter les liaisons équipotentielles principale et/ou secondaire.
-- On retrouve ainsi un circuit à l'image de celui exposé précédemment, comme dan sla situation où il n'y a pas de L.E.P. ou de L.E.S.
+- On retrouve ainsi un circuit à l'image de celui exposé précédemment, comme dans la situation où il n'y a pas de L.E.P. ou de L.E.S.
 
-N.B. Cette méthode peut aussi être utiliser en branchant le câble "magouillé" sur le secteur d'un voisin (si par ailleurs, il n'y a pas d'alimentation dans le domicile où la terre est testée).
+N.B. Cette méthode peut aussi être utilisée en branchant le câble "magouillé" sur le secteur d'un voisin (si par ailleurs, il n'y a pas d'alimentation dans le domicile où la terre est testée).
 
 <img src="./images/Mesureur_prise_terre_chez_le_voisin.png" width="95%">
 
-Il y a un bémol à cette méthode: si on ne fait rien, les équipements de l'habitation ne sont plus reliés à la terre le tmeps de l'intervention (parce que la barrette de coupure est ouverte).
+Il y a un bémol à cette méthode: si on ne fait rien, les équipements de l'habitation ne sont plus reliés à la terre le temps de l'intervention (parce que la barrette de coupure est ouverte).
 
-Il faut donc bien choisir la prise sur laquelle on branchele dispositif "magouillé", et ouvrir tous les circuits (au niveau du tableau) sauf celui qui alimente la prise en question.
+Il faut donc bien choisir la prise sur laquelle on branche le dispositif "magouillé", et ouvrir tous les circuits (au niveau du tableau) sauf celui qui alimente la prise en question.
 
 - On peut, par exemple, utiliser la prise du lave-linge (interrupteur différentiel de type A).
 - On peut aussi utiliser les prises disponibles au niveau du tableau.

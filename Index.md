@@ -5,11 +5,13 @@
 
 | Terme | Leçon(s) |
 |-------|----------|
+| Chauffe-eau | Chauffe-eau [2.25 Chauffe-eau](./3eme_partie/CAP_Elec_2_25.md) |
 | Chauffage | Chauffage plafond [2.26 Chauffage 1](./3eme_partie/CAP_Elec_2_26.md) |
-| Protocole KNX | [2.24 KNX](./3eme_partie/CAP_Elec_2_24.md) |
+| Contacteur heures creuses | Chauffe-eau [2.25 Chauffe-eau](./3eme_partie/CAP_Elec_2_25.md) |
 | Parafoudre | [1.49 Parafoudre domestique](./2eme_partie/CAP_Elec_1_49.md) |
 |            | [1.50 Dimensionnement tableau 1](./2eme_partie/CAP_Elec_1_50.md) |
 | Paratonnerre | [1.49 Parafoudre domestique](./2eme_partie/CAP_Elec_1_49.md) |
+| Protocole KNX | [2.24 KNX](./3eme_partie/CAP_Elec_2_24.md) |
 | Puissance | Puissance apparente [1.48 Facteur de puissance](./2eme_partie/CAP_Elec_1_48.md) |
 | | Puissance active [1.48 Facteur de puissance](./2eme_partie/CAP_Elec_1_48.md), [1.56 Rappel chute de tension](./2eme_partie/CAP_Elec_1_56.md) |
 | | Puissance réactive [1.48 Facteur de puissance](./2eme_partie/CAP_Elec_1_48.md) |
@@ -21,7 +23,7 @@
 |  | Connexion sur le neutre - voir [Notes annexes: télérupteur avec boutons poussoirs connectés au neutre](./1ere_partie/CAP_Elec_1_08_annexe.md)
 | Terre (liaison à la) | [1.34 Réalisation terre](../1ere_partie/CAP_Elec_1_34.md) |
 | Tableau | Hauteur max, min [1.50 Dimensionnement tableau 1](./2eme_partie/CAP_Elec_1_50.md) |
-|  |  |
+
 
 
 

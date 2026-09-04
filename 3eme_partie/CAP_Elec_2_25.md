@@ -25,7 +25,7 @@ L'AGCP est muni de deux bornes C1 et C2 correspondant à un contact qui se ferme
 
 - Le contact C1/C2 doit être protégé par un disjoncteur 2A.
 - Le contacteur est muni de six bornes:
-  - A1, A2 qui correpsondent à la bobine actionnant le contact, et qui doit se fermer lors que le contact C1/C2 lui-même se ferme.
+  - A1, A2 qui correspondent à la bobine actionnant le contact, et qui doit se fermer lors que le contact C1/C2 lui-même se ferme.
   - Deux bornes 1 et 3 où arrivent l'alimention du chauffe,eau, protégé en amont par un dijoncteur 20A
   - Deux bornes 2 et 4 qui amènent l'alimentation vers le chauffe-eau dès que le contact C1/C2 se ferme (et donc lorsque la bobine du contacteur ferme les contacts du contacteur.
 
