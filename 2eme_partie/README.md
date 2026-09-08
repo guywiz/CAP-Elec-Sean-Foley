@@ -67,6 +67,7 @@
 - [1.77 Indus 5 : démarrage étoile / triangle](https://youtu.be/iD2r5pWdcNo)
 - [1.77 Bis  : cosses et embouts](https://youtu.be/4DLiVuQbld0)
 - [1.77C Prise Hypra (industrielles)](https://youtu.be/Jny5fdDGQXg)
+- [1.77F Examen CAP Indus](https://www.youtube.com/watch?v=FPdcjIxr3VM) / [Notes](./CAP_Elec_1_77F.md)
 
 QCM
 
