@@ -22,6 +22,7 @@
 | DI | Déchets inertes | Traitement des déchets, recyclage |
 | DnD | Déchets non dangereux | Traitement des déchets, recyclage |
 | DD | Déchets dangereux | Traitement des déchets, recyclage |
+| DDRHS | Dispositif Différentiel Résiduel à Haute Sensibilité | Installation électrique |
 | DEEE PRO | Déchets d’Équipements Électriques et Électroniques Professionnels | Sécurité |
 | EPI | Equipement de protection individuel | Sécurité |
 | ERP | Etablissement recevant du public | Spécifications |
