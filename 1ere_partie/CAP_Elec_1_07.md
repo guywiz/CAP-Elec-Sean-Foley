@@ -25,13 +25,13 @@ La protection s'appuie sur la réalisation d'un dispositf magnétique:
 
 - Neutre et phases sont enroulés autour d'un anneau (de plastique. Ces petites bobines induisent chacune un champ magnétique.ces champs magnétiques sont de même force, mais opposés, puisque en condition normale les intensité du neutre et de la phase sont identiques.
 
-- L'exmple illustre ce montage, imaginant phase et neutre qui prennent origine depuis le AGCP, et alimentant une lampe, disons.
+- L'exemple illustre ce montage, imaginant phase et neutre qui prennent origine depuis le AGCP, et alimentant une lampe, disons.
 
-![](./images/Interrupteur_differentiel.png)
+<img src="./images/Interrupteur_differentiel.png" width="45%">
 
 - Imaginons une autre bobine, qui est deplus connectée à un dispositif électronique capable d'actionner un petit levier (le picot noir de Sean). Si les intensités différent (lorsque par exemple, il y a une petite fuite sur la terre comme dans l'exemple) alors la différence entre les champs magnétique permet à la troisième bobine d'induire un courant électrique qui va actionner le levier et va ouvrir l'interrupteur différentiel.
 
-![](./images/Interrupteur_differentiel_bis.png)
+<img src="./images/Interrupteur_differentiel_bis.png" width="45%">
 
 - [Cette vidéo reprend l'explication de Sean (le schéma)](https://www.youtube.com/watch?v=kDtADAecaLc&ab_channel=MGElec).
 
@@ -53,26 +53,24 @@ Interrupteur: interrompre le passage du courant normal (interrupteur "ordinaire"
 
 Disjoncteur différentiel: il détecte les trois situations (surcharge, court-circuit et différence d'intensité) et assure la protection dans ces trois situations.
 
-![](./images/Interrupteur_differentiel_ter.jpg)
+<img src="./images/Interrupteur_differentiel_ter.jpg" width="45%">
 
 A noter que son seuil de sensibilité est cependant de 500mA.
 
 L'intensité maximum indiqué sur un ***interrupteur différentiel*** indique ***l'intensité maximum qu'il peut supporter lorsqu'il ouvre le circuit***, sans être abîmer. Il est important de noter qu'il ne détecte pas les situations de surcharge. Si l'intensité maximale indiquée sur l'interrupteur est de 25A, le circuit pourra "tirer" plus de 25A sans provoquer d'ouverture du circuit de sa part, mais il sera afecté par cette surcharge.
 
 Symbole interrupteur
-![Symbole interrupteur](./images/Symbole_interrupteur.jpeg)
+<img src="./images/Symbole_interrupteur.jpeg" width="45%">
 
 Symbole interrupteur différentiel
-![Symbole interrupteur différentiel](./images/Symbole_interrupteur_differentiel.jpeg)
+<img src="./images/Symbole_interrupteur_differentiel.jpeg" width="45%">
 
 #### Installation simple: interrupteur différentiel & disjoncteur 16A
 
-![](./images/Disjoncteur_close_up.png)
+<img src="./images/Disjoncteur_close_up.png" width="45%">
 
-![](./images/Disjoncteur_close_up_bis.jpg)
+<img src="./images/Disjoncteur_close_up_bis.jpg" width="45%">
 
 Les interrupteurs et disjoncteurs donnent de plus des indications sur leur capacité à détecter ou réagir aux surcharges, courts-circuits ou différence d'intensité.
 
-![](./images/Schema_disjoncteur.png)
-
-
+<img src="./images/Schema_disjoncteur.png" width="30%">

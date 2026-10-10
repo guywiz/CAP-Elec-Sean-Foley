@@ -58,7 +58,7 @@ Il faut s'assurer que les résistances mesurées sont quasi-identiques.
 
 ##### Pourquoi une barette de coupure ?
 
-Pour isoler la mesure qui est faite (de la résitance de la prise de terre) d'autres résistances que pourraient induire des équipements de la maison (typiquement la baignoire en métal, dont les pieds auraient un contact avec le sol). Idem avec des tuyaux d'alimentation en eau qui pourraient passer par le sol (la dalle).
+Pour isoler la mesure qui est faite (de la résistance de la prise de terre) d'autres résistances que pourraient induire des équipements de la maison (typiquement la baignoire en métal, dont les pieds auraient un contact avec le sol). Idem avec des tuyaux d'alimentation en eau qui pourraient passer par le sol (la dalle).
 
 La baignoire (tuyaux) se retrouveraient alors connectés en parallèle avec le piquet, faussant le résultat et donc la mesure de la résistance de la prise de terre.
 
