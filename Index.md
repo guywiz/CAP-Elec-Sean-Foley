@@ -5,9 +5,11 @@
 
 | Terme | Leçon(s) |
 |-------|----------|
-| Chauffe-eau | Chauffe-eau [2.25 Chauffe-eau](./3eme_partie/CAP_Elec_2_25.md) |
-| Chauffage | Chauffage plafond [2.26 Chauffage 1](./3eme_partie/CAP_Elec_2_26.md) |
-| Contacteur heures creuses | Chauffe-eau [2.25 Chauffe-eau](./3eme_partie/CAP_Elec_2_25.md) |
+| BAEH (Bloc Autonome Eclairage Habitation) | [1.59 Éclairage de sécurité](./2eme_partie/CAP_Elec_1_59.md) |
+| BAES (Bloc Autonome Eclairage de Sécurité) | [1.59 Éclairage de sécurité](./2eme_partie/CAP_Elec_1_59.md) |
+| Chauffe-eau | [2.25 Chauffe-eau](./3eme_partie/CAP_Elec_2_25.md) |
+| Chauffage | [2.26 Chauffage 1](./3eme_partie/CAP_Elec_2_26.md) (chauffage plafond) |
+| Contacteur heures creuses | [2.25 Chauffe-eau](./3eme_partie/CAP_Elec_2_25.md) |
 | Parafoudre | [1.49 Parafoudre domestique](./2eme_partie/CAP_Elec_1_49.md) |
 |            | [1.50 Dimensionnement tableau 1](./2eme_partie/CAP_Elec_1_50.md) |
 | Paratonnerre | [1.49 Parafoudre domestique](./2eme_partie/CAP_Elec_1_49.md) |

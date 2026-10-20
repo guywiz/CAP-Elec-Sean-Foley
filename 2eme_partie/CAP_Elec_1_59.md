@@ -8,8 +8,8 @@
 #### BAEH Bloc Autonome Eclairage Habitation
   - Imposé dans les habitations (résidence) ayant un certain nombre d'étages
   - Ces équipements sont de classe II (mais on y amène la terre quand même qu'on laisse en attente)
-- Le dispositif comprend une (des) batterie(s) rechargeables, et un dispositif de surveilance de l'alimentation 230V
-  - Dès lors que le BAEH n'est plus almenté, les ampoules du dispositif s'allument pour éclairer à minima
+- Le dispositif comprend une (des) batterie(s) rechargeables, et un dispositif de surveillance de l'alimentation 230V
+  - Dès lors que le BAEH n'est plus alimenté, les ampoules du dispositif s'allument pour éclairer à minima
   - La norme impose que l'éclairage doit pouvoir tenir au ***minimum 5 heures***
 - Le dispositif doit être alimenté en aval de la commande (mais en amont du disjoncteur du circuit pour lequel agit le BAEH) - voir Promotelec page 137 (édition 2022)
 
@@ -48,7 +48,7 @@ Le bloc secours anti-panique présente un éclairage (pas seulement un balisage)
 #### Technologies
 
 - **Bloc bête**, son dispositif surveille l'alimentation 230V
-  - Seul moyen de tester le dispositif, couper el disjoncteur d'alimentation, constater que l'éclairage de secours se met en marche
+  - Seul moyen de tester le dispositif, couper le disjoncteur d'alimentation, constater que l'éclairage de secours se met en marche
 - **Bloc BAES SATI de base** (Système Automatique de Test Intégré)
 - **Bloc BAES SATI** ***adressable***
   - On attribue une adresse unique au bloc, qui envoie l'information suite à chacun de ses auto-tests
@@ -61,7 +61,7 @@ Le bloc secours anti-panique présente un éclairage (pas seulement un balisage)
 Scénario "petit papi"
 
 - Scénario de changement d'ampoules dans une salle (des fêtes)
-- Le(s) circuit(s) d'éclairage ets mis hors tension avant de changer l'ensemble des ampoules
+- Le(s) circuit(s) d'éclairage est mis hors tension avant de changer l'ensemble des ampoules
   - Les blocs BAES se mettent en marche
   - L'intervetion dure plus que la durée pendant laquelle les blocs doivent restés allumés
   - Fin de l'intervention, les blocs se remettent en charge
